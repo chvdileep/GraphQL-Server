@@ -1,0 +1,8 @@
+{"name":"Fan Analytics","hostname":"ip-172-31-31-177","pid":1727,"level":30,"msg":" 2018-12-11T00:44:21.276Z, e75ea0ee-9aa9-d546-68ae-3bd98e949294, false ","time":"2018-12-11T00:44:21.318Z","v":0}
+{"name":"Fan Analytics","hostname":"ip-172-31-31-177","pid":1727,"level":30,"msg":" 2018-12-11T00:45:05.132Z, e75ea0ee-9aa9-d546-68ae-3bd98e949294, false ","time":"2018-12-11T00:45:05.159Z","v":0}
+{"name":"Fan Analytics","hostname":"ip-172-31-31-177","pid":1727,"level":30,"msg":" 2018-12-11T00:45:17.502Z, e75ea0ee-9aa9-d546-68ae-3bd98e949294, false ","time":"2018-12-11T00:45:17.544Z","v":0}
+{"name":"Fan Analytics","hostname":"ip-172-31-31-177","pid":1727,"level":30,"msg":" 2018-12-11T00:45:55.379Z, e75ea0ee-9aa9-d546-68ae-3bd98e949294, false ","time":"2018-12-11T00:45:55.395Z","v":0}
+{"name":"Fan Analytics","hostname":"ip-172-31-31-177","pid":1727,"level":30,"msg":" 2018-12-11T01:04:03.099Z, 8f4a00c7-87c8-b92b-23a2-cf94a1319745, false ","time":"2018-12-11T01:04:03.159Z","v":0}
+{"name":"Fan Analytics","hostname":"ip-172-31-31-177","pid":1727,"level":30,"msg":" 2018-12-11T01:07:00.855Z, 8f4a00c7-87c8-b92b-23a2-cf94a1319745, false ","time":"2018-12-11T01:07:00.957Z","v":0}
+{"name":"Fan Analytics","hostname":"ip-172-31-31-177","pid":1727,"level":30,"msg":" 2018-12-11T01:08:12.240Z, e75ea0ee-9aa9-d546-68ae-3bd98e949294, false ","time":"2018-12-11T01:08:12.252Z","v":0}
+{"name":"Fan Analytics","hostname":"ip-172-31-31-177","pid":1727,"level":30,"msg":" 2018-12-11T01:13:13.501Z, 8f4a00c7-87c8-b92b-23a2-cf94a1319745, false ","time":"2018-12-11T01:13:13.582Z","v":0}

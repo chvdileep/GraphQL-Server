@@ -1,0 +1,3182 @@
+{
+  "Sponsors": [
+    {
+      "sponsorNumber": "1",
+      "image": {
+        "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/images/BAsponsor.png"
+      }
+    },
+    {
+      "sponsorNumber": "2",
+      "image": {
+        "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/500px-NEC_logo.svg.png"
+      }
+    }
+  ],
+  "trendingEntries": {
+    "ENTRIES1": [
+      {
+        "title": "MEDIHEAL Fan Experience Booth",
+        "subtitle": "Every day between 9:30 am and 4:30 pm.",
+        "illustration": "https://medihealchamp.com/wp-content/uploads/2018/09/gab_5724.jpg",
+        "weblink": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/MEDIHEAL-2019/booth.pdf"
+      },
+      {
+        "title": "Military and Veterans receive free admission with a valid ID at the Tournament box office",
+        "subtitle": "Valid Wednesday, May 1 to Sunday, May 5",
+        "illustration": "https://medihealchamp.com/wp-content/uploads/2018/09/gab_7232.jpg",
+        "weblink": "https://medihealchamp.com/spectator-information/"
+      },
+      {
+        "title": " Kids 17 and under receive free admission with a ticketed adult",
+        "subtitle": "Valid Wednesday, May 1 to Sunday, May 5",
+        "illustration": "https://medihealchamp.com/wp-content/uploads/2018/12/gab_5791.jpg",
+        "weblink": "https://medihealchamp.com/spectator-information/"
+      },
+      {
+        "title": "Tournament Pairings",
+        "subtitle": "View the tournament pairings",
+        "illustration": "http://www.lpgafounderscup.com/-/media/images/lpga/tournaments/lpga-founders-cup/2019/preview/foundersfeaturedgroups.jpg?h=1125&la=en&w=2000&hash=9FB9FE847A69B6D18CB9429BB8A905B2D3F5EAB0",
+        "weblink": "https://medihealchamp.com/wp-content/uploads/2019/04/2019-lpga-mediheal-championship-local-qualifying-tournament-groupings-and-times.pdf"
+      },
+      {
+        "title": "LPGA-USGA Girls Golf of Studio City, CA",
+        "subtitle": "Weddington Golf 4141 Whitsett Ave. Studio City, CA 91604 (818) 761-3250",
+        "illustration": "https://www.girlsgolf.org/image/0---new-site-images/news/Find-a-Site.jpg",
+        "weblink": "https://www.girlsgolf.org/find"
+      },
+      {
+        "title": "Aon Risk Reward Challenge",
+        "subtitle": "Season-long Aon Risk Reward Challenge will highlight the world’s best professional golfers",
+        "illustration": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/aon.jpg",
+        "weblink": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/Aon.pdf"
+      }
+    ],
+
+
+    "tvTimes": [
+      {
+        "image": {
+          "uri": "http://www.lpga.com/-/media/images/lpga/tv-network-logos/golf-channel.png?h=50&la=en&w=50&hash=E978E602DAD7DF9D1EFE17403D32B4165BD21C58"
+        },
+        "tvTimeEntries": [
+          {
+          "time": "MAY 02 6:00 - 9:00 P.M."
+          },
+          {
+          "time": "MAY 03 6:00 - 9:00 P.M."
+          },
+          {
+          "time": "MAY 04 6:00 - 9:00 P.M."
+          },
+          {
+          "time": "MAY 05 6:00 - 9:00 P.M."
+          }
+        ]
+      }
+    ]
+  },
+  
+  "Amenities": {
+    "Features": [
+      {
+        "properties":
+          {
+            "photo": "Concessions",
+            "profilePhoto": "Concessions",
+            "position": {"latitude":37.695532, "longitude":  -122.478069 },
+            "Menu": {
+              "name": "Generic Consession 1",
+              "description": "Concession stand selling food and beverage",
+              "type": "Concession Stand",
+              "filter": "food",
+              "items": [
+                
+              ]
+            }
+  
+  
+          }
+      },
+      {
+        "properties":
+        {
+          "photo": "Concessions",
+          "profilePhoto": "Concessions",
+            "position": { "latitude": 37.697859,  "longitude": -122.476077 },
+            "Menu": {
+              "name": "Generic Consession 2",
+              "description": "Concession stand selling food and beverage",
+              "type": "Concession Stand",
+              "filter": "food",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Concessions",
+          "profilePhoto": "Concessions",
+            "position": { "latitude": 37.701062,  "longitude": -122.476997 },
+            "Menu": {
+              "name": "Generic Concession 3",
+              "description": "Concession stand selling food and beverage",
+              "type": "Concession Stand",
+              "filter": "food",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Concessions",
+          "profilePhoto": "Concessions",
+            "position": { "latitude": 37.696494,  "longitude": -122.472165 },
+            "Menu": {
+              "name": "19th Hole Concession",
+              "description": "",
+              "type": "Special",
+              "filter": "food",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Merchandise",
+          "profilePhoto": "Merchandise",
+            "position": { "latitude": 37.696138,  "longitude": -122.472576 },
+            "Menu": {
+              "name": "Tournament HQ",
+              "description": "The tournament HQ is located here",
+              "type": "Other",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Restroom",
+          "profilePhoto": "Restroom",
+            "position": { "latitude": 37.695637,  "longitude": -122.478471 },
+            "Menu": {
+              "name": "Restroom 1",
+              "description": "A course restroom is located here",
+              "type": "Restroom",
+              "filter": "restroom",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Restroom",
+          "profilePhoto": "Restroom",
+            "position": { "latitude": 37.696461,  "longitude": -122.477306 },
+            "Menu": {
+              "name": "Restroom 2",
+              "description": "A course restroom is located here",
+              "type": "Restroom",
+              "filter": "restroom",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Restroom",
+          "profilePhoto": "Restroom",
+            "position": { "latitude": 37.696860,  "longitude": -122.473483 },
+            "Menu": {
+              "name": "Restroom 3",
+              "description": "A course restroom is located here",
+              "type": "Restroom",
+              "filter": "restroom",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Restroom",
+          "profilePhoto": "Restroom",
+            "position": { "latitude": 37.698046,  "longitude": -122.476356 },
+            "Menu": {
+              "name": "Restroom 4",
+              "description": "A course restroom is located here",
+              "type": "Restroom",
+              "filter": "restroom",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Restroom",
+          "profilePhoto": "Restroom",
+            "position": { "latitude": 37.701345,  "longitude": -122.477086 },
+            "Menu": {
+              "name": "Restroom 5",
+              "description": "A course restroom is located here",
+              "type": "Restroom",
+              "filter": "restroom",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Restroom",
+          "profilePhoto": "Restroom",
+            "position": { "latitude": 37.701655,  "longitude": -122.472619 },
+            "Menu": {
+              "name": "Restroom 6",
+              "description": "A course restroom is located here",
+              "type": "Restroom",
+              "filter": "restroom",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 37.695864,  "longitude":  -122.472179 },
+            "Menu": {
+              "name": "Tournament Office",
+              "description": "",
+              "type": "Other",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 37.696181,  "longitude":  -122.472072  },
+            "Menu": {
+              "name": "Clubhouse",
+              "description": "The tournament clubhouse is located here",
+              "type": "Viewing Area",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 37.696429,  "longitude":  -122.472459 },
+            "Menu": {
+              "name": "Mediheal Activation",
+              "description": "",
+              "type": "Special",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 37.695358,  "longitude":  -122.471578 },
+            "Menu": {
+              "name": "Volunteer Station",
+              "description": "",
+              "type": "Special",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Medical",
+          "profilePhoto": "Medial",
+            "position": { "latitude": 37.696917,  "longitude": -122.473645 },
+            "Menu": {
+              "name": "Medical Station",
+              "description": "A medical station is located here",
+              "type": "Medical",
+              "filter": "medical",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Entrance",
+          "profilePhoto": "Entrance",
+            "position": { "latitude": 37.695825,  "longitude": -122.471632 },
+            "Menu": {
+              "name": "Admissions/Will Call",
+              "description": "Tournament entrance is located here",
+              "type": "Other",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Range",
+          "profilePhoto": "Range",
+            "position": { "latitude": 37.695832,  "longitude": -122.472856 },
+            "Menu": {
+              "name": "Putting Green",
+              "description": "The course putting green is located here",
+              "type": "Other",
+              "filter": "special",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Range",
+          "profilePhoto": "Range",
+            "position": { "latitude": 37.696013,  "longitude": -122.474382 },
+            "Menu": {
+              "name": "Driving Range",
+              "description": "The course driving range is located here",
+              "type": "Other",
+              "filter": "special",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Range",
+          "profilePhoto": "Range",
+            "position": { "latitude": 37.700184,  "longitude": -122.475433 },
+            "Menu": {
+              "name": "Aon Risk Reward",
+              "description": "Aon Risk Reward course selection",
+              "type": "Other",
+              "filter": "special",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      }
+      
+    ]
+  },
+  "courseConfig": {
+    "Features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 37.695120750932055,
+            "longitude": -122.47348522222899
+          },
+          "FlagLocation": {
+            "latitude": 37.69550068889777,
+            "longitude": -122.47667165299595
+          },
+          "FairwayLocation": {
+            "latitude": 37.69533587502978,
+            "longitude": -122.47504086991489
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 37.69524081001817,
+              "longitude": -122.47359787500761
+            },
+            {
+              "latitude": 37.695252815916064,
+              "longitude": -122.47337256945036
+            },
+            {
+              "latitude": 37.695110833582085,
+              "longitude": -122.4734744598502
+            },
+            {
+              "latitude": 37.695120750932055,
+              "longitude": -122.47345522222899
+            },
+            {
+              "latitude": 37.69509075093205,
+              "longitude": -122.47351522222898
+            },
+            {
+              "latitude": 37.69509075093205,
+              "longitude": -122.47345522222899
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 37.69537189267152,
+              "longitude": -122.4751320650214
+            },
+            {
+              "latitude": 37.695347880912294,
+              "longitude": -122.47494967480839
+            },
+            {
+              "latitude": 37.695236559577516,
+              "longitude": -122.47504623433292
+            },
+            {
+              "latitude": 37.69533587502978,
+              "longitude": -122.4750108699149
+            },
+            {
+              "latitude": 37.695305875029774,
+              "longitude": -122.47507086991489
+            },
+            {
+              "latitude": 37.695305875029774,
+              "longitude": -122.4750108699149
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 37.69554270938471,
+              "longitude": -122.47677357693851
+            },
+            {
+              "latitude": 37.69555471523375,
+              "longitude": -122.47658045788944
+            },
+            {
+              "latitude": 37.69541064491704,
+              "longitude": -122.47667701741398
+            },
+            {
+              "latitude": 37.69550068889777,
+              "longitude": -122.47664165299595
+            },
+            {
+              "latitude": 37.69547068889777,
+              "longitude": -122.47670165299594
+            },
+            {
+              "latitude": 37.69547068889777,
+              "longitude": -122.47664165299595
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 1,
+          "Par": 4,
+          "Yards": 434,
+          "holeArt": {
+            "uri": "https://www.lmgc.org/images/dynamic/getImage.gif?ID=100314"
+          },
+          "description": "This is one heck of a wake up call. Long and difficult, the first hole will force you to earn a par. The hole bends slightly left and the green is well protected by a single bunker on the left side. On a clear day, you can see the Marin Headlands through the pine trees on the right side of the fairway as you approach the green.",
+          "image": "Hole0.png",
+          "page": "Hole0.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 37.69533587502978,
+            "longitude": -122.47504086991489
+          },
+          {
+            "latitude": 37.69536587502978,
+            "longitude": -122.4750108699149
+          },
+          {
+            "latitude": 37.69536587502978,
+            "longitude": -122.47507086991489
+          },
+          {
+            "latitude": 37.69533587502978,
+            "longitude": -122.47507086991489
+          },
+          {
+            "latitude": 37.69533587502978,
+            "longitude": -122.4750108699149
+          },
+          {
+            "latitude": 37.695305875029774,
+            "longitude": -122.47507086991489
+          },
+          {
+            "latitude": 37.695305875029774,
+            "longitude": -122.4750108699149
+          },
+          {
+            "latitude": 37.695305875029774,
+            "longitude": -122.47504086991489
+          },
+          {
+            "latitude": 37.69536587502978,
+            "longitude": -122.47504086991489
+          },
+          {
+            "latitude": 37.69532687502978,
+            "longitude": -122.47503186991489
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 37.69495442040062,
+            "longitude": -122.47563994149448
+          },
+          "FlagLocation": {
+            "latitude": 37.69552668980167,
+            "longitude": -122.4792448304105
+          },
+          "FairwayLocation": {
+            "latitude": 37.69529658905111,
+            "longitude": -122.4779305479932
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 37.69499043822765,
+              "longitude": -122.47573113660098
+            },
+            {
+              "latitude": 37.69499644119711,
+              "longitude": -122.47555947522403
+            },
+            {
+              "latitude": 37.694858372776295,
+              "longitude": -122.47563457707645
+            },
+            {
+              "latitude": 37.69495442040062,
+              "longitude": -122.47560994149448
+            },
+            {
+              "latitude": 37.69492442040062,
+              "longitude": -122.47566994149447
+            },
+            {
+              "latitude": 37.69492442040062,
+              "longitude": -122.47560994149448
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 37.695344612594994,
+              "longitude": -122.4780217430997
+            },
+            {
+              "latitude": 37.695344612594994,
+              "longitude": -122.47785544614078
+            },
+            {
+              "latitude": 37.69519453891708,
+              "longitude": -122.4779305479932
+            },
+            {
+              "latitude": 37.69529658905111,
+              "longitude": -122.4779005479932
+            },
+            {
+              "latitude": 37.69526658905111,
+              "longitude": -122.47796054799319
+            },
+            {
+              "latitude": 37.69526658905111,
+              "longitude": -122.4779005479932
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 37.69554469857839,
+              "longitude": -122.47933066109897
+            },
+            {
+              "latitude": 37.69559272196159,
+              "longitude": -122.4791750929761
+            },
+            {
+              "latitude": 37.69545465465106,
+              "longitude": -122.47923946599246
+            },
+            {
+              "latitude": 37.69552668980167,
+              "longitude": -122.4792148304105
+            },
+            {
+              "latitude": 37.695496689801665,
+              "longitude": -122.47927483041049
+            },
+            {
+              "latitude": 37.695496689801665,
+              "longitude": -122.4792148304105
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 2,
+          "Par": 4,
+          "Yards": 419,
+          "holeArt": {
+            "uri": "https://www.lmgc.org/images/dynamic/getImage.gif?ID=100315"
+          },
+          "description": "A dogleg right of modest length. Three fairway bunkers stand watch on the left side at the corner of the dogleg. The green can be treacherous, especially with a back left hole location. There is a significant hump in the middle of the green, separating left from right. Don't get distracted by the view of Lake Merced in the background. Pay attention to yardage as the downhill second shot tends to play a bit shorter than the distance indicates.",
+          "image": "Hole1.png",
+          "page": "Hole1.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 37.69529658905111,
+            "longitude": -122.4779305479932
+          },
+          {
+            "latitude": 37.69532658905111,
+            "longitude": -122.4779005479932
+          },
+          {
+            "latitude": 37.69532658905111,
+            "longitude": -122.47796054799319
+          },
+          {
+            "latitude": 37.69529658905111,
+            "longitude": -122.47796054799319
+          },
+          {
+            "latitude": 37.69529658905111,
+            "longitude": -122.4779005479932
+          },
+          {
+            "latitude": 37.69526658905111,
+            "longitude": -122.47796054799319
+          },
+          {
+            "latitude": 37.69526658905111,
+            "longitude": -122.4779005479932
+          },
+          {
+            "latitude": 37.69526658905111,
+            "longitude": -122.4779305479932
+          },
+          {
+            "latitude": 37.69532658905111,
+            "longitude": -122.4779305479932
+          },
+          {
+            "latitude": 37.69528758905111,
+            "longitude": -122.47792154799319
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 37.696026761692984,
+            "longitude": -122.4794272206235
+          },
+          "FlagLocation": {
+            "latitude": 37.69737069126468,
+            "longitude": -122.47911299151883
+          },
+          "FairwayLocation": {
+            "latitude": 37.696632587721176,
+            "longitude": -122.47926333922248
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 37.696020758806974,
+              "longitude": -122.47951305131198
+            },
+            {
+              "latitude": 37.69613481355889,
+              "longitude": -122.47937894086124
+            },
+            {
+              "latitude": 37.695972735701,
+              "longitude": -122.47934138993503
+            },
+            {
+              "latitude": 37.696026761692984,
+              "longitude": -122.47939722062351
+            },
+            {
+              "latitude": 37.69599676169298,
+              "longitude": -122.4794572206235
+            },
+            {
+              "latitude": 37.69599676169298,
+              "longitude": -122.47939722062351
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 37.696686613232366,
+              "longitude": -122.47937599200111
+            },
+            {
+              "latitude": 37.69671062455804,
+              "longitude": -122.47917750853401
+            },
+            {
+              "latitude": 37.69655455080221,
+              "longitude": -122.47926870364051
+            },
+            {
+              "latitude": 37.696632587721176,
+              "longitude": -122.47923333922249
+            },
+            {
+              "latitude": 37.69660258772117,
+              "longitude": -122.47929333922248
+            },
+            {
+              "latitude": 37.69660258772117,
+              "longitude": -122.47923333922249
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 37.69739470236878,
+              "longitude": -122.47918272895322
+            },
+            {
+              "latitude": 37.6974007051436,
+              "longitude": -122.4790164319943
+            },
+            {
+              "latitude": 37.69728064955496,
+              "longitude": -122.4791076271008
+            },
+            {
+              "latitude": 37.69737069126468,
+              "longitude": -122.47908299151884
+            },
+            {
+              "latitude": 37.69734069126468,
+              "longitude": -122.47914299151883
+            },
+            {
+              "latitude": 37.69734069126468,
+              "longitude": -122.47908299151884
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 3,
+          "Par": 3,
+          "Yards": 183,
+          "holeArt": {
+            "uri": "https://www.lmgc.org/images/dynamic/getImage.gif?ID=100316"
+          },
+          "description": "A downhill par three to a circular green with five different levels. Bunkers protect the green left and right. The hole does not play as long as it looks.",
+          "image": "Hole2.png",
+          "page": "Hole2.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 37.696632587721176,
+            "longitude": -122.47926333922248
+          },
+          {
+            "latitude": 37.69666258772118,
+            "longitude": -122.47923333922249
+          },
+          {
+            "latitude": 37.69666258772118,
+            "longitude": -122.47929333922248
+          },
+          {
+            "latitude": 37.696632587721176,
+            "longitude": -122.47929333922248
+          },
+          {
+            "latitude": 37.696632587721176,
+            "longitude": -122.47923333922249
+          },
+          {
+            "latitude": 37.69660258772117,
+            "longitude": -122.47929333922248
+          },
+          {
+            "latitude": 37.69660258772117,
+            "longitude": -122.47923333922249
+          },
+          {
+            "latitude": 37.69660258772117,
+            "longitude": -122.47926333922248
+          },
+          {
+            "latitude": 37.69666258772118,
+            "longitude": -122.47926333922248
+          },
+          {
+            "latitude": 37.69662358772118,
+            "longitude": -122.47925433922248
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 37.69801628176105,
+            "longitude": -122.47916538558684
+          },
+          "FlagLocation": {
+            "latitude": 37.70018642041876,
+            "longitude": -122.47800402636238
+          },
+          "FairwayLocation": {
+            "latitude": 37.69917198269461,
+            "longitude": -122.47862629885384
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 37.69795625448947,
+              "longitude": -122.47927803836546
+            },
+            {
+              "latitude": 37.69790222990346,
+              "longitude": -122.4791224702426
+            },
+            {
+              "latitude": 37.69811654875601,
+              "longitude": -122.4791412829847
+            },
+            {
+              "latitude": 37.69801628176105,
+              "longitude": -122.47913538558684
+            },
+            {
+              "latitude": 37.69798628176105,
+              "longitude": -122.47919538558683
+            },
+            {
+              "latitude": 37.69798628176105,
+              "longitude": -122.47913538558684
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 37.69919599321531,
+              "longitude": -122.47872285837838
+            },
+            {
+              "latitude": 37.69928002997663,
+              "longitude": -122.47853510374733
+            },
+            {
+              "latitude": 37.69909995108574,
+              "longitude": -122.47856729025551
+            },
+            {
+              "latitude": 37.69917198269461,
+              "longitude": -122.47859629885384
+            },
+            {
+              "latitude": 37.699141982694606,
+              "longitude": -122.47865629885383
+            },
+            {
+              "latitude": 37.699141982694606,
+              "longitude": -122.47859629885384
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 37.700168412769536,
+              "longitude": -122.47810058588692
+            },
+            {
+              "latitude": 37.70025244842849,
+              "longitude": -122.47792356009194
+            },
+            {
+              "latitude": 37.70012039235021,
+              "longitude": -122.47793965334603
+            },
+            {
+              "latitude": 37.70018642041876,
+              "longitude": -122.47797402636239
+            },
+            {
+              "latitude": 37.70015642041876,
+              "longitude": -122.47803402636238
+            },
+            {
+              "latitude": 37.70015642041876,
+              "longitude": -122.47797402636239
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 4,
+          "Par": 4,
+          "Yards": 447,
+          "holeArt": {
+            "uri": "https://www.lmgc.org/images/dynamic/getImage.gif?ID=100332"
+          },
+          "description": "Members consider this the hardest hole on the course. It isn't called Expedition for nothing! The tee shot is uphill and semi blind and there is a fairway bunker about 220 yards out on the right that you cannot see from the tee. The second shot is uphill to a severely sloping green that is guarded by a deep bunker in front.",
+          "image": "Hole3.png",
+          "page": "Hole3.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 37.69917198269461,
+            "longitude": -122.47862629885384
+          },
+          {
+            "latitude": 37.69920198269461,
+            "longitude": -122.47859629885384
+          },
+          {
+            "latitude": 37.69920198269461,
+            "longitude": -122.47865629885383
+          },
+          {
+            "latitude": 37.69917198269461,
+            "longitude": -122.47865629885383
+          },
+          {
+            "latitude": 37.69917198269461,
+            "longitude": -122.47859629885384
+          },
+          {
+            "latitude": 37.699141982694606,
+            "longitude": -122.47865629885383
+          },
+          {
+            "latitude": 37.699141982694606,
+            "longitude": -122.47859629885384
+          },
+          {
+            "latitude": 37.699141982694606,
+            "longitude": -122.47862629885384
+          },
+          {
+            "latitude": 37.69920198269461,
+            "longitude": -122.47862629885384
+          },
+          {
+            "latitude": 37.69916298269461,
+            "longitude": -122.47861729885383
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 37.69967040214688,
+            "longitude": -122.47750489276098
+          },
+          "FlagLocation": {
+            "latitude": 37.69725614045712,
+            "longitude": -122.47375279102073
+          },
+          "FairwayLocation": {
+            "latitude": 37.698420671848524,
+            "longitude": -122.47595220241294
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 37.6997184228577,
+              "longitude": -122.4776175455396
+            },
+            {
+              "latitude": 37.699652394372265,
+              "longitude": -122.47744588416265
+            },
+            {
+              "latitude": 37.69949632680941,
+              "longitude": -122.47734396022008
+            },
+            {
+              "latitude": 37.69967040214688,
+              "longitude": -122.47747489276098
+            },
+            {
+              "latitude": 37.699640402146876,
+              "longitude": -122.47753489276097
+            },
+            {
+              "latitude": 37.699640402146876,
+              "longitude": -122.47747489276098
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 37.698432677231544,
+              "longitude": -122.4760702196096
+            },
+            {
+              "latitude": 37.69846269068052,
+              "longitude": -122.47587710056052
+            },
+            {
+              "latitude": 37.69830061791159,
+              "longitude": -122.47592538032279
+            },
+            {
+              "latitude": 37.698420671848524,
+              "longitude": -122.47592220241295
+            },
+            {
+              "latitude": 37.69839067184852,
+              "longitude": -122.47598220241294
+            },
+            {
+              "latitude": 37.69839067184852,
+              "longitude": -122.47592220241295
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 37.6972501376706,
+              "longitude": -122.4738386217092
+            },
+            {
+              "latitude": 37.697154093020195,
+              "longitude": -122.47370987567649
+            },
+            {
+              "latitude": 37.69732217107676,
+              "longitude": -122.47367768916831
+            },
+            {
+              "latitude": 37.69725614045712,
+              "longitude": -122.47372279102073
+            },
+            {
+              "latitude": 37.69722614045712,
+              "longitude": -122.47378279102072
+            },
+            {
+              "latitude": 37.69722614045712,
+              "longitude": -122.47372279102073
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 5,
+          "Par": 4,
+          "Yards": 420,
+          "holeArt": {
+            "uri": "https://www.lmgc.org/images/dynamic/getImage.gif?ID=100318"
+          },
+          "description": "A terrific driving hole. The tee shot on this dogleg left is downhill and there are two fairway bunkers on the right side. The green is well protected by bunkers left and right and a slope that falls off to the rear. ",
+          "image": "Hole4.png",
+          "page": "Hole4.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 37.698420671848524,
+            "longitude": -122.47595220241294
+          },
+          {
+            "latitude": 37.698450671848526,
+            "longitude": -122.47592220241295
+          },
+          {
+            "latitude": 37.698450671848526,
+            "longitude": -122.47598220241294
+          },
+          {
+            "latitude": 37.698420671848524,
+            "longitude": -122.47598220241294
+          },
+          {
+            "latitude": 37.698420671848524,
+            "longitude": -122.47592220241295
+          },
+          {
+            "latitude": 37.69839067184852,
+            "longitude": -122.47598220241294
+          },
+          {
+            "latitude": 37.69839067184852,
+            "longitude": -122.47592220241295
+          },
+          {
+            "latitude": 37.69839067184852,
+            "longitude": -122.47595220241294
+          },
+          {
+            "latitude": 37.698450671848526,
+            "longitude": -122.47595220241294
+          },
+          {
+            "latitude": 37.698411671848525,
+            "longitude": -122.47594320241294
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 37.696901975220946,
+            "longitude": -122.4741068426107
+          },
+          "FlagLocation": {
+            "latitude": 37.69703110483784,
+            "longitude": -122.47610214276358
+          },
+          "FairwayLocation": {
+            "latitude": 37.69705804824542,
+            "longitude": -122.47528701457725
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 37.696962003346165,
+              "longitude": -122.47420340213523
+            },
+            {
+              "latitude": 37.696931989289624,
+              "longitude": -122.4739995542501
+            },
+            {
+              "latitude": 37.69680593011954,
+              "longitude": -122.4741068426107
+            },
+            {
+              "latitude": 37.696901975220946,
+              "longitude": -122.4740768426107
+            },
+            {
+              "latitude": 37.696871975220944,
+              "longitude": -122.47413684261069
+            },
+            {
+              "latitude": 37.696871975220944,
+              "longitude": -122.4740768426107
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 37.697106070648395,
+              "longitude": -122.47539430293784
+            },
+            {
+              "latitude": 37.697106070648395,
+              "longitude": -122.47521191272483
+            },
+            {
+              "latitude": 37.696962003346144,
+              "longitude": -122.47530284447714
+            },
+            {
+              "latitude": 37.69705804824542,
+              "longitude": -122.47525701457725
+            },
+            {
+              "latitude": 37.697028048245414,
+              "longitude": -122.47531701457724
+            },
+            {
+              "latitude": 37.697028048245414,
+              "longitude": -122.47525701457725
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 37.69704911324915,
+              "longitude": -122.47619870228812
+            },
+            {
+              "latitude": 37.69708513005863,
+              "longitude": -122.47602167649313
+            },
+            {
+              "latitude": 37.69694821114607,
+              "longitude": -122.47608604950949
+            },
+            {
+              "latitude": 37.69703110483784,
+              "longitude": -122.47607214276358
+            },
+            {
+              "latitude": 37.69700110483784,
+              "longitude": -122.47613214276357
+            },
+            {
+              "latitude": 37.69700110483784,
+              "longitude": -122.47607214276358
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 6,
+          "Par": 5,
+          "Yards": 500,
+          "holeArt": {
+            "uri": "https://www.lmgc.org/images/dynamic/getImage.gif?ID=100319"
+          },
+          "description": "This is a fairly docile par five. The hole is straightaway, with two fairway bunkers on the left side of the landing area. The green is well protected by five bunkers, and it can be very tricky. ",
+          "image": "Hole5.png",
+          "page": "Hole5.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 37.69705804824542,
+            "longitude": -122.47528701457725
+          },
+          {
+            "latitude": 37.69708804824542,
+            "longitude": -122.47525701457725
+          },
+          {
+            "latitude": 37.69708804824542,
+            "longitude": -122.47531701457724
+          },
+          {
+            "latitude": 37.69705804824542,
+            "longitude": -122.47531701457724
+          },
+          {
+            "latitude": 37.69705804824542,
+            "longitude": -122.47525701457725
+          },
+          {
+            "latitude": 37.697028048245414,
+            "longitude": -122.47531701457724
+          },
+          {
+            "latitude": 37.697028048245414,
+            "longitude": -122.47525701457725
+          },
+          {
+            "latitude": 37.697028048245414,
+            "longitude": -122.47528701457725
+          },
+          {
+            "latitude": 37.69708804824542,
+            "longitude": -122.47528701457725
+          },
+          {
+            "latitude": 37.69704904824542,
+            "longitude": -122.47527801457724
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 37.6969482111461,
+            "longitude": -122.47675660176321
+          },
+          "FlagLocation": {
+            "latitude": 37.699362290599154,
+            "longitude": -122.47779695574565
+          },
+          "FairwayLocation": {
+            "latitude": 37.6980777197007,
+            "longitude": -122.47722296301646
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 37.69700223642727,
+              "longitude": -122.47684779686972
+            },
+            {
+              "latitude": 37.697026247650726,
+              "longitude": -122.47669222874686
+            },
+            {
+              "latitude": 37.6968384411746,
+              "longitude": -122.47673821697873
+            },
+            {
+              "latitude": 37.6969482111461,
+              "longitude": -122.47672660176322
+            },
+            {
+              "latitude": 37.6969182111461,
+              "longitude": -122.47678660176321
+            },
+            {
+              "latitude": 37.6969182111461,
+              "longitude": -122.47672660176322
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 37.69812574144316,
+              "longitude": -122.477319522541
+            },
+            {
+              "latitude": 37.698179765866314,
+              "longitude": -122.47713713232798
+            },
+            {
+              "latitude": 37.69796967066637,
+              "longitude": -122.47717468325419
+            },
+            {
+              "latitude": 37.6980777197007,
+              "longitude": -122.47719296301646
+            },
+            {
+              "latitude": 37.698047719700696,
+              "longitude": -122.47725296301645
+            },
+            {
+              "latitude": 37.698047719700696,
+              "longitude": -122.47719296301646
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 37.69941031150956,
+              "longitude": -122.47789887968821
+            },
+            {
+              "latitude": 37.69944632717195,
+              "longitude": -122.4777164894752
+            },
+            {
+              "latitude": 37.6992782539311,
+              "longitude": -122.47779695574565
+            },
+            {
+              "latitude": 37.699362290599154,
+              "longitude": -122.47776695574565
+            },
+            {
+              "latitude": 37.69933229059915,
+              "longitude": -122.47782695574564
+            },
+            {
+              "latitude": 37.69933229059915,
+              "longitude": -122.47776695574565
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 7,
+          "Par": 4,
+          "Yards": 457,
+          "holeArt": {
+            "uri": "https://www.lmgc.org/images/dynamic/getImage.gif?ID=100321"
+          },
+          "description": "This hole is named for Alister Mackenzie, who redesigned Lake Merced in 1929. This is one of the original fairways from the old course. The original hole was a dogleg right par five. The current hole is a long par four that moves right to left. The green has three distinct areas with ridges protecting each one. As with most other holes at Lake Merced, a smart player will stay below the hole, and will make sure to position his approach shot on the right side of the flagstick. ",
+          "image": "Hole6.png",
+          "page": "Hole6.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 37.6980777197007,
+            "longitude": -122.47722296301646
+          },
+          {
+            "latitude": 37.6981077197007,
+            "longitude": -122.47719296301646
+          },
+          {
+            "latitude": 37.6981077197007,
+            "longitude": -122.47725296301645
+          },
+          {
+            "latitude": 37.6980777197007,
+            "longitude": -122.47725296301645
+          },
+          {
+            "latitude": 37.6980777197007,
+            "longitude": -122.47719296301646
+          },
+          {
+            "latitude": 37.698047719700696,
+            "longitude": -122.47725296301645
+          },
+          {
+            "latitude": 37.698047719700696,
+            "longitude": -122.47719296301646
+          },
+          {
+            "latitude": 37.698047719700696,
+            "longitude": -122.47722296301646
+          },
+          {
+            "latitude": 37.6981077197007,
+            "longitude": -122.47722296301646
+          },
+          {
+            "latitude": 37.6980687197007,
+            "longitude": -122.47721396301645
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 37.698759043678535,
+            "longitude": -122.47815502242008
+          },
+          "FlagLocation": {
+            "latitude": 37.695825438857824,
+            "longitude": -122.47874807075607
+          },
+          "FairwayLocation": {
+            "latitude": 37.69703946091048,
+            "longitude": -122.4783255737218
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 37.69880706497974,
+              "longitude": -122.47824085310856
+            },
+            {
+              "latitude": 37.69882392326604,
+              "longitude": -122.47805846289555
+            },
+            {
+              "latitude": 37.69864984594093,
+              "longitude": -122.47814429358402
+            },
+            {
+              "latitude": 37.698759043678535,
+              "longitude": -122.47812502242009
+            },
+            {
+              "latitude": 37.69872904367853,
+              "longitude": -122.47818502242008
+            },
+            {
+              "latitude": 37.69872904367853,
+              "longitude": -122.47812502242009
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 37.69709348612519,
+              "longitude": -122.47842749766437
+            },
+            {
+              "latitude": 37.69709348612516,
+              "longitude": -122.47824510745136
+            },
+            {
+              "latitude": 37.69694197024351,
+              "longitude": -122.4783403749858
+            },
+            {
+              "latitude": 37.69703946091048,
+              "longitude": -122.47829557372181
+            },
+            {
+              "latitude": 37.69700946091048,
+              "longitude": -122.4783555737218
+            },
+            {
+              "latitude": 37.69700946091048,
+              "longitude": -122.47829557372181
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 37.69581343305262,
+              "longitude": -122.47885535911666
+            },
+            {
+              "latitude": 37.69589747364816,
+              "longitude": -122.47868906215774
+            },
+            {
+              "latitude": 37.695759406905196,
+              "longitude": -122.47871051982986
+            },
+            {
+              "latitude": 37.695825438857824,
+              "longitude": -122.47871807075607
+            },
+            {
+              "latitude": 37.69579543885782,
+              "longitude": -122.47877807075606
+            },
+            {
+              "latitude": 37.69579543885782,
+              "longitude": -122.47871807075607
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 8,
+          "Par": 3,
+          "Yards": 200,
+          "holeArt": {
+            "uri": "https://www.lmgc.org/images/dynamic/getImage.gif?ID=100322"
+          },
+          "description": "A long par three with the most undulating green on the course. The Sunday location is back right, but members will tell you that the hardest spot is in the front of the green because it is hard to keep the ball below the hole. ",
+          "image": "Hole7.png",
+          "page": "Hole7.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 37.69703946091048,
+            "longitude": -122.4783255737218
+          },
+          {
+            "latitude": 37.697069460910484,
+            "longitude": -122.47829557372181
+          },
+          {
+            "latitude": 37.697069460910484,
+            "longitude": -122.4783555737218
+          },
+          {
+            "latitude": 37.69703946091048,
+            "longitude": -122.4783555737218
+          },
+          {
+            "latitude": 37.69703946091048,
+            "longitude": -122.47829557372181
+          },
+          {
+            "latitude": 37.69700946091048,
+            "longitude": -122.4783555737218
+          },
+          {
+            "latitude": 37.69700946091048,
+            "longitude": -122.47829557372181
+          },
+          {
+            "latitude": 37.69700946091048,
+            "longitude": -122.4783255737218
+          },
+          {
+            "latitude": 37.697069460910484,
+            "longitude": -122.4783255737218
+          },
+          {
+            "latitude": 37.69703046091048,
+            "longitude": -122.4783165737218
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 37.69585748575706,
+            "longitude": -122.47801505811418
+          },
+          "FlagLocation": {
+            "latitude": 37.69632636710898,
+            "longitude": -122.47294979040157
+          },
+          "FairwayLocation": {
+            "latitude": 37.6965144125238,
+            "longitude": -122.47535733555117
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 37.69585748575706,
+              "longitude": -122.47813307531084
+            },
+            {
+              "latitude": 37.69590550893764,
+              "longitude": -122.47792386300767
+            },
+            {
+              "latitude": 37.69575543639503,
+              "longitude": -122.47799360044206
+            },
+            {
+              "latitude": 37.69585748575706,
+              "longitude": -122.47798505811419
+            },
+            {
+              "latitude": 37.69582748575706,
+              "longitude": -122.47804505811418
+            },
+            {
+              "latitude": 37.69582748575706,
+              "longitude": -122.47798505811419
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 37.696586446644766,
+              "longitude": -122.47544316623964
+            },
+            {
+              "latitude": 37.696592449485024,
+              "longitude": -122.47526077602663
+            },
+            {
+              "latitude": 37.69644948774552,
+              "longitude": -122.47535441852074
+            },
+            {
+              "latitude": 37.6965144125238,
+              "longitude": -122.47532733555117
+            },
+            {
+              "latitude": 37.696484412523795,
+              "longitude": -122.47538733555116
+            },
+            {
+              "latitude": 37.696484412523795,
+              "longitude": -122.47532733555117
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 37.696332369970285,
+              "longitude": -122.47305707876217
+            },
+            {
+              "latitude": 37.69629635279512,
+              "longitude": -122.47286932413112
+            },
+            {
+              "latitude": 37.69623032126187,
+              "longitude": -122.47297444014657
+            },
+            {
+              "latitude": 37.69632636710898,
+              "longitude": -122.47291979040158
+            },
+            {
+              "latitude": 37.69629636710898,
+              "longitude": -122.47297979040157
+            },
+            {
+              "latitude": 37.69629636710898,
+              "longitude": -122.47291979040158
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 9,
+          "Par": 5,
+          "Yards": 545,
+          "holeArt": {
+            "uri": "https://www.lmgc.org/images/dynamic/getImage.gif?ID=100323"
+          },
+          "description": "This is a short five par that runs parallel to Interstate 280. The hole doglegs to the left and you will be playing back to the clubhouse. Longer players can get home in two. The green is well protected by four large bunkers.",
+          "image": "Hole8.png",
+          "page": "Hole8.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 37.6965144125238,
+            "longitude": -122.47535733555117
+          },
+          {
+            "latitude": 37.6965444125238,
+            "longitude": -122.47532733555117
+          },
+          {
+            "latitude": 37.6965444125238,
+            "longitude": -122.47538733555116
+          },
+          {
+            "latitude": 37.6965144125238,
+            "longitude": -122.47538733555116
+          },
+          {
+            "latitude": 37.6965144125238,
+            "longitude": -122.47532733555117
+          },
+          {
+            "latitude": 37.696484412523795,
+            "longitude": -122.47538733555116
+          },
+          {
+            "latitude": 37.696484412523795,
+            "longitude": -122.47532733555117
+          },
+          {
+            "latitude": 37.696484412523795,
+            "longitude": -122.47535733555117
+          },
+          {
+            "latitude": 37.6965444125238,
+            "longitude": -122.47535733555117
+          },
+          {
+            "latitude": 37.6965054125238,
+            "longitude": -122.47534833555116
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 37.69656726650798,
+            "longitude": -122.47264721064676
+          },
+          "FlagLocation": {
+            "latitude": 37.69923595534056,
+            "longitude": -122.47538570020362
+          },
+          "FairwayLocation": {
+            "latitude": 37.698228019260334,
+            "longitude": -122.47410268928326
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 37.69659728071215,
+              "longitude": -122.47274377017129
+            },
+            {
+              "latitude": 37.69663329774113,
+              "longitude": -122.47257210879434
+            },
+            {
+              "latitude": 37.69647122097297,
+              "longitude": -122.47260965972055
+            },
+            {
+              "latitude": 37.69656726650798,
+              "longitude": -122.47261721064676
+            },
+            {
+              "latitude": 37.696537266507974,
+              "longitude": -122.47267721064675
+            },
+            {
+              "latitude": 37.696537266507974,
+              "longitude": -122.47261721064676
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 37.698252030086806,
+              "longitude": -122.47423143531597
+            },
+            {
+              "latitude": 37.69832406251951,
+              "longitude": -122.47405977393902
+            },
+            {
+              "latitude": 37.69816147750482,
+              "longitude": -122.47405532453223
+            },
+            {
+              "latitude": 37.698228019260334,
+              "longitude": -122.47407268928326
+            },
+            {
+              "latitude": 37.69819801926033,
+              "longitude": -122.47413268928325
+            },
+            {
+              "latitude": 37.69819801926033,
+              "longitude": -122.47407268928326
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 37.6992539632163,
+              "longitude": -122.47548225972815
+            },
+            {
+              "latitude": 37.69930198419687,
+              "longitude": -122.47529986951514
+            },
+            {
+              "latitude": 37.69919993957596,
+              "longitude": -122.47531596276923
+            },
+            {
+              "latitude": 37.69923595534056,
+              "longitude": -122.47535570020362
+            },
+            {
+              "latitude": 37.69920595534056,
+              "longitude": -122.47541570020361
+            },
+            {
+              "latitude": 37.69920595534056,
+              "longitude": -122.47535570020362
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 10,
+          "Par": 4,
+          "Yards": 391,
+          "holeArt": {
+            "uri": "https://www.lmgc.org/images/dynamic/getImage.gif?ID=100324"
+          },
+          "description": "A sporty opening to the back nine. The entire hole is visible from the tee, and you will note that a bunker guards the left side of the fairway. The driving range, behind the trees to the right, is out of bounds. The shot into the green is tight and the putting surface is protected by very deep bunkers left and right. ",
+          "image": "Hole9.png",
+          "page": "Hole9.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 37.698228019260334,
+            "longitude": -122.47410268928326
+          },
+          {
+            "latitude": 37.69825801926034,
+            "longitude": -122.47407268928326
+          },
+          {
+            "latitude": 37.69825801926034,
+            "longitude": -122.47413268928325
+          },
+          {
+            "latitude": 37.698228019260334,
+            "longitude": -122.47413268928325
+          },
+          {
+            "latitude": 37.698228019260334,
+            "longitude": -122.47407268928326
+          },
+          {
+            "latitude": 37.69819801926033,
+            "longitude": -122.47413268928325
+          },
+          {
+            "latitude": 37.69819801926033,
+            "longitude": -122.47407268928326
+          },
+          {
+            "latitude": 37.69819801926033,
+            "longitude": -122.47410268928326
+          },
+          {
+            "latitude": 37.69825801926034,
+            "longitude": -122.47410268928326
+          },
+          {
+            "latitude": 37.698219019260335,
+            "longitude": -122.47409368928325
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 37.6988373307538,
+            "longitude": -122.4755468960987
+          },
+          "FlagLocation": {
+            "latitude": 37.70108498822583,
+            "longitude": -122.47752153115334
+          },
+          "FairwayLocation": {
+            "latitude": 37.6999328110786,
+            "longitude": -122.47680806355538
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 37.698849336069365,
+              "longitude": -122.47563809120521
+            },
+            {
+              "latitude": 37.698873346694576,
+              "longitude": -122.47550729399262
+            },
+            {
+              "latitude": 37.69874128815958,
+              "longitude": -122.47546974306641
+            },
+            {
+              "latitude": 37.6988373307538,
+              "longitude": -122.47551689609871
+            },
+            {
+              "latitude": 37.698807330753795,
+              "longitude": -122.4755768960987
+            },
+            {
+              "latitude": 37.698807330753795,
+              "longitude": -122.47551689609871
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 37.699890793079874,
+              "longitude": -122.47689925866189
+            },
+            {
+              "latitude": 37.699932811078575,
+              "longitude": -122.47672759728493
+            },
+            {
+              "latitude": 37.699813488985974,
+              "longitude": -122.47676514821114
+            },
+            {
+              "latitude": 37.6999328110786,
+              "longitude": -122.47677806355539
+            },
+            {
+              "latitude": 37.699902811078594,
+              "longitude": -122.47683806355538
+            },
+            {
+              "latitude": 37.699902811078594,
+              "longitude": -122.47677806355539
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 37.701181027783655,
+              "longitude": -122.47765564160409
+            },
+            {
+              "latitude": 37.70102496343894,
+              "longitude": -122.47756444649758
+            },
+            {
+              "latitude": 37.70116302037602,
+              "longitude": -122.4774410648829
+            },
+            {
+              "latitude": 37.70108498822583,
+              "longitude": -122.47749153115335
+            },
+            {
+              "latitude": 37.70105498822583,
+              "longitude": -122.47755153115334
+            },
+            {
+              "latitude": 37.70105498822583,
+              "longitude": -122.47749153115335
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 11,
+          "Par": 4,
+          "Yards": 417,
+          "holeArt": {
+            "uri": "https://www.lmgc.org/images/dynamic/getImage.gif?ID=100325"
+          },
+          "description": "While this hole is short, it is perhaps the tightest tee shot on the course. The landing area is protected by two bunkers on the left and two short cypress trees on the right. The green is also well protected - deep bunkers guard it left and right. Don't be long, as the area behind the green falls away and you can kick out of bounds if you aren't careful.",
+          "image": "Hole10.png",
+          "page": "Hole10.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 37.6999328110786,
+            "longitude": -122.47680806355538
+          },
+          {
+            "latitude": 37.6999628110786,
+            "longitude": -122.47677806355539
+          },
+          {
+            "latitude": 37.6999628110786,
+            "longitude": -122.47683806355538
+          },
+          {
+            "latitude": 37.6999328110786,
+            "longitude": -122.47683806355538
+          },
+          {
+            "latitude": 37.6999328110786,
+            "longitude": -122.47677806355539
+          },
+          {
+            "latitude": 37.699902811078594,
+            "longitude": -122.47683806355538
+          },
+          {
+            "latitude": 37.699902811078594,
+            "longitude": -122.47677806355539
+          },
+          {
+            "latitude": 37.699902811078594,
+            "longitude": -122.47680806355538
+          },
+          {
+            "latitude": 37.6999628110786,
+            "longitude": -122.47680806355538
+          },
+          {
+            "latitude": 37.6999238110786,
+            "longitude": -122.47679906355538
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 37.701521976465735,
+            "longitude": -122.47726403908791
+          },
+          "FlagLocation": {
+            "latitude": 37.702444213670134,
+            "longitude": -122.47725694557721
+          },
+          "FairwayLocation": {
+            "latitude": 37.70194214613584,
+            "longitude": -122.4772264881617
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 37.70149196425529,
+              "longitude": -122.47734986977639
+            },
+            {
+              "latitude": 37.70156999597713,
+              "longitude": -122.47720503048959
+            },
+            {
+              "latitude": 37.701479959367724,
+              "longitude": -122.47718357281747
+            },
+            {
+              "latitude": 37.701521976465735,
+              "longitude": -122.47723403908792
+            },
+            {
+              "latitude": 37.70149197646573,
+              "longitude": -122.47729403908791
+            },
+            {
+              "latitude": 37.70149197646573,
+              "longitude": -122.47723403908792
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 37.70193614372877,
+              "longitude": -122.47730159001412
+            },
+            {
+              "latitude": 37.70198803243585,
+              "longitude": -122.4771818437248
+            },
+            {
+              "latitude": 37.70191600356328,
+              "longitude": -122.47717111488873
+            },
+            {
+              "latitude": 37.70194214613584,
+              "longitude": -122.47719648816171
+            },
+            {
+              "latitude": 37.70191214613584,
+              "longitude": -122.4772564881617
+            },
+            {
+              "latitude": 37.70191214613584,
+              "longitude": -122.47719648816171
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 37.70242020420151,
+              "longitude": -122.47731058975751
+            },
+            {
+              "latitude": 37.70239619472506,
+              "longitude": -122.47720866581494
+            },
+            {
+              "latitude": 37.70249223258412,
+              "longitude": -122.47718720814282
+            },
+            {
+              "latitude": 37.702444213670134,
+              "longitude": -122.47722694557721
+            },
+            {
+              "latitude": 37.70241421367013,
+              "longitude": -122.4772869455772
+            },
+            {
+              "latitude": 37.70241421367013,
+              "longitude": -122.47722694557721
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 12,
+          "Par": 3,
+          "Yards": 197,
+          "holeArt": {
+            "uri": "https://www.lmgc.org/images/dynamic/getImage.gif?ID=100326"
+          },
+          "description": "A mid-length one-shotter which requires a full carry to a plateau green. The bunkers left and right mean business: they are deep and par is something you will have to work for. The green is fast, sloping and a thrill from every angle.",
+          "image": "Hole11.png",
+          "page": "Hole11.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 37.70194214613584,
+            "longitude": -122.4772264881617
+          },
+          {
+            "latitude": 37.701972146135844,
+            "longitude": -122.47719648816171
+          },
+          {
+            "latitude": 37.701972146135844,
+            "longitude": -122.4772564881617
+          },
+          {
+            "latitude": 37.70194214613584,
+            "longitude": -122.4772564881617
+          },
+          {
+            "latitude": 37.70194214613584,
+            "longitude": -122.47719648816171
+          },
+          {
+            "latitude": 37.70191214613584,
+            "longitude": -122.4772564881617
+          },
+          {
+            "latitude": 37.70191214613584,
+            "longitude": -122.47719648816171
+          },
+          {
+            "latitude": 37.70191214613584,
+            "longitude": -122.4772264881617
+          },
+          {
+            "latitude": 37.701972146135844,
+            "longitude": -122.4772264881617
+          },
+          {
+            "latitude": 37.70193314613584,
+            "longitude": -122.4772174881617
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 37.70242020420151,
+            "longitude": -122.47638031095369
+          },
+          "FlagLocation": {
+            "latitude": 37.701201498947164,
+            "longitude": -122.4727199886371
+          },
+          "FairwayLocation": {
+            "latitude": 37.702096075613454,
+            "longitude": -122.47432573884828
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 37.70245021603611,
+              "longitude": -122.47646614164216
+            },
+            {
+              "latitude": 37.70235417812258,
+              "longitude": -122.47639640420778
+            },
+            {
+              "latitude": 37.70245021603611,
+              "longitude": -122.47632130235536
+            },
+            {
+              "latitude": 37.70242020420151,
+              "longitude": -122.47635031095369
+            },
+            {
+              "latitude": 37.70239020420151,
+              "longitude": -122.47641031095368
+            },
+            {
+              "latitude": 37.70239020420151,
+              "longitude": -122.47635031095369
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 37.702084070823695,
+              "longitude": -122.47442766279084
+            },
+            {
+              "latitude": 37.702030049245835,
+              "longitude": -122.47430964559419
+            },
+            {
+              "latitude": 37.702173892194146,
+              "longitude": -122.47429891675813
+            },
+            {
+              "latitude": 37.702096075613454,
+              "longitude": -122.47429573884828
+            },
+            {
+              "latitude": 37.70206607561345,
+              "longitude": -122.47435573884827
+            },
+            {
+              "latitude": 37.70206607561345,
+              "longitude": -122.47429573884828
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 37.70116548413749,
+              "longitude": -122.47278972607148
+            },
+            {
+              "latitude": 37.70128553343501,
+              "longitude": -122.47263415794862
+            },
+            {
+              "latitude": 37.70114147425465,
+              "longitude": -122.47265561562074
+            },
+            {
+              "latitude": 37.701201498947164,
+              "longitude": -122.4726899886371
+            },
+            {
+              "latitude": 37.70117149894716,
+              "longitude": -122.47274998863709
+            },
+            {
+              "latitude": 37.70117149894716,
+              "longitude": -122.4726899886371
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 13,
+          "Par": 4,
+          "Yards": 375,
+          "holeArt": {
+            "uri": "https://www.lmgc.org/images/dynamic/getImage.gif?ID=100327"
+          },
+          "description": "Another tight driving hole, that offers rewards to a straight hitter. A fairway bunker protects the left side, and overhanging limbs the right. At about 200 yards, the fairway drops into a valley, and then extends uphill to the green, which is bunkered in the left front and on the right side. ",
+          "image": "Hole12.png",
+          "page": "Hole12.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 37.702096075613454,
+            "longitude": -122.47432573884828
+          },
+          {
+            "latitude": 37.70212607561346,
+            "longitude": -122.47429573884828
+          },
+          {
+            "latitude": 37.70212607561346,
+            "longitude": -122.47435573884827
+          },
+          {
+            "latitude": 37.702096075613454,
+            "longitude": -122.47435573884827
+          },
+          {
+            "latitude": 37.702096075613454,
+            "longitude": -122.47429573884828
+          },
+          {
+            "latitude": 37.70206607561345,
+            "longitude": -122.47435573884827
+          },
+          {
+            "latitude": 37.70206607561345,
+            "longitude": -122.47429573884828
+          },
+          {
+            "latitude": 37.70206607561345,
+            "longitude": -122.47432573884828
+          },
+          {
+            "latitude": 37.70212607561346,
+            "longitude": -122.47432573884828
+          },
+          {
+            "latitude": 37.702087075613456,
+            "longitude": -122.47431673884827
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 37.70079933257928,
+            "longitude": -122.47279638443638
+          },
+          "FlagLocation": {
+            "latitude": 37.70171524688583,
+            "longitude": -122.47642434752726
+          },
+          "FairwayLocation": {
+            "latitude": 37.70151362656472,
+            "longitude": -122.47459346447636
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 37.7007813250789,
+              "longitude": -122.47289830837894
+            },
+            {
+              "latitude": 37.70085935754881,
+              "longitude": -122.47272664700199
+            },
+            {
+              "latitude": 37.700721300046226,
+              "longitude": -122.47271591816593
+            },
+            {
+              "latitude": 37.70079933257928,
+              "longitude": -122.47276638443638
+            },
+            {
+              "latitude": 37.70076933257928,
+              "longitude": -122.47282638443637
+            },
+            {
+              "latitude": 37.70076933257928,
+              "longitude": -122.47276638443638
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 37.701495619237896,
+              "longitude": -122.47470075283695
+            },
+            {
+              "latitude": 37.701441597231145,
+              "longitude": -122.47455591355015
+            },
+            {
+              "latitude": 37.70157719097725,
+              "longitude": -122.47451997912668
+            },
+            {
+              "latitude": 37.70151362656472,
+              "longitude": -122.47456346447636
+            },
+            {
+              "latitude": 37.701483626564716,
+              "longitude": -122.47462346447635
+            },
+            {
+              "latitude": 37.701483626564716,
+              "longitude": -122.47456346447636
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 37.70164321774821,
+              "longitude": -122.47649408496164
+            },
+            {
+              "latitude": 37.70167322989744,
+              "longitude": -122.47634388125681
+            },
+            {
+              "latitude": 37.70183529529308,
+              "longitude": -122.47644044078135
+            },
+            {
+              "latitude": 37.70171524688583,
+              "longitude": -122.47639434752726
+            },
+            {
+              "latitude": 37.70168524688583,
+              "longitude": -122.47645434752725
+            },
+            {
+              "latitude": 37.70168524688583,
+              "longitude": -122.47639434752726
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 14,
+          "Par": 5,
+          "Yards": 492,
+          "holeArt": {
+            "uri": "https://www.lmgc.org/images/dynamic/getImage.gif?ID=100328"
+          },
+          "description": "This is the easiest hole on the course. It is a short five par, a dogleg left that is reachable in two shots. Four bunkers on the right side of the landing area are a warning sign: don't go there! The green is also guarded by sand to the left, right, and rear.",
+          "image": "Hole13.png",
+          "page": "Hole13.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 37.70151362656472,
+            "longitude": -122.47459346447636
+          },
+          {
+            "latitude": 37.70154362656472,
+            "longitude": -122.47456346447636
+          },
+          {
+            "latitude": 37.70154362656472,
+            "longitude": -122.47462346447635
+          },
+          {
+            "latitude": 37.70151362656472,
+            "longitude": -122.47462346447635
+          },
+          {
+            "latitude": 37.70151362656472,
+            "longitude": -122.47456346447636
+          },
+          {
+            "latitude": 37.701483626564716,
+            "longitude": -122.47462346447635
+          },
+          {
+            "latitude": 37.701483626564716,
+            "longitude": -122.47456346447636
+          },
+          {
+            "latitude": 37.701483626564716,
+            "longitude": -122.47459346447636
+          },
+          {
+            "latitude": 37.70154362656472,
+            "longitude": -122.47459346447636
+          },
+          {
+            "latitude": 37.70150462656472,
+            "longitude": -122.47458446447635
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 37.70104433951501,
+            "longitude": -122.47659609936625
+          },
+          "FlagLocation": {
+            "latitude": 37.69816621587745,
+            "longitude": -122.47317157034547
+          },
+          "FairwayLocation": {
+            "latitude": 37.69937793916381,
+            "longitude": -122.47456559091552
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 37.7010863568599,
+              "longitude": -122.47668193005472
+            },
+            {
+              "latitude": 37.7010923593358,
+              "longitude": -122.47653172634989
+            },
+            {
+              "latitude": 37.7009603047537,
+              "longitude": -122.47653172634989
+            },
+            {
+              "latitude": 37.70104433951501,
+              "longitude": -122.47656609936625
+            },
+            {
+              "latitude": 37.701014339515005,
+              "longitude": -122.47662609936624
+            },
+            {
+              "latitude": 37.701014339515005,
+              "longitude": -122.47656609936625
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 37.699371936549085,
+              "longitude": -122.47465678602202
+            },
+            {
+              "latitude": 37.69931191037515,
+              "longitude": -122.47452803998931
+            },
+            {
+              "latitude": 37.699443967893636,
+              "longitude": -122.47450658231719
+            },
+            {
+              "latitude": 37.69937793916381,
+              "longitude": -122.47453559091552
+            },
+            {
+              "latitude": 37.69934793916381,
+              "longitude": -122.47459559091551
+            },
+            {
+              "latitude": 37.69934793916381,
+              "longitude": -122.47453559091552
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 37.69818422401305,
+              "longitude": -122.47326276545198
+            },
+            {
+              "latitude": 37.69822024027109,
+              "longitude": -122.47310719732911
+            },
+            {
+              "latitude": 37.69810688288719,
+              "longitude": -122.47313477364793
+            },
+            {
+              "latitude": 37.69816621587745,
+              "longitude": -122.47314157034548
+            },
+            {
+              "latitude": 37.69813621587745,
+              "longitude": -122.47320157034547
+            },
+            {
+              "latitude": 37.69813621587745,
+              "longitude": -122.47314157034548
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 15,
+          "Par": 3,
+          "Yards": 221,
+          "holeArt": {
+            "uri": "https://www.lmgc.org/images/dynamic/getImage.gif?ID=100329"
+          },
+          "description": "For members, this is 'the' hole. A long three par that requires great strength and great skill. The bunkers that protect the green are deep and difficult. The green itself is fast and treacherous.",
+          "image": "Hole14.png",
+          "page": "Hole14.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 37.69937793916381,
+            "longitude": -122.47456559091552
+          },
+          {
+            "latitude": 37.69940793916381,
+            "longitude": -122.47453559091552
+          },
+          {
+            "latitude": 37.69940793916381,
+            "longitude": -122.47459559091551
+          },
+          {
+            "latitude": 37.69937793916381,
+            "longitude": -122.47459559091551
+          },
+          {
+            "latitude": 37.69937793916381,
+            "longitude": -122.47453559091552
+          },
+          {
+            "latitude": 37.69934793916381,
+            "longitude": -122.47459559091551
+          },
+          {
+            "latitude": 37.69934793916381,
+            "longitude": -122.47453559091552
+          },
+          {
+            "latitude": 37.69934793916381,
+            "longitude": -122.47456559091552
+          },
+          {
+            "latitude": 37.69940793916381,
+            "longitude": -122.47456559091552
+          },
+          {
+            "latitude": 37.69936893916381,
+            "longitude": -122.47455659091551
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 37.69898494513747,
+            "longitude": -122.47288788475083
+          },
+          "FlagLocation": {
+            "latitude": 37.70122048419201,
+            "longitude": -122.47597019140846
+          },
+          "FairwayLocation": {
+            "latitude": 37.70029759883046,
+            "longitude": -122.47462394686772
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 37.69900895571876,
+              "longitude": -122.47298444427537
+            },
+            {
+              "latitude": 37.69904497157613,
+              "longitude": -122.47281814731645
+            },
+            {
+              "latitude": 37.69889490538835,
+              "longitude": -122.47286106266068
+            },
+            {
+              "latitude": 37.69898494513747,
+              "longitude": -122.47285788475084
+            },
+            {
+              "latitude": 37.698954945137466,
+              "longitude": -122.47291788475083
+            },
+            {
+              "latitude": 37.698954945137466,
+              "longitude": -122.47285788475084
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 37.7003516216709,
+              "longitude": -122.47473123522832
+            },
+            {
+              "latitude": 37.7003516216709,
+              "longitude": -122.47453811617925
+            },
+            {
+              "latitude": 37.700241730086894,
+              "longitude": -122.4745661723764
+            },
+            {
+              "latitude": 37.70029759883046,
+              "longitude": -122.47459394686773
+            },
+            {
+              "latitude": 37.70026759883046,
+              "longitude": -122.47465394686772
+            },
+            {
+              "latitude": 37.70026759883046,
+              "longitude": -122.47459394686773
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 37.70124449404925,
+              "longitude": -122.47606138651497
+            },
+            {
+              "latitude": 37.70126850389871,
+              "longitude": -122.47589508955605
+            },
+            {
+              "latitude": 37.70114245210224,
+              "longitude": -122.47595409815438
+            },
+            {
+              "latitude": 37.70122048419201,
+              "longitude": -122.47594019140847
+            },
+            {
+              "latitude": 37.701190484192004,
+              "longitude": -122.47600019140846
+            },
+            {
+              "latitude": 37.701190484192004,
+              "longitude": -122.47594019140847
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 16,
+          "Par": 4,
+          "Yards": 335,
+          "holeArt": {
+            "uri": "https://www.lmgc.org/images/dynamic/getImage.gif?ID=100330"
+          },
+          "description": "A short part four that tempts the brave and rewards the skilled. Longer hitters can get close to the green, but for most players the tee shot will be hit with a fairway metal or long iron, and you will have only a pitching wedge into an intriguing putting surface that is guarded by four deep bunkers. The green here is severely banked, very fast, and absolutely maddening!",
+          "image": "Hole15.png",
+          "page": "Hole15.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 37.70029759883046,
+            "longitude": -122.47462394686772
+          },
+          {
+            "latitude": 37.70032759883046,
+            "longitude": -122.47459394686773
+          },
+          {
+            "latitude": 37.70032759883046,
+            "longitude": -122.47465394686772
+          },
+          {
+            "latitude": 37.70029759883046,
+            "longitude": -122.47465394686772
+          },
+          {
+            "latitude": 37.70029759883046,
+            "longitude": -122.47459394686773
+          },
+          {
+            "latitude": 37.70026759883046,
+            "longitude": -122.47465394686772
+          },
+          {
+            "latitude": 37.70026759883046,
+            "longitude": -122.47459394686773
+          },
+          {
+            "latitude": 37.70026759883046,
+            "longitude": -122.47462394686772
+          },
+          {
+            "latitude": 37.70032759883046,
+            "longitude": -122.47462394686772
+          },
+          {
+            "latitude": 37.70028859883046,
+            "longitude": -122.47461494686772
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 37.700854332905415,
+            "longitude": -122.47442523901589
+          },
+          "FlagLocation": {
+            "latitude": 37.70029418761633,
+            "longitude": -122.4728602263491
+          },
+          "FairwayLocation": {
+            "latitude": 37.70052228379634,
+            "longitude": -122.47337952391672
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 37.70084232791459,
+              "longitude": -122.47452716295845
+            },
+            {
+              "latitude": 37.70078230293122,
+              "longitude": -122.4744091457618
+            },
+            {
+              "latitude": 37.70087834288125,
+              "longitude": -122.47432867949135
+            },
+            {
+              "latitude": 37.700854332905415,
+              "longitude": -122.47439523901589
+            },
+            {
+              "latitude": 37.70082433290541,
+              "longitude": -122.47445523901588
+            },
+            {
+              "latitude": 37.70082433290541,
+              "longitude": -122.47439523901589
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 37.70054629387976,
+              "longitude": -122.47347071902323
+            },
+            {
+              "latitude": 37.70057630647304,
+              "longitude": -122.47331515090036
+            },
+            {
+              "latitude": 37.70046225855384,
+              "longitude": -122.47334302397178
+            },
+            {
+              "latitude": 37.70052228379634,
+              "longitude": -122.47334952391672
+            },
+            {
+              "latitude": 37.700492283796336,
+              "longitude": -122.47340952391671
+            },
+            {
+              "latitude": 37.700492283796336,
+              "longitude": -122.47334952391672
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 37.70029418761633,
+              "longitude": -122.47294605703757
+            },
+            {
+              "latitude": 37.70034821045924,
+              "longitude": -122.47279048891471
+            },
+            {
+              "latitude": 37.70023416218916,
+              "longitude": -122.47283876867698
+            },
+            {
+              "latitude": 37.70029418761633,
+              "longitude": -122.4728302263491
+            },
+            {
+              "latitude": 37.70026418761633,
+              "longitude": -122.4728902263491
+            },
+            {
+              "latitude": 37.70026418761633,
+              "longitude": -122.4728302263491
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 17,
+          "Par": 4,
+          "Yards": 380,
+          "holeArt": {
+            "uri": "https://www.lmgc.org/images/dynamic/getImage.gif?ID=100331"
+          },
+          "description": "Another sporty four par. You will see the green in the distance from the tee. What you can't see is the steep dip in the fairway at 210 yards. Longer hitters will be able to drive to the bottom of the hill, from where they will have only a wedge to the green. If your drive does not reach the bottom, you may face a difficult stance for your second shot. The fairway is crowned, so any tee ball hit slightly left or right will kick into the rough. There are four bunkers (one left, three right) that you must negotiate off the tee, and another four await you around the green. The green is banked back to front and there are three noticeable levels once you get there. ",
+          "image": "Hole16.png",
+          "page": "Hole16.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 37.70052228379634,
+            "longitude": -122.47337952391672
+          },
+          {
+            "latitude": 37.70055228379634,
+            "longitude": -122.47334952391672
+          },
+          {
+            "latitude": 37.70055228379634,
+            "longitude": -122.47340952391671
+          },
+          {
+            "latitude": 37.70052228379634,
+            "longitude": -122.47340952391671
+          },
+          {
+            "latitude": 37.70052228379634,
+            "longitude": -122.47334952391672
+          },
+          {
+            "latitude": 37.700492283796336,
+            "longitude": -122.47340952391671
+          },
+          {
+            "latitude": 37.700492283796336,
+            "longitude": -122.47334952391672
+          },
+          {
+            "latitude": 37.700492283796336,
+            "longitude": -122.47337952391672
+          },
+          {
+            "latitude": 37.70055228379634,
+            "longitude": -122.47337952391672
+          },
+          {
+            "latitude": 37.70051328379634,
+            "longitude": -122.47337052391671
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 37.700690354216775,
+            "longitude": -122.47242570848869
+          },
+          "FlagLocation": {
+            "latitude": 37.69669353083742,
+            "longitude": -122.47220109913968
+          },
+          "FairwayLocation": {
+            "latitude": 37.69825424336308,
+            "longitude": -122.47240015840066
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 37.700660341669646,
+              "longitude": -122.47250617475913
+            },
+            {
+              "latitude": 37.70063633162317,
+              "longitude": -122.4723559710543
+            },
+            {
+              "latitude": 37.700822409279766,
+              "longitude": -122.47243107290672
+            },
+            {
+              "latitude": 37.700690354216775,
+              "longitude": -122.47239570848869
+            },
+            {
+              "latitude": 37.70066035421677,
+              "longitude": -122.47245570848868
+            },
+            {
+              "latitude": 37.70066035421677,
+              "longitude": -122.47239570848869
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 37.69821822712158,
+              "longitude": -122.4724806246711
+            },
+            {
+              "latitude": 37.69821222441294,
+              "longitude": -122.47232505654824
+            },
+            {
+              "latitude": 37.69838630276563,
+              "longitude": -122.47240015840066
+            },
+            {
+              "latitude": 37.69825424336308,
+              "longitude": -122.47237015840066
+            },
+            {
+              "latitude": 37.69822424336308,
+              "longitude": -122.47243015840066
+            },
+            {
+              "latitude": 37.69822424336308,
+              "longitude": -122.47237015840066
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 37.696639505331326,
+              "longitude": -122.47230302308225
+            },
+            {
+              "latitude": 37.696639505331326,
+              "longitude": -122.47209917519712
+            },
+            {
+              "latitude": 37.69681369170623,
+              "longitude": -122.47219844023914
+            },
+            {
+              "latitude": 37.69669353083742,
+              "longitude": -122.47217109913969
+            },
+            {
+              "latitude": 37.69666353083742,
+              "longitude": -122.47223109913968
+            },
+            {
+              "latitude": 37.69666353083742,
+              "longitude": -122.47217109913969
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 18,
+          "Par": 5,
+          "Yards": 547,
+          "holeArt": {
+            "uri": "https://www.lmgc.org/images/dynamic/getImage.gif?ID=100313"
+          },
+          "description": "A classic finish played through an old riverbed. The tee shot is down hill, and two bunkers guard the landing area. The fairway bends gently to the right and culminates in an uphill walk toward the clubhouse. Bunkers protect the green front right and on the left side, and two menacing cypress trees have limbs that will reach out and grab your golf ball if you give them half a chance.",
+          "image": "Hole17.png",
+          "page": "Hole17.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 37.69825424336308,
+            "longitude": -122.47240015840066
+          },
+          {
+            "latitude": 37.698284243363084,
+            "longitude": -122.47237015840066
+          },
+          {
+            "latitude": 37.698284243363084,
+            "longitude": -122.47243015840066
+          },
+          {
+            "latitude": 37.69825424336308,
+            "longitude": -122.47243015840066
+          },
+          {
+            "latitude": 37.69825424336308,
+            "longitude": -122.47237015840066
+          },
+          {
+            "latitude": 37.69822424336308,
+            "longitude": -122.47243015840066
+          },
+          {
+            "latitude": 37.69822424336308,
+            "longitude": -122.47237015840066
+          },
+          {
+            "latitude": 37.69822424336308,
+            "longitude": -122.47240015840066
+          },
+          {
+            "latitude": 37.698284243363084,
+            "longitude": -122.47240015840066
+          },
+          {
+            "latitude": 37.69824524336308,
+            "longitude": -122.47239115840065
+          }
+        ]
+      }
+    ],
+    "type": "FeatureCollection",
+    "initialRegion": {
+      "latitude": 37.696239,
+      "longitude":  -122.472574,
+      "latitudeDelta": 0.0005,
+      "longitudeDelta": 0.0020
+    },
+    "maxDelta": 0.02,
+    "courseGeoFence": [
+      {
+        "latitude": 37.703206,
+        "longitude": -122.480295
+      },
+      {
+        "latitude": 37.704274,
+        "longitude": -122.470542
+      },
+      {
+        "latitude": 37.694470,
+        "longitude": -122.470129
+      },
+      {
+        "latitude": 37.694310,
+        "longitude": -122.476408
+      },
+      {
+        "latitude": 37.694548,
+        "longitude": -122.481923
+      },
+      {
+        "latitude": 37.701040,
+        "longitude": -122.480820
+      }
+    ],
+    "courseFileVersion": "v0.0.2",
+    "tournamentActive": "yes",
+    "tournamentLogo": {
+      "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/MEDIHEAL-2019/logo.png"
+    },
+    "tournamentBackgroundImage": {
+      "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/MEDIHEAL-2019/bg.png"
+    },
+    "courseName": "Lake Merced Golf Club",
+    "courseLocation": "Daly City, California",
+    "courseLogo": {
+      "uri": "http://www.cmegrouptourchampionship.com/-/media/images/lpga/cme-group/sponsors/2018Tiburon_140x120"
+    }
+
+  }
+  
+  
+}

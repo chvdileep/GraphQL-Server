@@ -1,0 +1,46 @@
+type Query {
+    version: String!
+    players: [Player2!]!
+    # player(id: ID!): Player
+    playersTest: [Player2!]!    # read a test feed from a file or from ECS
+    playersTest288: [Player2!]!    # read a test large feed from a file or from ECS
+    playersLPGAXML: [Player2!]!  # read raw xml from the LPGA (NOTE THE different data type: Player)
+    playersLPGA: [Player2!]!     # read Thuy's json ECS backend: production
+    playersLPGATest: [Player2!]! # read Thuy's json ECS based backend: test
+    allConfigs: String!
+    allConfigsAm: String!
+
+    tournamentStatus: String!
+    tournamentStatusTest: String!
+    basicAnalytics(obj: String!): String!
+    playersTop10SortedDemo: [Player2!]!
+    playersTop10Sorted: [Player2!]!
+}
+
+# NO LONGER USED - 
+# type Player {
+#     FirstName: String!
+#     LastName: String!
+#     ID: ID
+#     Hole: Int
+#     HoleLocation: String
+# }
+
+type Player2 {
+    FirstName: String!
+    LastName: String!
+    ID: ID!
+    Hole: Int
+    HoleLocation: String!
+    RoundToPar: String
+    CumulativeToPar: String
+    Rank: String
+    Country: String!
+}
+
+
+
+type Mutation {
+    createPlayer(firstName: String!, lastName: String!, hole: Int!, holeLocation: String!): Player2!
+    updatePlayerPositionOnCourse(id: Int!, hole: Int!, holeLocation: String!): Player2!
+}

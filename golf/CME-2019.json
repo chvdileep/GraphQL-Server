@@ -1,0 +1,3484 @@
+{
+  "Sponsors": [
+    {
+      "sponsorNumber": "1",
+      "image": {
+        "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/images/BAsponsor.png"
+      }
+    },
+    {
+      "sponsorNumber": "2",
+      "image": {
+        "uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/NEC_logo.svg/500px-NEC_logo.svg.png"
+      }
+    }
+  ],
+  "trendingEntries": {
+    "ENTRIES1": [
+      {
+        "title": "Tournament Pairings",
+        "subtitle": "View the tournament pairings",
+        "illustration": "http://www.lpgafounderscup.com/-/media/images/lpga/tournaments/lpga-founders-cup/2019/preview/foundersfeaturedgroups.jpg?h=1125&la=en&w=2000&hash=9FB9FE847A69B6D18CB9429BB8A905B2D3F5EAB0",
+        "weblink": "https://www.lpga.com/tournaments/cme-group-tour-championship/pairings"
+      },
+      {
+        "title": "LPGA Junior Ladies",
+        "subtitle": "Find your local chapter",
+        "illustration": "https://www.girlsgolf.org/image/0---new-site-images/news/Find-a-Site.jpg",
+        "weblink": "https://www.girlsgolf.org"
+      },
+      {
+        "title": "Aon Risk Reward Challenge",
+        "subtitle": "Season-long Aon Risk Reward Challenge will highlight the world’s best professional golfers",
+        "illustration": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/aon.jpg",
+        "weblink": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/Aon.pdf"
+      },
+      {
+        "title": "Schedule of Events",
+        "subtitle": "",
+        "illustration": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/CME-2019/soe.jpg",
+        "weblink": "https://www.cmegrouptourchampionship.com/-/media/images/owned-events/cme-group-tour-championship/page-photos/cmeschedule_111719.jpg?la=en&hash=BDA42A6DC2C2AAA4FC47B76B701CE253DDDDFCCF"
+      },
+      {
+        "title": "Women’s Leadership Day",
+        "subtitle": "Join Southwest Florida’s best female minds, businesswomen and leaders at the 2019 CME Group Tour Championship Women’s Leadership Day!",
+        "illustration": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/CME-2019/womensday.jpg",
+        "weblink": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/CME-2019/Womens-Day.png"
+      },
+      {
+        "title": "Orangetheory Fitness Outdoor Workout Class",
+        "subtitle": "Join the Orangetheory Fitness team at the 2019 CME Group Tour Championship for an outdoor workout on the lawn of Tiburón Golf Club.",
+        "illustration": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/CME-2019/OT-bg.jpg",
+        "weblink": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/CME-2019/OrangetheoryFlyer.png"
+      },
+      {
+        "title": "Naples, Marco Island and Everglades Family Golf Clinic",
+        "subtitle": "Naples, Marco Island and Everglades Convention & Visitors Bureau presents the CME Group Tour Championship Family Golf Clinic. Following play on Saturday, November 23rd, an instructional clinic will be hosted by LPGA Tour professionals.",
+        "illustration": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/CME-2019/JMS1310.jpg",
+        "weblink": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/CME-2019/FamilyGolf.pdf"
+      }
+    ],
+
+
+    "tvTimes": [
+      {
+        "image": {
+          "uri": "http://www.lpga.com/-/media/images/lpga/tv-network-logos/golf-channel.png?h=50&la=en&w=50&hash=E978E602DAD7DF9D1EFE17403D32B4165BD21C58"
+        },
+        "tvTimeEntries": [
+          {
+          "time": "NOVEMBER 21 4:00 - 7:00 P.M."
+          },
+          {
+          "time": "NOVEMBER 22 4:00 - 7:00 P.M."
+          },
+          {
+          "time": "NOVEMBER 23 4:00 - 7:00 P.M."
+          }
+        ]
+      },
+      {
+        "image": {
+          "uri": "https://www.lpga.com/-/media/images/lpga/tv-network-logos/nbclogo.png?h=50&la=en&w=50&hash=DA74FED98961EA3FA997545641B8E66AAE575922"
+        },
+        "tvTimeEntries": [
+          {
+          "time": "NOVEMBER 24 1:00 - 4:00 P.M."
+          }
+        ]
+      }
+    ]
+  },
+  
+  "Amenities": {
+    "Features": [
+      {
+        "properties":
+          {
+            "photo": "Concessions",
+            "profilePhoto": "Concessions",
+            "position": {"latitude":26.247841, "longitude":  -81.764571 },
+            "Menu": {
+              "name": "Generic Consession 1",
+              "description": "Concession stand selling food and beverage",
+              "type": "Concession Stand",
+              "filter": "food",
+              "items": [
+                
+              ]
+            }
+  
+  
+          }
+      },
+      {
+        "properties":
+        {
+          "photo": "Concessions",
+          "profilePhoto": "Concessions",
+            "position": { "latitude": 26.251080,  "longitude": -81.762562 },
+            "Menu": {
+              "name": "Generic Consession 2",
+              "description": "Concession stand selling food and beverage",
+              "type": "Concession Stand",
+              "filter": "food",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Concessions",
+          "profilePhoto": "Concessions",
+            "position": { "latitude": 26.253073,  "longitude": -81.762856 },
+            "Menu": {
+              "name": "Generic Concession 3",
+              "description": "Concession stand selling food and beverage",
+              "type": "Concession Stand",
+              "filter": "food",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Concessions",
+          "profilePhoto": "Concessions",
+            "position": { "latitude": 26.258140,  "longitude": -81.758470 },
+            "Menu": {
+              "name": "Generic Concession 4",
+              "description": "Concession stand selling food and beverage",
+              "type": "Concession Stand",
+              "filter": "food",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Concessions",
+          "profilePhoto": "Concessions",
+            "position": { "latitude": 26.252530,  "longitude": -81.764833 },
+            "Menu": {
+              "name": "Generic Concession 5",
+              "description": "Concession stand selling food and beverage",
+              "type": "Concession Stand",
+              "filter": "food",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Concessions",
+          "profilePhoto": "Concessions",
+            "position": { "latitude": 26.253680,  "longitude": -81.762410 },
+            "Menu": {
+              "name": "Corona Oasis Trail 1",
+              "description": "A Corona Premier Oasis Trail mobile location",
+              "type": "Concession Stand",
+              "filter": "food",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Concessions",
+          "profilePhoto": "Concessions",
+            "position": { "latitude": 26.249456,  "longitude": -81.765514 },
+            "Menu": {
+              "name": "Corona Oasis Trail 2",
+              "description": "A Corona Premier Oasis Trail mobile location",
+              "type": "Concession Stand",
+              "filter": "food",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Concessions",
+          "profilePhoto": "Concessions",
+            "position": { "latitude": 26.252598,  "longitude": -81.764356 },
+            "Menu": {
+              "name": "Corona Oasis Trail 3",
+              "description": "A Corona Premier Oasis Trail mobile location",
+              "type": "Concession Stand",
+              "filter": "food",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 26.249939,   "longitude": -81.766177 },
+            "Menu": {
+              "name": "Main Entrance",
+              "description": "Admissions / Will Call",
+              "type": "Entrance/Exit",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Restroom",
+          "profilePhoto": "Restroom",
+            "position": { "latitude": 26.245578,  "longitude": -81.765301 },
+            "Menu": {
+              "name": "Restroom 1",
+              "description": "A course restroom is located here",
+              "type": "Restroom",
+              "filter": "restroom",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Restroom",
+          "profilePhoto": "Restroom",
+            "position": { "latitude": 26.247614,  "longitude": -81.765400 },
+            "Menu": {
+              "name": "Restroom 2",
+              "description": "A course restroom is located here",
+              "type": "Restroom",
+              "filter": "restroom",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Restroom",
+          "profilePhoto": "Restroom",
+            "position": { "latitude": 26.251048,  "longitude": -81.762228 },
+            "Menu": {
+              "name": "Restroom 3",
+              "description": "A course restroom is located here",
+              "type": "Restroom",
+              "filter": "restroom",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Restroom",
+          "profilePhoto": "Restroom",
+            "position": { "latitude": 26.253149,  "longitude": -81.762609 },
+            "Menu": {
+              "name": "Restroom 4",
+              "description": "A course restroom is located here",
+              "type": "Restroom",
+              "filter": "restroom",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Restroom",
+          "profilePhoto": "Restroom",
+            "position": { "latitude": 26.255419,  "longitude": -81.766063 },
+            "Menu": {
+              "name": "Restroom 5",
+              "description": "A course restroom is located here",
+              "type": "Restroom",
+              "filter": "restroom",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Restroom",
+          "profilePhoto": "Restroom",
+            "position": { "latitude": 26.258211,  "longitude": -81.757127 },
+            "Menu": {
+              "name": "Restroom 6",
+              "description": "A course restroom is located here",
+              "type": "Restroom",
+              "filter": "restroom",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Handicap_Access",
+          "profilePhoto": "Handicap_Access",
+            "position": { "latitude": 26.249156,  "longitude": -81.765568 },
+            "Menu": {
+              "name": "ADA Viewing 1",
+              "description": "ADA Viewing is available here",
+              "type": "Other",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Handicap_Access",
+          "profilePhoto": "Handicap_Access",
+            "position": { "latitude": 26.251172,  "longitude": -81.761762 },
+            "Menu": {
+              "name": "ADA Viewing 2",
+              "description": "ADA Viewing is available here",
+              "type": "Other",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Handicap_Access",
+          "profilePhoto": "Handicap_Access",
+            "position": { "latitude": 26.252252,  "longitude": -81.765684 },
+            "Menu": {
+              "name": "ADA Viewing 3",
+              "description": "ADA Viewing is available here",
+              "type": "Other",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Handicap_Access",
+          "profilePhoto": "Handicap_Access",
+            "position": { "latitude": 26.253350,  "longitude": -81.762834 },
+            "Menu": {
+              "name": "ADA Viewing 4",
+              "description": "ADA Viewing is available here",
+              "type": "Other",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Range",
+          "profilePhoto": "Driving_Range",
+            "position": { "latitude": 26.248086,  "longitude": -81.762326 },
+            "Menu": {
+              "name": "Driving Range",
+              "description": "The course driving range is located here",
+              "type": "Special",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 26.249026,  "longitude": -81.765550 },
+            "Menu": {
+              "name": "Tiburon Member Seating",
+              "description": "A seated viewing area is located here",
+              "type": "Viewing Area",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 26.248875,  "longitude": -81.765467 },
+            "Menu": {
+              "name": "Commisioners Club",
+              "description": "",
+              "type": "Special",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 26.248843,  "longitude": -81.765341 },
+            "Menu": {
+              "name": "CME Sky Box",
+              "description": "",
+              "type": "Special",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 26.248207,  "longitude": -81.765019 },
+            "Menu": {
+              "name": "Merchandise Tent",
+              "description": "A merchandise tent is located here",
+              "type": "Special",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 26.249786,  "longitude": -81.765227 },
+            "Menu": {
+              "name": "Bleachers 1",
+              "description": "A seated viewing area is located here",
+              "type": "Viewing Area",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 26.248556,  "longitude": -81.764042 },
+            "Menu": {
+              "name": "Bleachers 2",
+              "description": "A seated viewing area is located here",
+              "type": "Viewing Area",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 26.251689,  "longitude": -81.762333 },
+            "Menu": {
+              "name": "Bleachers 3",
+              "description": "A seated viewing area is located here",
+              "type": "Viewing Area",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 26.253291,  "longitude": -81.763101 },
+            "Menu": {
+              "name": "Bleachers 4",
+              "description": "A seated viewing area is located here",
+              "type": "Viewing Area",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 26.253170,  "longitude": -81.762200 },
+            "Menu": {
+              "name": "Bleachers 5",
+              "description": "A seated viewing area is located here",
+              "type": "Viewing Area",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 26.257678,  "longitude": -81.762520 },
+            "Menu": {
+              "name": "Bleachers 6",
+              "description": "A seated viewing area is located here",
+              "type": "Viewing Area",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 26.252159,  "longitude": -81.764901 },
+            "Menu": {
+              "name": "Bleachers 7",
+              "description": "A seated viewing area is located here",
+              "type": "Viewing Area",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 26.249295,  "longitude": -81.765590 },
+            "Menu": {
+              "name": "Globe Lounge",
+              "description": "The Globe Lounge is located here",
+              "type": "Viewing Area",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 26.248202,  "longitude": -81.764694 },
+            "Menu": {
+              "name": "Expo Village",
+              "description": "The Expo Village is located here",
+              "type": "Special",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Medical",
+          "profilePhoto": "Medical",
+            "position": { "latitude": 26.247675,  "longitude":  -81.765198 },
+            "Menu": {
+              "name": "Medical",
+              "description": "Tournament Medical station",
+              "type": "Other",
+              "filter": "medical",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Range",
+          "profilePhoto": "Range",
+            "position": { "latitude": 26.255385,  "longitude": -81.762704 },
+            "Menu": {
+              "name": "Aon Risk Reward",
+              "description": "Aon Risk Reward course selection",
+              "type": "Other",
+              "filter": "special",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 26.247514,  "longitude": -81.765019 },
+            "Menu": {
+              "name": "Clubhouse",
+              "description": "The course Clubhouse is located here",
+              "type": "Other",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      }
+      
+    ]
+  },
+
+  "courseConfig": {
+    "Features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "description": "The Gold Course opens with a long par 5. Players are advised to check the distance to the lake off the tee, as it is reachable. Hugging the right side of the fairway will present a chance to go for the green in two. Those lying up should take the water out of play and aim just left of the fairway bunkers. This will leave a wedge into a small green.",
+          "TeeLocation": {
+            "latitude": 26.251738176379313,
+            "longitude": -81.76115015689993
+          },
+          "FlagLocation": {
+            "latitude": 26.251596152320197,
+            "longitude": -81.75738324870468
+          },
+          "FairwayLocation": {
+            "latitude": 26.25159008146377,
+            "longitude": -81.75896147434378
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 26.251649724827576,
+              "longitude": -81.76104649295974
+            },
+            {
+              "latitude": 26.25165652879546,
+              "longitude": -81.76128789177108
+            },
+            {
+              "latitude": 26.25186404962529,
+              "longitude": -81.76111797039175
+            },
+            {
+              "latitude": 26.251649724827576,
+              "longitude": -81.76104649295974
+            },
+            {
+              "latitude": 26.25165652879546,
+              "longitude": -81.76128789177108
+            },
+            {
+              "latitude": 26.25186404962529,
+              "longitude": -81.76111797039175
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 26.251528845703238,
+              "longitude": -81.75908485595846
+            },
+            {
+              "latitude": 26.25145400195207,
+              "longitude": -81.7588756436553
+            },
+            {
+              "latitude": 26.25167172909434,
+              "longitude": -81.75891855899954
+            },
+            {
+              "latitude": 26.251528845703238,
+              "longitude": -81.75908485595846
+            },
+            {
+              "latitude": 26.25145400195207,
+              "longitude": -81.7588756436553
+            },
+            {
+              "latitude": 26.25167172909434,
+              "longitude": -81.75891855899954
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 26.251609760261875,
+              "longitude": -81.75749858369232
+            },
+            {
+              "latitude": 26.25144646485635,
+              "longitude": -81.7574047063768
+            },
+            {
+              "latitude": 26.25164718209329,
+              "longitude": -81.75729205359818
+            },
+            {
+              "latitude": 26.251609760261875,
+              "longitude": -81.75749858369232
+            },
+            {
+              "latitude": 26.25144646485635,
+              "longitude": -81.7574047063768
+            },
+            {
+              "latitude": 26.25164718209329,
+              "longitude": -81.75729205359818
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 1,
+          "Par": 5,
+          "Yards": 533,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/CMETiburon/Gold-Course-1.jpg"
+          },
+          "image": "Hole0.png",
+          "page": "Hole0.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 26.25159008146377,
+            "longitude": -81.75896147434378
+          },
+          {
+            "latitude": 26.25162008146377,
+            "longitude": -81.75893147434378
+          },
+          {
+            "latitude": 26.25162008146377,
+            "longitude": -81.75899147434377
+          },
+          {
+            "latitude": 26.25159008146377,
+            "longitude": -81.75899147434377
+          },
+          {
+            "latitude": 26.25159008146377,
+            "longitude": -81.75893147434378
+          },
+          {
+            "latitude": 26.251560081463772,
+            "longitude": -81.75899147434377
+          },
+          {
+            "latitude": 26.251560081463772,
+            "longitude": -81.75893147434378
+          },
+          {
+            "latitude": 26.251560081463772,
+            "longitude": -81.75896147434378
+          },
+          {
+            "latitude": 26.25162008146377,
+            "longitude": -81.75896147434378
+          },
+          {
+            "latitude": 26.251581081463772,
+            "longitude": -81.75895247434377
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "description": "This dogleg left par 4 bends around a tall stand of pine trees, requiring pinpoint accuracy off the tee. An errant tee shot here could find a bunker, a pine tree or even the water.",
+          "TeeLocation": {
+            "latitude": 26.25284083886448,
+            "longitude": -81.75635339556868
+          },
+          "FlagLocation": {
+            "latitude": 26.255889009954398,
+            "longitude": -81.75483311986017
+          },
+          "FairwayLocation": {
+            "latitude": 26.25457923470647,
+            "longitude": -81.754983323565
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 26.25280038167946,
+              "longitude": -81.75657870112593
+            },
+            {
+              "latitude": 26.25271873482719,
+              "longitude": -81.75624610721309
+            },
+            {
+              "latitude": 26.25309294904188,
+              "longitude": -81.75625147162611
+            },
+            {
+              "latitude": 26.25280038167946,
+              "longitude": -81.75657870112593
+            },
+            {
+              "latitude": 26.25271873482719,
+              "longitude": -81.75624610721309
+            },
+            {
+              "latitude": 26.25309294904188,
+              "longitude": -81.75625147162611
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 26.254504392920527,
+              "longitude": -81.75519253586816
+            },
+            {
+              "latitude": 26.25443635489146,
+              "longitude": -81.75483311986017
+            },
+            {
+              "latitude": 26.254892208925167,
+              "longitude": -81.75495650147485
+            },
+            {
+              "latitude": 26.254504392920527,
+              "longitude": -81.75519253586816
+            },
+            {
+              "latitude": 26.25443635489146,
+              "longitude": -81.75483311986017
+            },
+            {
+              "latitude": 26.254892208925167,
+              "longitude": -81.75495650147485
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 26.255698505643473,
+              "longitude": -81.75497259472894
+            },
+            {
+              "latitude": 26.255773346660025,
+              "longitude": -81.75469900940942
+            },
+            {
+              "latitude": 26.256133943609324,
+              "longitude": -81.75492431496667
+            },
+            {
+              "latitude": 26.255698505643473,
+              "longitude": -81.75497259472894
+            },
+            {
+              "latitude": 26.255773346660025,
+              "longitude": -81.75469900940942
+            },
+            {
+              "latitude": 26.256133943609324,
+              "longitude": -81.75492431496667
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 2,
+          "Par": 4,
+          "Yards": 380,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/CMETiburon/Gold-Course-2.jpg"
+          },
+          "image": "Hole1.png",
+          "page": "Hole1.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 26.25457923470647,
+            "longitude": -81.754983323565
+          },
+          {
+            "latitude": 26.254609234706468,
+            "longitude": -81.754953323565
+          },
+          {
+            "latitude": 26.254609234706468,
+            "longitude": -81.755013323565
+          },
+          {
+            "latitude": 26.25457923470647,
+            "longitude": -81.755013323565
+          },
+          {
+            "latitude": 26.25457923470647,
+            "longitude": -81.754953323565
+          },
+          {
+            "latitude": 26.25454923470647,
+            "longitude": -81.755013323565
+          },
+          {
+            "latitude": 26.25454923470647,
+            "longitude": -81.754953323565
+          },
+          {
+            "latitude": 26.25454923470647,
+            "longitude": -81.754983323565
+          },
+          {
+            "latitude": 26.254609234706468,
+            "longitude": -81.754983323565
+          },
+          {
+            "latitude": 26.25457023470647,
+            "longitude": -81.754974323565
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "description": "Another Tiburón special with all of the ingredients: a rolling fairway, coquina waste areas, water and an elevated green with collection areas on all sides.",
+          "TeeLocation": {
+            "latitude": 26.25748796945653,
+            "longitude": -81.75528990771215
+          },
+          "FlagLocation": {
+            "latitude": 26.261357787830946,
+            "longitude": -81.75520562614236
+          },
+          "FairwayLocation": {
+            "latitude": 26.25995668201476,
+            "longitude": -81.75509650909606
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 26.257702364204114,
+              "longitude": -81.75513918161681
+            },
+            {
+              "latitude": 26.257528871927992,
+              "longitude": -81.75502384662917
+            },
+            {
+              "latitude": 26.257477844738627,
+              "longitude": -81.75522501230529
+            },
+            {
+              "latitude": 26.257702364204114,
+              "longitude": -81.75513918161681
+            },
+            {
+              "latitude": 26.257528871927992,
+              "longitude": -81.75502384662917
+            },
+            {
+              "latitude": 26.257477844738627,
+              "longitude": -81.75522501230529
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 26.259793398343245,
+              "longitude": -81.75509650909606
+            },
+            {
+              "latitude": 26.259480437331156,
+              "longitude": -81.7552467128009
+            },
+            {
+              "latitude": 26.259521258380587,
+              "longitude": -81.7549409409732
+            },
+            {
+              "latitude": 26.259793398343245,
+              "longitude": -81.75509650909606
+            },
+            {
+              "latitude": 26.259480437331156,
+              "longitude": -81.7552467128009
+            },
+            {
+              "latitude": 26.259521258380587,
+              "longitude": -81.7549409409732
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 26.26131016402506,
+              "longitude": -81.75513588870797
+            },
+            {
+              "latitude": 26.261085651534216,
+              "longitude": -81.7553397365931
+            },
+            {
+              "latitude": 26.261031224198316,
+              "longitude": -81.75507151569161
+            },
+            {
+              "latitude": 26.26131016402506,
+              "longitude": -81.75513588870797
+            },
+            {
+              "latitude": 26.261085651534216,
+              "longitude": -81.7553397365931
+            },
+            {
+              "latitude": 26.261031224198316,
+              "longitude": -81.75507151569161
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 3,
+          "Par": 4,
+          "Yards": 420,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/CMETiburon/Gold-Course-3.jpg"
+          },
+          "image": "Hole2.png",
+          "page": "Hole2.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 26.25995668201476,
+            "longitude": -81.75509650909606
+          },
+          {
+            "latitude": 26.25998668201476,
+            "longitude": -81.75506650909607
+          },
+          {
+            "latitude": 26.25998668201476,
+            "longitude": -81.75512650909606
+          },
+          {
+            "latitude": 26.25995668201476,
+            "longitude": -81.75512650909606
+          },
+          {
+            "latitude": 26.25995668201476,
+            "longitude": -81.75506650909607
+          },
+          {
+            "latitude": 26.25992668201476,
+            "longitude": -81.75512650909606
+          },
+          {
+            "latitude": 26.25992668201476,
+            "longitude": -81.75506650909607
+          },
+          {
+            "latitude": 26.25992668201476,
+            "longitude": -81.75509650909606
+          },
+          {
+            "latitude": 26.25998668201476,
+            "longitude": -81.75509650909606
+          },
+          {
+            "latitude": 26.25994768201476,
+            "longitude": -81.75508750909606
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "description": "Adjacent to a beautiful lake on the left, this par 4 hugs the water the entire length of the hole providing a spectacular view. Water, stacked sod wall bunkers, and native Muhly grass surround the green which gives it an island appearance.",
+          "TeeLocation": {
+            "latitude": 26.263042274175586,
+            "longitude": -81.75522067063673
+          },
+          "FlagLocation": {
+            "latitude": 26.26638741333233,
+            "longitude": -81.75650495717036
+          },
+          "FairwayLocation": {
+            "latitude": 26.265231400559916,
+            "longitude": -81.75563055703151
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 26.26309670056884,
+              "longitude": -81.75501145833357
+            },
+            {
+              "latitude": 26.263382438715112,
+              "longitude": -81.75523676389082
+            },
+            {
+              "latitude": 26.262933421312468,
+              "longitude": -81.75534405225142
+            },
+            {
+              "latitude": 26.26309670056884,
+              "longitude": -81.75501145833357
+            },
+            {
+              "latitude": 26.263382438715112,
+              "longitude": -81.75523676389082
+            },
+            {
+              "latitude": 26.262933421312468,
+              "longitude": -81.75534405225142
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 26.265088533849728,
+              "longitude": -81.75545889565456
+            },
+            {
+              "latitude": 26.26497916210772,
+              "longitude": -81.75575930306422
+            },
+            {
+              "latitude": 26.265421368438208,
+              "longitude": -81.75571638771999
+            },
+            {
+              "latitude": 26.265088533849728,
+              "longitude": -81.75545889565456
+            },
+            {
+              "latitude": 26.26497916210772,
+              "longitude": -81.75575930306422
+            },
+            {
+              "latitude": 26.265421368438208,
+              "longitude": -81.75571638771999
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 26.26640782264478,
+              "longitude": -81.75641376206386
+            },
+            {
+              "latitude": 26.266319382264882,
+              "longitude": -81.75616699883449
+            },
+            {
+              "latitude": 26.266149304421816,
+              "longitude": -81.75632793137538
+            },
+            {
+              "latitude": 26.26640782264478,
+              "longitude": -81.75641376206386
+            },
+            {
+              "latitude": 26.266319382264882,
+              "longitude": -81.75616699883449
+            },
+            {
+              "latitude": 26.266149304421816,
+              "longitude": -81.75632793137538
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 4,
+          "Par": 4,
+          "Yards": 393,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/CMETiburon/Gold-Course-4.jpg"
+          },
+          "image": "Hole3.png",
+          "page": "Hole3.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 26.265231400559916,
+            "longitude": -81.75563055703151
+          },
+          {
+            "latitude": 26.265261400559915,
+            "longitude": -81.75560055703151
+          },
+          {
+            "latitude": 26.265261400559915,
+            "longitude": -81.7556605570315
+          },
+          {
+            "latitude": 26.265231400559916,
+            "longitude": -81.7556605570315
+          },
+          {
+            "latitude": 26.265231400559916,
+            "longitude": -81.75560055703151
+          },
+          {
+            "latitude": 26.265201400559917,
+            "longitude": -81.7556605570315
+          },
+          {
+            "latitude": 26.265201400559917,
+            "longitude": -81.75560055703151
+          },
+          {
+            "latitude": 26.265201400559917,
+            "longitude": -81.75563055703151
+          },
+          {
+            "latitude": 26.265261400559915,
+            "longitude": -81.75563055703151
+          },
+          {
+            "latitude": 26.265222400559917,
+            "longitude": -81.7556215570315
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "description": "As players make the turn around this tranquil lake, a beautiful par 3 protected by water and greenside bunkers awaits. Accuracy off the tee is a premium on this hole.",
+          "TeeLocation": {
+            "latitude": 26.266149304421788,
+            "longitude": -81.75718623826015
+          },
+          "FlagLocation": {
+            "latitude": 26.26455005019966,
+            "longitude": -81.75647813508021
+          },
+          "FairwayLocation": {
+            "latitude": 26.265012667722154,
+            "longitude": -81.7570145768832
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 26.265945210681206,
+              "longitude": -81.75733107754695
+            },
+            {
+              "latitude": 26.265965109758646,
+              "longitude": -81.75707894989955
+            },
+            {
+              "latitude": 26.26569978740505,
+              "longitude": -81.75720769593227
+            },
+            {
+              "latitude": 26.265945210681206,
+              "longitude": -81.75733107754695
+            },
+            {
+              "latitude": 26.265965109758646,
+              "longitude": -81.75707894989955
+            },
+            {
+              "latitude": 26.26569978740505,
+              "longitude": -81.75720769593227
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 26.264856194354675,
+              "longitude": -81.7570521278094
+            },
+            {
+              "latitude": 26.264978651790646,
+              "longitude": -81.75680536458003
+            },
+            {
+              "latitude": 26.264808571983572,
+              "longitude": -81.75686973759639
+            },
+            {
+              "latitude": 26.264856194354675,
+              "longitude": -81.7570521278094
+            },
+            {
+              "latitude": 26.264978651790646,
+              "longitude": -81.75680536458003
+            },
+            {
+              "latitude": 26.264808571983572,
+              "longitude": -81.75686973759639
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 26.264400379430086,
+              "longitude": -81.75656396576869
+            },
+            {
+              "latitude": 26.26452964056062,
+              "longitude": -81.7562957448672
+            },
+            {
+              "latitude": 26.264713327182776,
+              "longitude": -81.75658005902278
+            },
+            {
+              "latitude": 26.264400379430086,
+              "longitude": -81.75656396576869
+            },
+            {
+              "latitude": 26.26452964056062,
+              "longitude": -81.7562957448672
+            },
+            {
+              "latitude": 26.264713327182776,
+              "longitude": -81.75658005902278
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 5,
+          "Par": 3,
+          "Yards": 190,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/CMETiburon/Gold-Course-5.jpg"
+          },
+          "image": "Hole4.png",
+          "page": "Hole4.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 26.265012667722154,
+            "longitude": -81.7570145768832
+          },
+          {
+            "latitude": 26.265042667722152,
+            "longitude": -81.7569845768832
+          },
+          {
+            "latitude": 26.265042667722152,
+            "longitude": -81.75704457688319
+          },
+          {
+            "latitude": 26.265012667722154,
+            "longitude": -81.75704457688319
+          },
+          {
+            "latitude": 26.265012667722154,
+            "longitude": -81.7569845768832
+          },
+          {
+            "latitude": 26.264982667722155,
+            "longitude": -81.75704457688319
+          },
+          {
+            "latitude": 26.264982667722155,
+            "longitude": -81.7569845768832
+          },
+          {
+            "latitude": 26.264982667722155,
+            "longitude": -81.7570145768832
+          },
+          {
+            "latitude": 26.265042667722152,
+            "longitude": -81.7570145768832
+          },
+          {
+            "latitude": 26.265003667722155,
+            "longitude": -81.75700557688319
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "description": "An alluring par 5 that stretches as far as one can see tests the player's nerves. Lined by tall pines, cypress trees and fairway bunkers, this hole demands both length and accuracy.",
+          "TeeLocation": {
+            "latitude": 26.263371536041365,
+            "longitude": -81.75705749222743
+          },
+          "FlagLocation": {
+            "latitude": 26.258540971804205,
+            "longitude": -81.75664673796877
+          },
+          "FairwayLocation": {
+            "latitude": 26.261042544065752,
+            "longitude": -81.75676475516542
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 26.2631810440041,
+              "longitude": -81.75715941617
+            },
+            {
+              "latitude": 26.26326948677455,
+              "longitude": -81.75692874619472
+            },
+            {
+              "latitude": 26.26353481468173,
+              "longitude": -81.75718623826015
+            },
+            {
+              "latitude": 26.2631810440041,
+              "longitude": -81.75715941617
+            },
+            {
+              "latitude": 26.26326948677455,
+              "longitude": -81.75692874619472
+            },
+            {
+              "latitude": 26.26353481468173,
+              "longitude": -81.75718623826015
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 26.260920082478673,
+              "longitude": -81.75695250979646
+            },
+            {
+              "latitude": 26.260920082478695,
+              "longitude": -81.75664137355074
+            },
+            {
+              "latitude": 26.261355500868163,
+              "longitude": -81.75683449259981
+            },
+            {
+              "latitude": 26.260920082478673,
+              "longitude": -81.75695250979646
+            },
+            {
+              "latitude": 26.260920082478695,
+              "longitude": -81.75664137355074
+            },
+            {
+              "latitude": 26.261355500868163,
+              "longitude": -81.75683449259981
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 26.259037630948214,
+              "longitude": -81.75672720423921
+            },
+            {
+              "latitude": 26.258792703416614,
+              "longitude": -81.75687740794405
+            },
+            {
+              "latitude": 26.258833524707768,
+              "longitude": -81.75661455146059
+            },
+            {
+              "latitude": 26.259037630948214,
+              "longitude": -81.75672720423921
+            },
+            {
+              "latitude": 26.258792703416614,
+              "longitude": -81.75687740794405
+            },
+            {
+              "latitude": 26.258833524707768,
+              "longitude": -81.75661455146059
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 6,
+          "Par": 5,
+          "Yards": 492,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/CMETiburon/Gold-Course-6.jpg"
+          },
+          "image": "Hole5.png",
+          "page": "Hole5.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 26.261042544065752,
+            "longitude": -81.75676475516542
+          },
+          {
+            "latitude": 26.26107254406575,
+            "longitude": -81.75673475516543
+          },
+          {
+            "latitude": 26.26107254406575,
+            "longitude": -81.75679475516542
+          },
+          {
+            "latitude": 26.261042544065752,
+            "longitude": -81.75679475516542
+          },
+          {
+            "latitude": 26.261042544065752,
+            "longitude": -81.75673475516543
+          },
+          {
+            "latitude": 26.261012544065753,
+            "longitude": -81.75679475516542
+          },
+          {
+            "latitude": 26.261012544065753,
+            "longitude": -81.75673475516543
+          },
+          {
+            "latitude": 26.261012544065753,
+            "longitude": -81.75676475516542
+          },
+          {
+            "latitude": 26.26107254406575,
+            "longitude": -81.75676475516542
+          },
+          {
+            "latitude": 26.261033544065754,
+            "longitude": -81.75675575516541
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "description": "This testy little par 4 challenges every player's accuracy, as the tee shot must pass through a chute of pines once again. Avoiding the coquina waste area and native foliage on the right is the key to scoring on this hole.",
+          "TeeLocation": {
+            "latitude": 26.258072047640795,
+            "longitude": -81.75809207966029
+          },
+          "FlagLocation": {
+            "latitude": 26.25669771393887,
+            "longitude": -81.76125708629786
+          },
+          "FairwayLocation": {
+            "latitude": 26.257534562634287,
+            "longitude": -81.75995889713465
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 26.257895154115754,
+              "longitude": -81.75819936802088
+            },
+            {
+              "latitude": 26.258133279952034,
+              "longitude": -81.75790968944727
+            },
+            {
+              "latitude": 26.25820811939976,
+              "longitude": -81.75819936802088
+            },
+            {
+              "latitude": 26.257895154115754,
+              "longitude": -81.75819936802088
+            },
+            {
+              "latitude": 26.258133279952034,
+              "longitude": -81.75790968944727
+            },
+            {
+              "latitude": 26.25820811939976,
+              "longitude": -81.75819936802088
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 26.257350864656686,
+              "longitude": -81.7600930075854
+            },
+            {
+              "latitude": 26.257432508238153,
+              "longitude": -81.75983015110194
+            },
+            {
+              "latitude": 26.257697849481573,
+              "longitude": -81.76004472782313
+            },
+            {
+              "latitude": 26.257350864656686,
+              "longitude": -81.7600930075854
+            },
+            {
+              "latitude": 26.257432508238153,
+              "longitude": -81.75983015110194
+            },
+            {
+              "latitude": 26.257697849481573,
+              "longitude": -81.76004472782313
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 26.25691543125292,
+              "longitude": -81.76103178074061
+            },
+            {
+              "latitude": 26.25677935797948,
+              "longitude": -81.76084402610957
+            },
+            {
+              "latitude": 26.256690910266236,
+              "longitude": -81.76109615375697
+            },
+            {
+              "latitude": 26.25691543125292,
+              "longitude": -81.76103178074061
+            },
+            {
+              "latitude": 26.25677935797948,
+              "longitude": -81.76084402610957
+            },
+            {
+              "latitude": 26.256690910266236,
+              "longitude": -81.76109615375697
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 7,
+          "Par": 4,
+          "Yards": 355,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/CMETiburon/Gold-Course-7.jpg"
+          },
+          "image": "Hole6.png",
+          "page": "Hole6.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 26.257534562634287,
+            "longitude": -81.75995889713465
+          },
+          {
+            "latitude": 26.257564562634286,
+            "longitude": -81.75992889713466
+          },
+          {
+            "latitude": 26.257564562634286,
+            "longitude": -81.75998889713465
+          },
+          {
+            "latitude": 26.257534562634287,
+            "longitude": -81.75998889713465
+          },
+          {
+            "latitude": 26.257534562634287,
+            "longitude": -81.75992889713466
+          },
+          {
+            "latitude": 26.25750456263429,
+            "longitude": -81.75998889713465
+          },
+          {
+            "latitude": 26.25750456263429,
+            "longitude": -81.75992889713466
+          },
+          {
+            "latitude": 26.25750456263429,
+            "longitude": -81.75995889713465
+          },
+          {
+            "latitude": 26.257564562634286,
+            "longitude": -81.75995889713465
+          },
+          {
+            "latitude": 26.25752556263429,
+            "longitude": -81.75994989713465
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "description": "This scenic par 3 allows no room for error when negotiating the water on the left and the greenside bunker in front. A tee shot to the middle of the green is the safest play.",
+          "TeeLocation": {
+            "latitude": 26.254674888198323,
+            "longitude": -81.7618851399514
+          },
+          "FlagLocation": {
+            "latitude": 26.25336174912752,
+            "longitude": -81.76214799643486
+          },
+          "FairwayLocation": {
+            "latitude": 26.254055741574007,
+            "longitude": -81.76217481852501
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 26.25481776771991,
+              "longitude": -81.76178321600884
+            },
+            {
+              "latitude": 26.254668084407193,
+              "longitude": -81.76201388598412
+            },
+            {
+              "latitude": 26.2545728312896,
+              "longitude": -81.7617939448449
+            },
+            {
+              "latitude": 26.25481776771991,
+              "longitude": -81.76178321600884
+            },
+            {
+              "latitude": 26.254668084407193,
+              "longitude": -81.76201388598412
+            },
+            {
+              "latitude": 26.2545728312896,
+              "longitude": -81.7617939448449
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 26.253960487954267,
+              "longitude": -81.76224992037743
+            },
+            {
+              "latitude": 26.25397409561901,
+              "longitude": -81.76204070807427
+            },
+            {
+              "latitude": 26.25425305239495,
+              "longitude": -81.76212653876274
+            },
+            {
+              "latitude": 26.253960487954267,
+              "longitude": -81.76224992037743
+            },
+            {
+              "latitude": 26.25397409561901,
+              "longitude": -81.76204070807427
+            },
+            {
+              "latitude": 26.25425305239495,
+              "longitude": -81.76212653876274
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 26.253327729783354,
+              "longitude": -81.76231965781182
+            },
+            {
+              "latitude": 26.25357266883905,
+              "longitude": -81.76218554736107
+            },
+            {
+              "latitude": 26.25332092591333,
+              "longitude": -81.76203534365624
+            },
+            {
+              "latitude": 26.253327729783354,
+              "longitude": -81.76231965781182
+            },
+            {
+              "latitude": 26.25357266883905,
+              "longitude": -81.76218554736107
+            },
+            {
+              "latitude": 26.25332092591333,
+              "longitude": -81.76203534365624
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 8,
+          "Par": 3,
+          "Yards": 140,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/CMETiburon/Gold-Course-8.jpg"
+          },
+          "image": "Hole7.png",
+          "page": "Hole7.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 26.254055741574007,
+            "longitude": -81.76217481852501
+          },
+          {
+            "latitude": 26.254085741574006,
+            "longitude": -81.76214481852502
+          },
+          {
+            "latitude": 26.254085741574006,
+            "longitude": -81.762204818525
+          },
+          {
+            "latitude": 26.254055741574007,
+            "longitude": -81.762204818525
+          },
+          {
+            "latitude": 26.254055741574007,
+            "longitude": -81.76214481852502
+          },
+          {
+            "latitude": 26.254025741574008,
+            "longitude": -81.762204818525
+          },
+          {
+            "latitude": 26.254025741574008,
+            "longitude": -81.76214481852502
+          },
+          {
+            "latitude": 26.254025741574008,
+            "longitude": -81.76217481852501
+          },
+          {
+            "latitude": 26.254085741574006,
+            "longitude": -81.76217481852501
+          },
+          {
+            "latitude": 26.254046741574008,
+            "longitude": -81.762165818525
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "description": "Another picturesque hole that demands accuracy off the tee. Split the middle of the fairway, avoid the water on the second shot and enjoy the spectacular view of the Tiburón clubhouse and The Ritz-Carlton Golf Resort, Naples.",
+          "TeeLocation": {
+            "latitude": 26.25219200320382,
+            "longitude": -81.76290437937706
+          },
+          "FlagLocation": {
+            "latitude": 26.24879568378828,
+            "longitude": -81.76402404515107
+          },
+          "FairwayLocation": {
+            "latitude": 26.250273277309237,
+            "longitude": -81.7633603549096
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 26.252273650411322,
+              "longitude": -81.76304921866387
+            },
+            {
+              "latitude": 26.25247776817896,
+              "longitude": -81.76288828612297
+            },
+            {
+              "latitude": 26.25219200320382,
+              "longitude": -81.76280781985253
+            },
+            {
+              "latitude": 26.252273650411322,
+              "longitude": -81.76304921866387
+            },
+            {
+              "latitude": 26.25247776817896,
+              "longitude": -81.76288828612297
+            },
+            {
+              "latitude": 26.25219200320382,
+              "longitude": -81.76280781985253
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 26.250252865161304,
+              "longitude": -81.76352128745049
+            },
+            {
+              "latitude": 26.250273277309287,
+              "longitude": -81.76322088004082
+            },
+            {
+              "latitude": 26.250559047003986,
+              "longitude": -81.7633442616555
+            },
+            {
+              "latitude": 26.250252865161304,
+              "longitude": -81.76352128745049
+            },
+            {
+              "latitude": 26.250273277309287,
+              "longitude": -81.76322088004082
+            },
+            {
+              "latitude": 26.250559047003986,
+              "longitude": -81.7633442616555
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 26.248727642415865,
+              "longitude": -81.76417424885591
+            },
+            {
+              "latitude": 26.2486800134315,
+              "longitude": -81.76392748562654
+            },
+            {
+              "latitude": 26.249027024156455,
+              "longitude": -81.76398649422487
+            },
+            {
+              "latitude": 26.248727642415865,
+              "longitude": -81.76417424885591
+            },
+            {
+              "latitude": 26.2486800134315,
+              "longitude": -81.76392748562654
+            },
+            {
+              "latitude": 26.249027024156455,
+              "longitude": -81.76398649422487
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 9,
+          "Par": 4,
+          "Yards": 418,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/CMETiburon/Gold-Course-9.jpg"
+          },
+          "image": "Hole8.png",
+          "page": "Hole8.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 26.250273277309237,
+            "longitude": -81.7633603549096
+          },
+          {
+            "latitude": 26.250303277309236,
+            "longitude": -81.7633303549096
+          },
+          {
+            "latitude": 26.250303277309236,
+            "longitude": -81.76339035490959
+          },
+          {
+            "latitude": 26.250273277309237,
+            "longitude": -81.76339035490959
+          },
+          {
+            "latitude": 26.250273277309237,
+            "longitude": -81.7633303549096
+          },
+          {
+            "latitude": 26.250243277309238,
+            "longitude": -81.76339035490959
+          },
+          {
+            "latitude": 26.250243277309238,
+            "longitude": -81.7633303549096
+          },
+          {
+            "latitude": 26.250243277309238,
+            "longitude": -81.7633603549096
+          },
+          {
+            "latitude": 26.250303277309236,
+            "longitude": -81.7633603549096
+          },
+          {
+            "latitude": 26.25026427730924,
+            "longitude": -81.76335135490959
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "description": "This short hole doglegs slightly to the right and is lined by tall pines, two fairway bunkers on the left and coquina waste area on the right. Accuracy off the tee is a premium on this hole.",
+          "TeeLocation": {
+            "latitude": 26.246162827200813,
+            "longitude": -81.76543431193261
+          },
+          "FlagLocation": {
+            "latitude": 26.24468247960715,
+            "longitude": -81.76811157279263
+          },
+          "FairwayLocation": {
+            "latitude": 26.245056719690098,
+            "longitude": -81.76692025572686
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 26.246169631490037,
+              "longitude": -81.76561670214562
+            },
+            {
+              "latitude": 26.245951894037272,
+              "longitude": -81.76541285426049
+            },
+            {
+              "latitude": 26.246254279856746,
+              "longitude": -81.7652894726458
+            },
+            {
+              "latitude": 26.246169631490037,
+              "longitude": -81.76561670214562
+            },
+            {
+              "latitude": 26.245951894037272,
+              "longitude": -81.76541285426049
+            },
+            {
+              "latitude": 26.246254279856746,
+              "longitude": -81.7652894726458
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 26.244893415074834,
+              "longitude": -81.76680760294823
+            },
+            {
+              "latitude": 26.245226828420353,
+              "longitude": -81.76678078085808
+            },
+            {
+              "latitude": 26.24506352404408,
+              "longitude": -81.76707582384972
+            },
+            {
+              "latitude": 26.244893415074834,
+              "longitude": -81.76680760294823
+            },
+            {
+              "latitude": 26.245226828420353,
+              "longitude": -81.76678078085808
+            },
+            {
+              "latitude": 26.24506352404408,
+              "longitude": -81.76707582384972
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 26.24460082706525,
+              "longitude": -81.76824568324338
+            },
+            {
+              "latitude": 26.244832175784975,
+              "longitude": -81.76804719977628
+            },
+            {
+              "latitude": 26.244614435826215,
+              "longitude": -81.7679613690878
+            },
+            {
+              "latitude": 26.24460082706525,
+              "longitude": -81.76824568324338
+            },
+            {
+              "latitude": 26.244832175784975,
+              "longitude": -81.76804719977628
+            },
+            {
+              "latitude": 26.244614435826215,
+              "longitude": -81.7679613690878
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 10,
+          "Par": 4,
+          "Yards": 320,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/CMETiburon/Gold-Course-10.jpg"
+          },
+          "image": "Hole9.png",
+          "page": "Hole9.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 26.245056719690098,
+            "longitude": -81.76692025572686
+          },
+          {
+            "latitude": 26.245086719690097,
+            "longitude": -81.76689025572686
+          },
+          {
+            "latitude": 26.245086719690097,
+            "longitude": -81.76695025572685
+          },
+          {
+            "latitude": 26.245056719690098,
+            "longitude": -81.76695025572685
+          },
+          {
+            "latitude": 26.245056719690098,
+            "longitude": -81.76689025572686
+          },
+          {
+            "latitude": 26.2450267196901,
+            "longitude": -81.76695025572685
+          },
+          {
+            "latitude": 26.2450267196901,
+            "longitude": -81.76689025572686
+          },
+          {
+            "latitude": 26.2450267196901,
+            "longitude": -81.76692025572686
+          },
+          {
+            "latitude": 26.245086719690097,
+            "longitude": -81.76692025572686
+          },
+          {
+            "latitude": 26.2450477196901,
+            "longitude": -81.76691125572685
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "description": "Another challenging par 4 hole with all of the Tiburón ingredients. Again, the tee shot is the key here as fairway bunkers protect both sides of the fairway. A good drive leaves a mid-iron shot into a fairly large green surrounded by bunkers and water.",
+          "TeeLocation": {
+            "latitude": 26.24534595290768,
+            "longitude": -81.7685414074266
+          },
+          "FlagLocation": {
+            "latitude": 26.2481515765557,
+            "longitude": -81.76841687405704
+          },
+          "FairwayLocation": {
+            "latitude": 26.246917570180425,
+            "longitude": -81.76842580605881
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 26.24519625739171,
+              "longitude": -81.76861114486098
+            },
+            {
+              "latitude": 26.24576101673898,
+              "longitude": -81.76858432277083
+            },
+            {
+              "latitude": 26.24552966986833,
+              "longitude": -81.76846630557418
+            },
+            {
+              "latitude": 26.24519625739171,
+              "longitude": -81.76861114486098
+            },
+            {
+              "latitude": 26.24576101673898,
+              "longitude": -81.76858432277083
+            },
+            {
+              "latitude": 26.24552966986833,
+              "longitude": -81.76846630557418
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 26.24684952770822,
+              "longitude": -81.76859746743577
+            },
+            {
+              "latitude": 26.247176131211443,
+              "longitude": -81.768457992567
+            },
+            {
+              "latitude": 26.24689035319634,
+              "longitude": -81.76829169560807
+            },
+            {
+              "latitude": 26.24684952770822,
+              "longitude": -81.76859746743577
+            },
+            {
+              "latitude": 26.247176131211443,
+              "longitude": -81.768457992567
+            },
+            {
+              "latitude": 26.24689035319634,
+              "longitude": -81.76829169560807
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 26.248165184900852,
+              "longitude": -81.76852952683566
+            },
+            {
+              "latitude": 26.247899821883177,
+              "longitude": -81.76860999310611
+            },
+            {
+              "latitude": 26.247933842816753,
+              "longitude": -81.76837932313083
+            },
+            {
+              "latitude": 26.248165184900852,
+              "longitude": -81.76852952683566
+            },
+            {
+              "latitude": 26.247899821883177,
+              "longitude": -81.76860999310611
+            },
+            {
+              "latitude": 26.247933842816753,
+              "longitude": -81.76837932313083
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 11,
+          "Par": 4,
+          "Yards": 386,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/CMETiburon/Gold-Course-11.jpg"
+          },
+          "image": "Hole10.png",
+          "page": "Hole10.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 26.246917570180425,
+            "longitude": -81.76842580605881
+          },
+          {
+            "latitude": 26.246947570180424,
+            "longitude": -81.76839580605882
+          },
+          {
+            "latitude": 26.246947570180424,
+            "longitude": -81.76845580605881
+          },
+          {
+            "latitude": 26.246917570180425,
+            "longitude": -81.76845580605881
+          },
+          {
+            "latitude": 26.246917570180425,
+            "longitude": -81.76839580605882
+          },
+          {
+            "latitude": 26.246887570180427,
+            "longitude": -81.76845580605881
+          },
+          {
+            "latitude": 26.246887570180427,
+            "longitude": -81.76839580605882
+          },
+          {
+            "latitude": 26.246887570180427,
+            "longitude": -81.76842580605881
+          },
+          {
+            "latitude": 26.246947570180424,
+            "longitude": -81.76842580605881
+          },
+          {
+            "latitude": 26.246908570180427,
+            "longitude": -81.76841680605881
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "description": "This par 3 hole features intimidating stacked sod wall bunker on the right and left. The water in front and to the right of the green gives this hole all the challenge players’ desire.",
+          "TeeLocation": {
+            "latitude": 26.249015703309382,
+            "longitude": -81.76852416241763
+          },
+          "FlagLocation": {
+            "latitude": 26.25069574435093,
+            "longitude": -81.7686797305405
+          },
+          "FairwayLocation": {
+            "latitude": 26.24993369116622,
+            "longitude": -81.76874946797489
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 26.249117765100078,
+              "longitude": -81.76869045937656
+            },
+            {
+              "latitude": 26.24947838270896,
+              "longitude": -81.76865827286838
+            },
+            {
+              "latitude": 26.249022507431565,
+              "longitude": -81.76848661149143
+            },
+            {
+              "latitude": 26.249117765100078,
+              "longitude": -81.76869045937656
+            },
+            {
+              "latitude": 26.24947838270896,
+              "longitude": -81.76865827286838
+            },
+            {
+              "latitude": 26.249022507431565,
+              "longitude": -81.76848661149143
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 26.2498316300923,
+              "longitude": -81.76888357842563
+            },
+            {
+              "latitude": 26.249784001560464,
+              "longitude": -81.76866363728641
+            },
+            {
+              "latitude": 26.25007657651906,
+              "longitude": -81.76874946797489
+            },
+            {
+              "latitude": 26.2498316300923,
+              "longitude": -81.76888357842563
+            },
+            {
+              "latitude": 26.249784001560464,
+              "longitude": -81.76866363728641
+            },
+            {
+              "latitude": 26.25007657651906,
+              "longitude": -81.76874946797489
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 26.250838628766576,
+              "longitude": -81.76858317101596
+            },
+            {
+              "latitude": 26.250729764465838,
+              "longitude": -81.7687870189011
+            },
+            {
+              "latitude": 26.250600487976197,
+              "longitude": -81.76856171334384
+            },
+            {
+              "latitude": 26.250838628766576,
+              "longitude": -81.76858317101596
+            },
+            {
+              "latitude": 26.250729764465838,
+              "longitude": -81.7687870189011
+            },
+            {
+              "latitude": 26.250600487976197,
+              "longitude": -81.76856171334384
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 12,
+          "Par": 3,
+          "Yards": 167,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/CMETiburon/Gold-Course-12.jpg"
+          },
+          "image": "Hole11.png",
+          "page": "Hole11.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 26.24993369116622,
+            "longitude": -81.76874946797489
+          },
+          {
+            "latitude": 26.24996369116622,
+            "longitude": -81.76871946797489
+          },
+          {
+            "latitude": 26.24996369116622,
+            "longitude": -81.76877946797488
+          },
+          {
+            "latitude": 26.24993369116622,
+            "longitude": -81.76877946797488
+          },
+          {
+            "latitude": 26.24993369116622,
+            "longitude": -81.76871946797489
+          },
+          {
+            "latitude": 26.24990369116622,
+            "longitude": -81.76877946797488
+          },
+          {
+            "latitude": 26.24990369116622,
+            "longitude": -81.76871946797489
+          },
+          {
+            "latitude": 26.24990369116622,
+            "longitude": -81.76874946797489
+          },
+          {
+            "latitude": 26.24996369116622,
+            "longitude": -81.76874946797489
+          },
+          {
+            "latitude": 26.24992469116622,
+            "longitude": -81.76874046797488
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "description": "Water, a large coquina waste area, fairway bunkers and soft rolling hills in the fairway… Nothing missing here! A drive from a slightly elevated tee and an iron shot to a green with a deep greenside bunker protecting its left side makes this hole very interesting.",
+          "TeeLocation": {
+            "latitude": 26.250549589170124,
+            "longitude": -81.76774632180332
+          },
+          "FlagLocation": {
+            "latitude": 26.252080486404573,
+            "longitude": -81.76511239255069
+          },
+          "FairwayLocation": {
+            "latitude": 26.25166544514752,
+            "longitude": -81.7663032933533
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 26.250488352861186,
+              "longitude": -81.76785361016391
+            },
+            {
+              "latitude": 26.250787730064882,
+              "longitude": -81.76763903344272
+            },
+            {
+              "latitude": 26.250951026396276,
+              "longitude": -81.76742445672153
+            },
+            {
+              "latitude": 26.250488352861186,
+              "longitude": -81.76785361016391
+            },
+            {
+              "latitude": 26.250787730064882,
+              "longitude": -81.76763903344272
+            },
+            {
+              "latitude": 26.250951026396276,
+              "longitude": -81.76742445672153
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 26.251719876872258,
+              "longitude": -81.7665178700745
+            },
+            {
+              "latitude": 26.25148854186596,
+              "longitude": -81.76637303078769
+            },
+            {
+              "latitude": 26.251740288762488,
+              "longitude": -81.76619600499271
+            },
+            {
+              "latitude": 26.251719876872258,
+              "longitude": -81.7665178700745
+            },
+            {
+              "latitude": 26.25148854186596,
+              "longitude": -81.76637303078769
+            },
+            {
+              "latitude": 26.251740288762488,
+              "longitude": -81.76619600499271
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 26.25196481931801,
+              "longitude": -81.76526796067355
+            },
+            {
+              "latitude": 26.251903583755052,
+              "longitude": -81.76506947720645
+            },
+            {
+              "latitude": 26.252155391096725,
+              "longitude": -81.76498364651798
+            },
+            {
+              "latitude": 26.25196481931801,
+              "longitude": -81.76526796067355
+            },
+            {
+              "latitude": 26.251903583755052,
+              "longitude": -81.76506947720645
+            },
+            {
+              "latitude": 26.252155391096725,
+              "longitude": -81.76498364651798
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 13,
+          "Par": 4,
+          "Yards": 350,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/CMETiburon/Gold-Course-13.jpg"
+          },
+          "image": "Hole12.png",
+          "page": "Hole12.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 26.25166544514752,
+            "longitude": -81.7663032933533
+          },
+          {
+            "latitude": 26.25169544514752,
+            "longitude": -81.76627329335331
+          },
+          {
+            "latitude": 26.25169544514752,
+            "longitude": -81.7663332933533
+          },
+          {
+            "latitude": 26.25166544514752,
+            "longitude": -81.7663332933533
+          },
+          {
+            "latitude": 26.25166544514752,
+            "longitude": -81.76627329335331
+          },
+          {
+            "latitude": 26.25163544514752,
+            "longitude": -81.7663332933533
+          },
+          {
+            "latitude": 26.25163544514752,
+            "longitude": -81.76627329335331
+          },
+          {
+            "latitude": 26.25163544514752,
+            "longitude": -81.7663032933533
+          },
+          {
+            "latitude": 26.25169544514752,
+            "longitude": -81.7663032933533
+          },
+          {
+            "latitude": 26.25165644514752,
+            "longitude": -81.7662942933533
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "description": "This challenging par 5 begins a stretch of holes that tests the skills of all players. With water running the length of the hole on the right, this sharp dogleg allows golfers the opportunity to cut off some distance at the corner, but demands accurate approach shots to avoid trouble.",
+          "TeeLocation": {
+            "latitude": 26.25297154817024,
+            "longitude": -81.76569711411594
+          },
+          "FlagLocation": {
+            "latitude": 26.255721178925764,
+            "longitude": -81.76853715140874
+          },
+          "FairwayLocation": {
+            "latitude": 26.253598737426895,
+            "longitude": -81.76792024333531
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 26.252951136496364,
+              "longitude": -81.76556300366519
+            },
+            {
+              "latitude": 26.252964744279375,
+              "longitude": -81.76584731782077
+            },
+            {
+              "latitude": 26.25299195984053,
+              "longitude": -81.76607798779605
+            },
+            {
+              "latitude": 26.252951136496364,
+              "longitude": -81.76556300366519
+            },
+            {
+              "latitude": 26.252964744279375,
+              "longitude": -81.76584731782077
+            },
+            {
+              "latitude": 26.25299195984053,
+              "longitude": -81.76607798779605
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 26.253789245181498,
+              "longitude": -81.76810263354832
+            },
+            {
+              "latitude": 26.253530698867383,
+              "longitude": -81.76804362495
+            },
+            {
+              "latitude": 26.25364636439486,
+              "longitude": -81.76778076846654
+            },
+            {
+              "latitude": 26.253789245181498,
+              "longitude": -81.76810263354832
+            },
+            {
+              "latitude": 26.253530698867383,
+              "longitude": -81.76804362495
+            },
+            {
+              "latitude": 26.25364636439486,
+              "longitude": -81.76778076846654
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 26.25555108556019,
+              "longitude": -81.76868199069554
+            },
+            {
+              "latitude": 26.255632730406752,
+              "longitude": -81.76842986304814
+            },
+            {
+              "latitude": 26.255367384445623,
+              "longitude": -81.76855324466283
+            },
+            {
+              "latitude": 26.25555108556019,
+              "longitude": -81.76868199069554
+            },
+            {
+              "latitude": 26.255632730406752,
+              "longitude": -81.76842986304814
+            },
+            {
+              "latitude": 26.255367384445623,
+              "longitude": -81.76855324466283
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 14,
+          "Par": 5,
+          "Yards": 544,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/CMETiburon/Gold-Course-14.jpg"
+          },
+          "image": "Hole13.png",
+          "page": "Hole13.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 26.253598737426895,
+            "longitude": -81.76792024333531
+          },
+          {
+            "latitude": 26.253628737426894,
+            "longitude": -81.76789024333532
+          },
+          {
+            "latitude": 26.253628737426894,
+            "longitude": -81.7679502433353
+          },
+          {
+            "latitude": 26.253598737426895,
+            "longitude": -81.7679502433353
+          },
+          {
+            "latitude": 26.253598737426895,
+            "longitude": -81.76789024333532
+          },
+          {
+            "latitude": 26.253568737426896,
+            "longitude": -81.7679502433353
+          },
+          {
+            "latitude": 26.253568737426896,
+            "longitude": -81.76789024333532
+          },
+          {
+            "latitude": 26.253568737426896,
+            "longitude": -81.76792024333531
+          },
+          {
+            "latitude": 26.253628737426894,
+            "longitude": -81.76792024333531
+          },
+          {
+            "latitude": 26.253589737426896,
+            "longitude": -81.7679112433353
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "description": "A wider fairway allows the golfer a little more room for error off the tee, but little margin when players get to the green. Avoiding the deep greenside bunker left and properly negotiating the mounds and undulation on the green is the key to a good score here.",
+          "TeeLocation": {
+            "latitude": 26.256265476021795,
+            "longitude": -81.76868735511357
+          },
+          "FlagLocation": {
+            "latitude": 26.256124358925305,
+            "longitude": -81.76490310180168
+          },
+          "FairwayLocation": {
+            "latitude": 26.256000131506067,
+            "longitude": -81.76640370939907
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 26.256279083416526,
+              "longitude": -81.76860688884312
+            },
+            {
+              "latitude": 26.256211046426962,
+              "longitude": -81.76839231212193
+            },
+            {
+              "latitude": 26.256183831620007,
+              "longitude": -81.76817237098271
+            },
+            {
+              "latitude": 26.256279083416526,
+              "longitude": -81.76860688884312
+            },
+            {
+              "latitude": 26.256211046426962,
+              "longitude": -81.76839231212193
+            },
+            {
+              "latitude": 26.256183831620007,
+              "longitude": -81.76817237098271
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 26.25612294613892,
+              "longitude": -81.76653218116132
+            },
+            {
+              "latitude": 26.255850797575736,
+              "longitude": -81.76658582534162
+            },
+            {
+              "latitude": 26.255912031058028,
+              "longitude": -81.76635515536634
+            },
+            {
+              "latitude": 26.25612294613892,
+              "longitude": -81.76653218116132
+            },
+            {
+              "latitude": 26.255850797575736,
+              "longitude": -81.76658582534162
+            },
+            {
+              "latitude": 26.255912031058028,
+              "longitude": -81.76635515536634
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 26.256226414470838,
+              "longitude": -81.76467779624443
+            },
+            {
+              "latitude": 26.255988284725095,
+              "longitude": -81.76474216926078
+            },
+            {
+              "latitude": 26.256042714424304,
+              "longitude": -81.76505330550651
+            },
+            {
+              "latitude": 26.256226414470838,
+              "longitude": -81.76467779624443
+            },
+            {
+              "latitude": 26.255988284725095,
+              "longitude": -81.76474216926078
+            },
+            {
+              "latitude": 26.256042714424304,
+              "longitude": -81.76505330550651
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 15,
+          "Par": 4,
+          "Yards": 390,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/CMETiburon/Gold-Course-15.jpg"
+          },
+          "image": "Hole14.png",
+          "page": "Hole14.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 26.256000131506067,
+            "longitude": -81.76640370939907
+          },
+          {
+            "latitude": 26.256030131506066,
+            "longitude": -81.76637370939908
+          },
+          {
+            "latitude": 26.256030131506066,
+            "longitude": -81.76643370939907
+          },
+          {
+            "latitude": 26.256000131506067,
+            "longitude": -81.76643370939907
+          },
+          {
+            "latitude": 26.256000131506067,
+            "longitude": -81.76637370939908
+          },
+          {
+            "latitude": 26.255970131506068,
+            "longitude": -81.76643370939907
+          },
+          {
+            "latitude": 26.255970131506068,
+            "longitude": -81.76637370939908
+          },
+          {
+            "latitude": 26.255970131506068,
+            "longitude": -81.76640370939907
+          },
+          {
+            "latitude": 26.256030131506066,
+            "longitude": -81.76640370939907
+          },
+          {
+            "latitude": 26.255991131506068,
+            "longitude": -81.76639470939907
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "description": "This magnificent par 3 is nestled back in the woods with water at the front right of the green, which is surrounded by adjacent stacked sod wall bunkers. An accurate tee shot is required here as this green is well protected.",
+          "TeeLocation": {
+            "latitude": 26.256700157839784,
+            "longitude": -81.76407896413036
+          },
+          "FlagLocation": {
+            "latitude": 26.25779877081118,
+            "longitude": -81.7626776190973
+          },
+          "FairwayLocation": {
+            "latitude": 26.257609693330544,
+            "longitude": -81.76311577266586
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 26.256713765183594,
+              "longitude": -81.76413797272869
+            },
+            {
+              "latitude": 26.256917875149256,
+              "longitude": -81.76392876042553
+            },
+            {
+              "latitude": 26.25715600298921,
+              "longitude": -81.7637785567207
+            },
+            {
+              "latitude": 26.256713765183594,
+              "longitude": -81.76413797272869
+            },
+            {
+              "latitude": 26.256917875149256,
+              "longitude": -81.76392876042553
+            },
+            {
+              "latitude": 26.25715600298921,
+              "longitude": -81.7637785567207
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 26.257541657120452,
+              "longitude": -81.76325524753463
+            },
+            {
+              "latitude": 26.257541657120452,
+              "longitude": -81.76303798860442
+            },
+            {
+              "latitude": 26.25767772950082,
+              "longitude": -81.76313186591995
+            },
+            {
+              "latitude": 26.257541657120452,
+              "longitude": -81.76325524753463
+            },
+            {
+              "latitude": 26.257541657120452,
+              "longitude": -81.76303798860442
+            },
+            {
+              "latitude": 26.25767772950082,
+              "longitude": -81.76313186591995
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 26.257849797859535,
+              "longitude": -81.76278222524888
+            },
+            {
+              "latitude": 26.25769331484019,
+              "longitude": -81.76279295408494
+            },
+            {
+              "latitude": 26.25775114554583,
+              "longitude": -81.76261592828996
+            },
+            {
+              "latitude": 26.257849797859535,
+              "longitude": -81.76278222524888
+            },
+            {
+              "latitude": 26.25769331484019,
+              "longitude": -81.76279295408494
+            },
+            {
+              "latitude": 26.25775114554583,
+              "longitude": -81.76261592828996
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 16,
+          "Par": 3,
+          "Yards": 168,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/CMETiburon/Gold-Course-16.jpg"
+          },
+          "image": "Hole15.png",
+          "page": "Hole15.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 26.257609693330544,
+            "longitude": -81.76311577266586
+          },
+          {
+            "latitude": 26.257639693330542,
+            "longitude": -81.76308577266586
+          },
+          {
+            "latitude": 26.257639693330542,
+            "longitude": -81.76314577266585
+          },
+          {
+            "latitude": 26.257609693330544,
+            "longitude": -81.76314577266585
+          },
+          {
+            "latitude": 26.257609693330544,
+            "longitude": -81.76308577266586
+          },
+          {
+            "latitude": 26.257579693330545,
+            "longitude": -81.76314577266585
+          },
+          {
+            "latitude": 26.257579693330545,
+            "longitude": -81.76308577266586
+          },
+          {
+            "latitude": 26.257579693330545,
+            "longitude": -81.76311577266586
+          },
+          {
+            "latitude": 26.257639693330542,
+            "longitude": -81.76311577266586
+          },
+          {
+            "latitude": 26.257600693330545,
+            "longitude": -81.76310677266585
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "description": "An attractive par 5 that blends native trees and foliage on the left with a water hazard and bunkers on the right. This hole allows for plenty of creative shot-making and is certain to play differently for each player. Keep left on the second shot to avoid the fairway bunker and the deep-stacked sod wall bunker to the right of the green.",
+          "TeeLocation": {
+            "latitude": 26.257584776811942,
+            "longitude": -81.76165095012072
+          },
+          "FlagLocation": {
+            "latitude": 26.253536552082394,
+            "longitude": -81.76298669021014
+          },
+          "FairwayLocation": {
+            "latitude": 26.255672943723045,
+            "longitude": -81.76262190978412
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 26.25757797319127,
+              "longitude": -81.7617367808092
+            },
+            {
+              "latitude": 26.257387471650482,
+              "longitude": -81.76186552684192
+            },
+            {
+              "latitude": 26.257210577082873,
+              "longitude": -81.76200500171069
+            },
+            {
+              "latitude": 26.25757797319127,
+              "longitude": -81.7617367808092
+            },
+            {
+              "latitude": 26.257387471650482,
+              "longitude": -81.76186552684192
+            },
+            {
+              "latitude": 26.257210577082873,
+              "longitude": -81.76200500171069
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 26.255598102641788,
+              "longitude": -81.76282575766925
+            },
+            {
+              "latitude": 26.255897466677425,
+              "longitude": -81.76266482512835
+            },
+            {
+              "latitude": 26.255693354918645,
+              "longitude": -81.76253071467761
+            },
+            {
+              "latitude": 26.255598102641788,
+              "longitude": -81.76282575766925
+            },
+            {
+              "latitude": 26.255897466677425,
+              "longitude": -81.76266482512835
+            },
+            {
+              "latitude": 26.255693354918645,
+              "longitude": -81.76253071467761
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 26.253529748224604,
+              "longitude": -81.7631583515871
+            },
+            {
+              "latitude": 26.25357737522097,
+              "longitude": -81.76282039325122
+            },
+            {
+              "latitude": 26.253835921431058,
+              "longitude": -81.76291158835772
+            },
+            {
+              "latitude": 26.253529748224604,
+              "longitude": -81.7631583515871
+            },
+            {
+              "latitude": 26.25357737522097,
+              "longitude": -81.76282039325122
+            },
+            {
+              "latitude": 26.253835921431058,
+              "longitude": -81.76291158835772
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 17,
+          "Par": 5,
+          "Yards": 485,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/CMETiburon/Gold-Course-17.jpg"
+          },
+          "image": "Hole16.png",
+          "page": "Hole16.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 26.255672943723045,
+            "longitude": -81.76262190978412
+          },
+          {
+            "latitude": 26.255702943723044,
+            "longitude": -81.76259190978412
+          },
+          {
+            "latitude": 26.255702943723044,
+            "longitude": -81.76265190978411
+          },
+          {
+            "latitude": 26.255672943723045,
+            "longitude": -81.76265190978411
+          },
+          {
+            "latitude": 26.255672943723045,
+            "longitude": -81.76259190978412
+          },
+          {
+            "latitude": 26.255642943723046,
+            "longitude": -81.76265190978411
+          },
+          {
+            "latitude": 26.255642943723046,
+            "longitude": -81.76259190978412
+          },
+          {
+            "latitude": 26.255642943723046,
+            "longitude": -81.76262190978412
+          },
+          {
+            "latitude": 26.255702943723044,
+            "longitude": -81.76262190978412
+          },
+          {
+            "latitude": 26.255663943723047,
+            "longitude": -81.76261290978411
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "description": "A beautiful hole with water on the left and a deep-faced fairway bunker on the right. A drive down the center of the fairway leaves a second shot slightly over water to a green surrounded by greenside bunkers. With the clubhouse, fitness center, spa, and The Ritz-Carlton Golf Resort, Naples as the backdrop, this finishing hole provides a memorable view.",
+          "TeeLocation": {
+            "latitude": 26.252432284505495,
+            "longitude": -81.76337501097686
+          },
+          "FlagLocation": {
+            "latitude": 26.249056208524905,
+            "longitude": -81.76477240981148
+          },
+          "FairwayLocation": {
+            "latitude": 26.250633662128717,
+            "longitude": -81.76456362779186
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 26.252398264889123,
+              "longitude": -81.76353594351775
+            },
+            {
+              "latitude": 26.252248578458808,
+              "longitude": -81.7637236981488
+            },
+            {
+              "latitude": 26.252126107599622,
+              "longitude": -81.76394363928802
+            },
+            {
+              "latitude": 26.252398264889123,
+              "longitude": -81.76353594351775
+            },
+            {
+              "latitude": 26.252248578458808,
+              "longitude": -81.7637236981488
+            },
+            {
+              "latitude": 26.252126107599622,
+              "longitude": -81.76394363928802
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 26.250504385532135,
+              "longitude": -81.76479429776714
+            },
+            {
+              "latitude": 26.250415933041094,
+              "longitude": -81.76452071244762
+            },
+            {
+              "latitude": 26.2508252662551,
+              "longitude": -81.76456319750832
+            },
+            {
+              "latitude": 26.250504385532135,
+              "longitude": -81.76479429776714
+            },
+            {
+              "latitude": 26.250415933041094,
+              "longitude": -81.76452071244762
+            },
+            {
+              "latitude": 26.2508252662551,
+              "longitude": -81.76456319750832
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 26.249287548374372,
+              "longitude": -81.76493870677041
+            },
+            {
+              "latitude": 26.249001775552195,
+              "longitude": -81.76492261351632
+            },
+            {
+              "latitude": 26.249110641472093,
+              "longitude": -81.76468657912301
+            },
+            {
+              "latitude": 26.249287548374372,
+              "longitude": -81.76493870677041
+            },
+            {
+              "latitude": 26.249001775552195,
+              "longitude": -81.76492261351632
+            },
+            {
+              "latitude": 26.249110641472093,
+              "longitude": -81.76468657912301
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 18,
+          "Par": 4,
+          "Yards": 425,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/CMETiburon/Gold-Course-18.jpg"
+          },
+          "image": "Hole17.png",
+          "page": "Hole17.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 26.250633662128717,
+            "longitude": -81.76456362779186
+          },
+          {
+            "latitude": 26.250663662128716,
+            "longitude": -81.76453362779186
+          },
+          {
+            "latitude": 26.250663662128716,
+            "longitude": -81.76459362779185
+          },
+          {
+            "latitude": 26.250633662128717,
+            "longitude": -81.76459362779185
+          },
+          {
+            "latitude": 26.250633662128717,
+            "longitude": -81.76453362779186
+          },
+          {
+            "latitude": 26.250603662128718,
+            "longitude": -81.76459362779185
+          },
+          {
+            "latitude": 26.250603662128718,
+            "longitude": -81.76453362779186
+          },
+          {
+            "latitude": 26.250603662128718,
+            "longitude": -81.76456362779186
+          },
+          {
+            "latitude": 26.250663662128716,
+            "longitude": -81.76456362779186
+          },
+          {
+            "latitude": 26.25062466212872,
+            "longitude": -81.76455462779185
+          }
+        ]
+      }
+    ],
+    "type": "FeatureCollection",
+    "initialRegion": {
+      "latitude": 26.248109,
+      "longitude":  -81.764788,
+      "latitudeDelta": 0.0005,
+      "longitudeDelta": 0.0020
+    },
+    "maxDelta": 0.02,
+    "courseGeoFence": [
+      {
+        "latitude": 26.243669,
+        "longitude": -81.769510
+      },
+      {
+        "latitude": 26.258051,
+        "longitude": -81.769406
+      },
+      {
+        "latitude": 26.259731,
+        "longitude": -81.759829
+      },
+      {
+        "latitude": 26.272372,
+        "longitude": -81.756484
+      },
+      {
+        "latitude": 26.244181,
+        "longitude": -81.752901
+      },
+      {
+        "latitude": 26.243813,
+        "longitude": -81.768470
+      }
+    ],
+    "courseFileVersion": "v0.0.2",
+    "tournamentActive": "no",
+    "tournamentLogo": {
+      "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/CMETiburon/CMELogo.png"
+    },
+    "tournamentBackgroundImage": {
+      "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/CMETiburon/Gold-Course-18-Small-Dark.jpg"
+    },
+    "courseName": "Tiburon Golf Club",
+    "courseLocation": "Naples, FL",
+    "courseLogo": {
+      "uri": "http://www.cmegrouptourchampionship.com/-/media/images/lpga/cme-group/sponsors/2018Tiburon_140x120"
+    }
+
+  }
+  
+  
+}

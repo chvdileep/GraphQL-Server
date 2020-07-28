@@ -1,0 +1,3110 @@
+{
+  "Sponsors": [
+    {
+      "sponsorNumber": "1",
+      "image": {
+        "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/images/BAsponsor.png"
+      }
+    },
+    {
+      "sponsorNumber": "2",
+      "image": {
+        "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/500px-NEC_logo.svg.png"
+      }
+    }
+  ],
+  "trendingEntries": {
+    "ENTRIES1": [
+      {
+        "title": "Tournament Pairings",
+        "subtitle": "View the tournament pairings",
+        "illustration": "http://www.lpgafounderscup.com/-/media/images/lpga/tournaments/lpga-founders-cup/2019/preview/foundersfeaturedgroups.jpg?h=1125&la=en&w=2000&hash=9FB9FE847A69B6D18CB9429BB8A905B2D3F5EAB0",
+        "weblink": "https://www.lpga.com/tournaments/the-evian-championship/pairings"
+      },
+      {
+        "title": "LPGA Junior Ladies",
+        "subtitle": "Find your local chapter",
+        "illustration": "https://www.girlsgolf.org/image/0---new-site-images/news/Find-a-Site.jpg",
+        "weblink": "https://www.nwachampionship.com/onsite-activities/"
+      },
+      {
+        "title": "Aon Risk Reward Challenge",
+        "subtitle": "Season-long Aon Risk Reward Challenge will highlight the world’s best professional golfers",
+        "illustration": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/aon.jpg",
+        "weblink": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/Aon.pdf"
+      }
+    ],
+
+
+    "tvTimes": [
+      {
+        "image": {
+          "uri": "http://www.lpga.com/-/media/images/lpga/tv-network-logos/golf-channel.png?h=50&la=en&w=50&hash=E978E602DAD7DF9D1EFE17403D32B4165BD21C58"
+        },
+        "tvTimeEntries": [
+          {
+          "time": "July 25 Golf Channel (ET) 5:00 - 7:00 a.m."
+          },
+          {
+          "time": "July 25 Golf Channel (ET) 9:30 - 11:30 a.m."
+          },
+          {
+          "time": "July 26 Golf Channel (ET) 5:00 - 7:00 a.m."
+          },
+          {
+          "time": "July 26 Golf Channel (ET) 9:30 - 11:30 a.m."
+          },
+          {
+          "time": "July 27 Golf Channel (ET) 6:00 - 9:00 a.m."
+          },
+          {
+          "time": "July 28 Golf Channel (ET) 6:00 - 9:00 a.m."
+          }
+        ]
+      },
+      {
+        "image": {
+          "uri": "https://www.lpga.com/tournaments/the-evian-championship/-/media/images/lpga/tv-network-logos/cnbc_tv_200x202.jpg?w=55"
+        },
+        "tvTimeEntries": [
+          {
+          "time": "July 27 CNBC (ET) 9:00 - 11:30 a.m."
+          },
+          {
+          "time": "July 28 CNBC (ET) 9:00 - 11:30 a.m."
+          }
+        ]
+      }
+    ]
+  },
+  
+  "Amenities": {
+    "Features": [
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 46.391842,  "longitude": 6.566338 },
+            "Menu": {
+              "name": "Le Fifteen",
+              "description": "",
+              "type": "Special",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 46.393317,  "longitude": 6.569567 },
+            "Menu": {
+              "name": "La Terrase",
+              "description": "",
+              "type": "Special",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 46.393460,  "longitude": 6.569511 },
+            "Menu": {
+              "name": "Le Five",
+              "description": "",
+              "type": "Special",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 46.393601,  "longitude": 6.570037 },
+            "Menu": {
+              "name": "Proshop",
+              "description": "",
+              "type": "Special",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 46.393656,  "longitude": 6.570596 },
+            "Menu": {
+              "name": "Clubhouse",
+              "description": "",
+              "type": "Special",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 46.393731,  "longitude": 6.571242 },
+            "Menu": {
+              "name": "Putting Green",
+              "description": "",
+              "type": "Special",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 46.393983,  "longitude": 6.571736 },
+            "Menu": {
+              "name": "Chipping Green",
+              "description": "",
+              "type": "Special",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 46.393957,  "longitude": 6.573196 },
+            "Menu": {
+              "name": "Village Spectateurs",
+              "description": "",
+              "type": "Special",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 46.393408,  "longitude": 6.570026 },
+            "Menu": {
+              "name": "Place du mainscoring",
+              "description": "",
+              "type": "Special",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 46.392118,  "longitude": 6.570604 },
+            "Menu": {
+              "name": "Skyboxes",
+              "description": "",
+              "type": "Special",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 46.391939,  "longitude": 6.569377  },
+            "Menu": {
+              "name": "Les Loges",
+              "description": "",
+              "type": "Special",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 46.394191,  "longitude": 6.570695  },
+            "Menu": {
+              "name": "Credential",
+              "description": "",
+              "type": "Special",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 46.394032,  "longitude": 6.570978  },
+            "Menu": {
+              "name": "Bar Evian",
+              "description": "",
+              "type": "Special",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 46.394220,  "longitude": 6.571854  },
+            "Menu": {
+              "name": "Village Des Sponsors",
+              "description": "",
+              "type": "Special",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 46.392635,  "longitude": 6.571376  },
+            "Menu": {
+              "name": "La Terrasse Du 18",
+              "description": "",
+              "type": "Special",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Other",
+          "profilePhoto": "Other",
+            "position": { "latitude": 46.39158977826765,  "longitude": 6.564276940782861 },
+            "Menu": {
+              "name": "AON Risk Reward",
+              "description": "AON Risk Reward",
+              "type": "Other",
+              "filter": "generic",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      }
+      
+    ]
+  },
+  "courseConfig": {
+    "Features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 46.39323454271922,
+            "longitude": 6.570725027623325
+          },
+          "FlagLocation": {
+            "latitude": 46.393724187467676,
+            "longitude": 6.575340745625681
+          },
+          "FairwayLocation": {
+            "latitude": 46.39348369779257,
+            "longitude": 6.573473928151316
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 46.39327154136867,
+              "longitude": 6.57061773926273
+            },
+            {
+              "latitude": 46.39328634082145,
+              "longitude": 6.57085913807407
+            },
+            {
+              "latitude": 46.39316794508699,
+              "longitude": 6.5707464852954445
+            },
+            {
+              "latitude": 46.39323454271922,
+              "longitude": 6.570755027623325
+            },
+            {
+              "latitude": 46.39320454271922,
+              "longitude": 6.570695027623326
+            },
+            {
+              "latitude": 46.39320454271922,
+              "longitude": 6.570755027623325
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 46.393509596731576,
+              "longitude": 6.5733290888645115
+            },
+            {
+              "latitude": 46.39353179581237,
+              "longitude": 6.573586580929941
+            },
+            {
+              "latitude": 46.393413400610456,
+              "longitude": 6.573473928151316
+            },
+            {
+              "latitude": 46.39348369779257,
+              "longitude": 6.5735039281513155
+            },
+            {
+              "latitude": 46.393453697792566,
+              "longitude": 6.573443928151316
+            },
+            {
+              "latitude": 46.393453697792566,
+              "longitude": 6.5735039281513155
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 46.39371308796754,
+              "longitude": 6.575194266181484
+            },
+            {
+              "latitude": 46.39380188390544,
+              "longitude": 6.575355198722377
+            },
+            {
+              "latitude": 46.393657590433,
+              "longitude": 6.575408842902675
+            },
+            {
+              "latitude": 46.393724187467676,
+              "longitude": 6.575370745625681
+            },
+            {
+              "latitude": 46.39369418746767,
+              "longitude": 6.575310745625681
+            },
+            {
+              "latitude": 46.39369418746767,
+              "longitude": 6.575370745625681
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 1,
+          "Par": 4,
+          "Yards": 399,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/Evian-2019/1.png"
+          },
+          "description": "",
+          "image": "Hole0.png",
+          "page": "Hole0.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 46.39348369779257,
+            "longitude": 6.573473928151316
+          },
+          {
+            "latitude": 46.39351369779257,
+            "longitude": 6.5735039281513155
+          },
+          {
+            "latitude": 46.39351369779257,
+            "longitude": 6.573443928151316
+          },
+          {
+            "latitude": 46.39348369779257,
+            "longitude": 6.573443928151316
+          },
+          {
+            "latitude": 46.39348369779257,
+            "longitude": 6.5735039281513155
+          },
+          {
+            "latitude": 46.393453697792566,
+            "longitude": 6.573443928151316
+          },
+          {
+            "latitude": 46.393453697792566,
+            "longitude": 6.5735039281513155
+          },
+          {
+            "latitude": 46.393453697792566,
+            "longitude": 6.573473928151316
+          },
+          {
+            "latitude": 46.39351369779257,
+            "longitude": 6.573473928151316
+          },
+          {
+            "latitude": 46.39347469779257,
+            "longitude": 6.573482928151316
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 46.39443742032076,
+            "longitude": 6.574878028871922
+          },
+          "FlagLocation": {
+            "latitude": 46.39562024214118,
+            "longitude": 6.574113405546768
+          },
+          "FairwayLocation": {
+            "latitude": 46.39528815063907,
+            "longitude": 6.574531403425567
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 46.394474204634804,
+              "longitude": 6.574783531072967
+            },
+            {
+              "latitude": 46.394515115743054,
+              "longitude": 6.574953130724339
+            },
+            {
+              "latitude": 46.39435061344031,
+              "longitude": 6.574928370359771
+            },
+            {
+              "latitude": 46.39443742032076,
+              "longitude": 6.5749080288719215
+            },
+            {
+              "latitude": 46.39440742032076,
+              "longitude": 6.574848028871922
+            },
+            {
+              "latitude": 46.39440742032076,
+              "longitude": 6.5749080288719215
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 46.395277051457036,
+              "longitude": 6.574413386228912
+            },
+            {
+              "latitude": 46.39535844540628,
+              "longitude": 6.574622598532073
+            },
+            {
+              "latitude": 46.395232654706255,
+              "longitude": 6.574627962950103
+            },
+            {
+              "latitude": 46.39528815063907,
+              "longitude": 6.574561403425567
+            },
+            {
+              "latitude": 46.395258150639066,
+              "longitude": 6.574501403425567
+            },
+            {
+              "latitude": 46.395258150639066,
+              "longitude": 6.574561403425567
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 46.395616542436585,
+              "longitude": 6.573990023932083
+            },
+            {
+              "latitude": 46.39567573767985,
+              "longitude": 6.574177778563126
+            },
+            {
+              "latitude": 46.39556844625416,
+              "longitude": 6.574161421954841
+            },
+            {
+              "latitude": 46.39562024214118,
+              "longitude": 6.574143405546768
+            },
+            {
+              "latitude": 46.395590242141175,
+              "longitude": 6.5740834055467685
+            },
+            {
+              "latitude": 46.395590242141175,
+              "longitude": 6.574143405546768
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 2,
+          "Par": 4,
+          "Yards": 165,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/Evian-2019/1.png"
+          },
+          "description": "",
+          "image": "Hole1.png",
+          "page": "Hole1.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 46.39528815063907,
+            "longitude": 6.574531403425567
+          },
+          {
+            "latitude": 46.39531815063907,
+            "longitude": 6.574561403425567
+          },
+          {
+            "latitude": 46.39531815063907,
+            "longitude": 6.574501403425567
+          },
+          {
+            "latitude": 46.39528815063907,
+            "longitude": 6.574501403425567
+          },
+          {
+            "latitude": 46.39528815063907,
+            "longitude": 6.574561403425567
+          },
+          {
+            "latitude": 46.395258150639066,
+            "longitude": 6.574501403425567
+          },
+          {
+            "latitude": 46.395258150639066,
+            "longitude": 6.574561403425567
+          },
+          {
+            "latitude": 46.395258150639066,
+            "longitude": 6.574531403425567
+          },
+          {
+            "latitude": 46.39531815063907,
+            "longitude": 6.574531403425567
+          },
+          {
+            "latitude": 46.39527915063907,
+            "longitude": 6.5745404034255674
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 46.39530130283571,
+            "longitude": 6.573546671175336
+          },
+          "FlagLocation": {
+            "latitude": 46.39489803120271,
+            "longitude": 6.569818400644635
+          },
+          "FairwayLocation": {
+            "latitude": 46.39508301856031,
+            "longitude": 6.57119705607829
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 46.395345699530644,
+              "longitude": 6.573423289560651
+            },
+            {
+              "latitude": 46.395349399253575,
+              "longitude": 6.573664688371991
+            },
+            {
+              "latitude": 46.39520880960525,
+              "longitude": 6.573530577921247
+            },
+            {
+              "latitude": 46.39530130283571,
+              "longitude": 6.573576671175336
+            },
+            {
+              "latitude": 46.39527130283571,
+              "longitude": 6.573516671175336
+            },
+            {
+              "latitude": 46.39527130283571,
+              "longitude": 6.573576671175336
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 46.39512001595657,
+              "longitude": 6.571057581209516
+            },
+            {
+              "latitude": 46.395160713063504,
+              "longitude": 6.571282886766767
+            },
+            {
+              "latitude": 46.39499792445369,
+              "longitude": 6.5712131493323795
+            },
+            {
+              "latitude": 46.39508301856031,
+              "longitude": 6.57122705607829
+            },
+            {
+              "latitude": 46.395053018560304,
+              "longitude": 6.57116705607829
+            },
+            {
+              "latitude": 46.395053018560304,
+              "longitude": 6.57122705607829
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 46.39490543070903,
+              "longitude": 6.56970038344798
+            },
+            {
+              "latitude": 46.394946127976006,
+              "longitude": 6.569925689005231
+            },
+            {
+              "latitude": 46.39483883511581,
+              "longitude": 6.569834493898725
+            },
+            {
+              "latitude": 46.39489803120271,
+              "longitude": 6.569848400644635
+            },
+            {
+              "latitude": 46.394868031202705,
+              "longitude": 6.569788400644636
+            },
+            {
+              "latitude": 46.394868031202705,
+              "longitude": 6.569848400644635
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 3,
+          "Par": 4,
+          "Yards": 355,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/Evian-2019/1.png"
+          },
+          "description": "",
+          "image": "Hole2.png",
+          "page": "Hole2.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 46.39508301856031,
+            "longitude": 6.57119705607829
+          },
+          {
+            "latitude": 46.39511301856031,
+            "longitude": 6.57122705607829
+          },
+          {
+            "latitude": 46.39511301856031,
+            "longitude": 6.57116705607829
+          },
+          {
+            "latitude": 46.39508301856031,
+            "longitude": 6.57116705607829
+          },
+          {
+            "latitude": 46.39508301856031,
+            "longitude": 6.57122705607829
+          },
+          {
+            "latitude": 46.395053018560304,
+            "longitude": 6.57116705607829
+          },
+          {
+            "latitude": 46.395053018560304,
+            "longitude": 6.57122705607829
+          },
+          {
+            "latitude": 46.395053018560304,
+            "longitude": 6.57119705607829
+          },
+          {
+            "latitude": 46.39511301856031,
+            "longitude": 6.57119705607829
+          },
+          {
+            "latitude": 46.39507401856031,
+            "longitude": 6.571206056078291
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 46.39556398275531,
+            "longitude": 6.571357988619184
+          },
+          "FlagLocation": {
+            "latitude": 46.39443102202781,
+            "longitude": 6.566566493932783
+          },
+          "FairwayLocation": {
+            "latitude": 46.394764001669486,
+            "longitude": 6.568063166563093
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 46.39559358041347,
+              "longitude": 6.571234607004499
+            },
+            {
+              "latitude": 46.39563427716725,
+              "longitude": 6.57145454814372
+            },
+            {
+              "latitude": 46.39552244771331,
+              "longitude": 6.57138374132353
+            },
+            {
+              "latitude": 46.39556398275531,
+              "longitude": 6.5713879886191835
+            },
+            {
+              "latitude": 46.39553398275531,
+              "longitude": 6.571327988619184
+            },
+            {
+              "latitude": 46.39553398275531,
+              "longitude": 6.5713879886191835
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 46.39478620024002,
+              "longitude": 6.567934420530378
+            },
+            {
+              "latitude": 46.39481579832004,
+              "longitude": 6.568170454923688
+            },
+            {
+              "latitude": 46.39467520729703,
+              "longitude": 6.568063166563093
+            },
+            {
+              "latitude": 46.394764001669486,
+              "longitude": 6.568093166563092
+            },
+            {
+              "latitude": 46.394734001669484,
+              "longitude": 6.568033166563093
+            },
+            {
+              "latitude": 46.394734001669484,
+              "longitude": 6.568093166563092
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 46.394453220733794,
+              "longitude": 6.566464569990217
+            },
+            {
+              "latitude": 46.39448281899441,
+              "longitude": 6.566689875547468
+            },
+            {
+              "latitude": 46.394364425855684,
+              "longitude": 6.566577222768842
+            },
+            {
+              "latitude": 46.39443102202781,
+              "longitude": 6.566596493932782
+            },
+            {
+              "latitude": 46.39440102202781,
+              "longitude": 6.566536493932783
+            },
+            {
+              "latitude": 46.39440102202781,
+              "longitude": 6.566596493932782
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 4,
+          "Par": 4,
+          "Yards": 434,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/Evian-2019/1.png"
+          },
+          "description": "",
+          "image": "Hole3.png",
+          "page": "Hole3.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 46.394764001669486,
+            "longitude": 6.568063166563093
+          },
+          {
+            "latitude": 46.39479400166949,
+            "longitude": 6.568093166563092
+          },
+          {
+            "latitude": 46.39479400166949,
+            "longitude": 6.568033166563093
+          },
+          {
+            "latitude": 46.394764001669486,
+            "longitude": 6.568033166563093
+          },
+          {
+            "latitude": 46.394764001669486,
+            "longitude": 6.568093166563092
+          },
+          {
+            "latitude": 46.394734001669484,
+            "longitude": 6.568033166563093
+          },
+          {
+            "latitude": 46.394734001669484,
+            "longitude": 6.568093166563092
+          },
+          {
+            "latitude": 46.394734001669484,
+            "longitude": 6.568063166563093
+          },
+          {
+            "latitude": 46.39479400166949,
+            "longitude": 6.568063166563093
+          },
+          {
+            "latitude": 46.39475500166949,
+            "longitude": 6.568072166563093
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 46.39342329855283,
+            "longitude": 6.566593709251265
+          },
+          "FlagLocation": {
+            "latitude": 46.393364949316776,
+            "longitude": 6.568797490211637
+          },
+          "FairwayLocation": {
+            "latitude": 46.393564741248376,
+            "longitude": 6.568186941406111
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 46.39344549766875,
+              "longitude": 6.566448869964461
+            },
+            {
+              "latitude": 46.393497295570704,
+              "longitude": 6.5666795399397415
+            },
+            {
+              "latitude": 46.39333998663945,
+              "longitude": 6.5666312601774735
+            },
+            {
+              "latitude": 46.39342329855283,
+              "longitude": 6.566623709251265
+            },
+            {
+              "latitude": 46.39339329855283,
+              "longitude": 6.566563709251265
+            },
+            {
+              "latitude": 46.39339329855283,
+              "longitude": 6.566623709251265
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 46.39358324046432,
+              "longitude": 6.568020644447188
+            },
+            {
+              "latitude": 46.39363873807448,
+              "longitude": 6.568240585586409
+            },
+            {
+              "latitude": 46.393524042951285,
+              "longitude": 6.568262043258528
+            },
+            {
+              "latitude": 46.393564741248376,
+              "longitude": 6.568216941406111
+            },
+            {
+              "latitude": 46.393534741248374,
+              "longitude": 6.568156941406111
+            },
+            {
+              "latitude": 46.393534741248374,
+              "longitude": 6.568216941406111
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 46.393376048887696,
+              "longitude": 6.5686741085969516
+            },
+            {
+              "latitude": 46.39342784685561,
+              "longitude": 6.568877956482083
+            },
+            {
+              "latitude": 46.39331875148964,
+              "longitude": 6.568879949866641
+            },
+            {
+              "latitude": 46.393364949316776,
+              "longitude": 6.568827490211636
+            },
+            {
+              "latitude": 46.393334949316774,
+              "longitude": 6.568767490211637
+            },
+            {
+              "latitude": 46.393334949316774,
+              "longitude": 6.568827490211636
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 5,
+          "Par": 3,
+          "Yards": 188,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/Evian-2019/1.png"
+          },
+          "description": "",
+          "image": "Hole4.png",
+          "page": "Hole4.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 46.393564741248376,
+            "longitude": 6.568186941406111
+          },
+          {
+            "latitude": 46.39359474124838,
+            "longitude": 6.568216941406111
+          },
+          {
+            "latitude": 46.39359474124838,
+            "longitude": 6.568156941406111
+          },
+          {
+            "latitude": 46.393564741248376,
+            "longitude": 6.568156941406111
+          },
+          {
+            "latitude": 46.393564741248376,
+            "longitude": 6.568216941406111
+          },
+          {
+            "latitude": 46.393534741248374,
+            "longitude": 6.568156941406111
+          },
+          {
+            "latitude": 46.393534741248374,
+            "longitude": 6.568216941406111
+          },
+          {
+            "latitude": 46.393534741248374,
+            "longitude": 6.568186941406111
+          },
+          {
+            "latitude": 46.39359474124838,
+            "longitude": 6.568186941406111
+          },
+          {
+            "latitude": 46.39355574124838,
+            "longitude": 6.5681959414061115
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 46.39298576302966,
+            "longitude": 6.568992602645267
+          },
+          "FlagLocation": {
+            "latitude": 46.39254124489041,
+            "longitude": 6.5651190919235205
+          },
+          "FairwayLocation": {
+            "latitude": 46.392821808324584,
+            "longitude": 6.566784010652896
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 46.39299686267773,
+              "longitude": 6.568869221030582
+            },
+            {
+              "latitude": 46.393019061967095,
+              "longitude": 6.569105255423892
+            },
+            {
+              "latitude": 46.39288956598522,
+              "longitude": 6.5689979670632965
+            },
+            {
+              "latitude": 46.39298576302966,
+              "longitude": 6.5690226026452665
+            },
+            {
+              "latitude": 46.392955763029654,
+              "longitude": 6.568962602645267
+            },
+            {
+              "latitude": 46.392955763029654,
+              "longitude": 6.5690226026452665
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 46.39282920811245,
+              "longitude": 6.566633806948062
+            },
+            {
+              "latitude": 46.392884706489404,
+              "longitude": 6.566864476923342
+            },
+            {
+              "latitude": 46.39275213953534,
+              "longitude": 6.566846434529111
+            },
+            {
+              "latitude": 46.392821808324584,
+              "longitude": 6.566814010652895
+            },
+            {
+              "latitude": 46.39279180832458,
+              "longitude": 6.566754010652896
+            },
+            {
+              "latitude": 46.39279180832458,
+              "longitude": 6.566814010652895
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 46.392552344628854,
+              "longitude": 6.564995710308835
+            },
+            {
+              "latitude": 46.392596743560205,
+              "longitude": 6.565237109120176
+            },
+            {
+              "latitude": 46.39247464641217,
+              "longitude": 6.565145914013669
+            },
+            {
+              "latitude": 46.39254124489041,
+              "longitude": 6.56514909192352
+            },
+            {
+              "latitude": 46.39251124489041,
+              "longitude": 6.565089091923521
+            },
+            {
+              "latitude": 46.39251124489041,
+              "longitude": 6.56514909192352
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 6,
+          "Par": 4,
+          "Yards": 378,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/Evian-2019/1.png"
+          },
+          "description": "",
+          "image": "Hole5.png",
+          "page": "Hole5.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 46.392821808324584,
+            "longitude": 6.566784010652896
+          },
+          {
+            "latitude": 46.392851808324586,
+            "longitude": 6.566814010652895
+          },
+          {
+            "latitude": 46.392851808324586,
+            "longitude": 6.566754010652896
+          },
+          {
+            "latitude": 46.392821808324584,
+            "longitude": 6.566754010652896
+          },
+          {
+            "latitude": 46.392821808324584,
+            "longitude": 6.566814010652895
+          },
+          {
+            "latitude": 46.39279180832458,
+            "longitude": 6.566754010652896
+          },
+          {
+            "latitude": 46.39279180832458,
+            "longitude": 6.566814010652895
+          },
+          {
+            "latitude": 46.39279180832458,
+            "longitude": 6.566784010652896
+          },
+          {
+            "latitude": 46.392851808324586,
+            "longitude": 6.566784010652896
+          },
+          {
+            "latitude": 46.392812808324585,
+            "longitude": 6.566793010652896
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 46.393042272027586,
+            "longitude": 6.565440957005308
+          },
+          "FlagLocation": {
+            "latitude": 46.3917565890236,
+            "longitude": 6.560431902546497
+          },
+          "FairwayLocation": {
+            "latitude": 46.39223939232821,
+            "longitude": 6.5625978154495215
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 46.393060771420615,
+              "longitude": 6.565274660046384
+            },
+            {
+              "latitude": 46.39312366931002,
+              "longitude": 6.565548245365903
+            },
+            {
+              "latitude": 46.392971974276875,
+              "longitude": 6.565457050259397
+            },
+            {
+              "latitude": 46.393042272027586,
+              "longitude": 6.565470957005307
+            },
+            {
+              "latitude": 46.39301227202758,
+              "longitude": 6.565410957005308
+            },
+            {
+              "latitude": 46.39301227202758,
+              "longitude": 6.565470957005307
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 46.39224679219502,
+              "longitude": 6.562463704998777
+            },
+            {
+              "latitude": 46.39229859123473,
+              "longitude": 6.562699739392087
+            },
+            {
+              "latitude": 46.39215988387053,
+              "longitude": 6.562658136028858
+            },
+            {
+              "latitude": 46.39223939232821,
+              "longitude": 6.562627815449521
+            },
+            {
+              "latitude": 46.392209392328205,
+              "longitude": 6.562567815449522
+            },
+            {
+              "latitude": 46.392209392328205,
+              "longitude": 6.562627815449521
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 46.39173808918849,
+              "longitude": 6.560313885349842
+            },
+            {
+              "latitude": 46.39178988871098,
+              "longitude": 6.560539190907093
+            },
+            {
+              "latitude": 46.39168998958784,
+              "longitude": 6.560485546726795
+            },
+            {
+              "latitude": 46.3917565890236,
+              "longitude": 6.560461902546497
+            },
+            {
+              "latitude": 46.3917265890236,
+              "longitude": 6.560401902546498
+            },
+            {
+              "latitude": 46.3917265890236,
+              "longitude": 6.560461902546497
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 7,
+          "Par": 5,
+          "Yards": 545,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/Evian-2019/1.png"
+          },
+          "description": "",
+          "image": "Hole6.png",
+          "page": "Hole6.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 46.39223939232821,
+            "longitude": 6.5625978154495215
+          },
+          {
+            "latitude": 46.39226939232821,
+            "longitude": 6.562627815449521
+          },
+          {
+            "latitude": 46.39226939232821,
+            "longitude": 6.562567815449522
+          },
+          {
+            "latitude": 46.39223939232821,
+            "longitude": 6.562567815449522
+          },
+          {
+            "latitude": 46.39223939232821,
+            "longitude": 6.562627815449521
+          },
+          {
+            "latitude": 46.392209392328205,
+            "longitude": 6.562567815449522
+          },
+          {
+            "latitude": 46.392209392328205,
+            "longitude": 6.562627815449521
+          },
+          {
+            "latitude": 46.392209392328205,
+            "longitude": 6.5625978154495215
+          },
+          {
+            "latitude": 46.39226939232821,
+            "longitude": 6.5625978154495215
+          },
+          {
+            "latitude": 46.39223039232821,
+            "longitude": 6.562606815449522
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 46.39128669126868,
+            "longitude": 6.560388987202259
+          },
+          "FlagLocation": {
+            "latitude": 46.391637836535985,
+            "longitude": 6.562495823147515
+          },
+          "FairwayLocation": {
+            "latitude": 46.39156013701733,
+            "longitude": 6.561814542057732
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 46.39130889125365,
+              "longitude": 6.560270970005604
+            },
+            {
+              "latitude": 46.391342191214186,
+              "longitude": 6.560490911144825
+            },
+            {
+              "latitude": 46.39122379126218,
+              "longitude": 6.560426538128468
+            },
+            {
+              "latitude": 46.39128669126868,
+              "longitude": 6.560418987202259
+            },
+            {
+              "latitude": 46.39125669126868,
+              "longitude": 6.560358987202259
+            },
+            {
+              "latitude": 46.39125669126868,
+              "longitude": 6.560418987202259
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 46.391571236955315,
+              "longitude": 6.561685796025017
+            },
+            {
+              "latitude": 46.39160823673237,
+              "longitude": 6.561921830418328
+            },
+            {
+              "latitude": 46.391500937309814,
+              "longitude": 6.561841364147881
+            },
+            {
+              "latitude": 46.39156013701733,
+              "longitude": 6.561844542057732
+            },
+            {
+              "latitude": 46.39153013701733,
+              "longitude": 6.561784542057732
+            },
+            {
+              "latitude": 46.39153013701733,
+              "longitude": 6.561844542057732
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 46.3916304365866,
+              "longitude": 6.5623778059508595
+            },
+            {
+              "latitude": 46.39169333612444,
+              "longitude": 6.562570924999932
+            },
+            {
+              "latitude": 46.391597136801884,
+              "longitude": 6.562570924999932
+            },
+            {
+              "latitude": 46.391637836535985,
+              "longitude": 6.5625258231475145
+            },
+            {
+              "latitude": 46.39160783653598,
+              "longitude": 6.562465823147515
+            },
+            {
+              "latitude": 46.39160783653598,
+              "longitude": 6.5625258231475145
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 8,
+          "Par": 3,
+          "Yards": 189,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/Evian-2019/1.png"
+          },
+          "description": "",
+          "image": "Hole7.png",
+          "page": "Hole7.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 46.39156013701733,
+            "longitude": 6.561814542057732
+          },
+          {
+            "latitude": 46.39159013701733,
+            "longitude": 6.561844542057732
+          },
+          {
+            "latitude": 46.39159013701733,
+            "longitude": 6.561784542057732
+          },
+          {
+            "latitude": 46.39156013701733,
+            "longitude": 6.561784542057732
+          },
+          {
+            "latitude": 46.39156013701733,
+            "longitude": 6.561844542057732
+          },
+          {
+            "latitude": 46.39153013701733,
+            "longitude": 6.561784542057732
+          },
+          {
+            "latitude": 46.39153013701733,
+            "longitude": 6.561844542057732
+          },
+          {
+            "latitude": 46.39153013701733,
+            "longitude": 6.561814542057732
+          },
+          {
+            "latitude": 46.39159013701733,
+            "longitude": 6.561814542057732
+          },
+          {
+            "latitude": 46.39155113701733,
+            "longitude": 6.561823542057732
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 46.389914708999534,
+            "longitude": 6.561951240813642
+          },
+          "FlagLocation": {
+            "latitude": 46.38873925554692,
+            "longitude": 6.557529785676593
+          },
+          "FairwayLocation": {
+            "latitude": 46.38903994641486,
+            "longitude": 6.559603286362062
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 46.389899908632486,
+              "longitude": 6.561790308272748
+            },
+            {
+              "latitude": 46.3899961109465,
+              "longitude": 6.562037071502118
+            },
+            {
+              "latitude": 46.389840707124215,
+              "longitude": 6.56199952057591
+            },
+            {
+              "latitude": 46.389914708999534,
+              "longitude": 6.561981240813641
+            },
+            {
+              "latitude": 46.38988470899953,
+              "longitude": 6.561921240813642
+            },
+            {
+              "latitude": 46.38988470899953,
+              "longitude": 6.561981240813641
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 46.38903624626419,
+              "longitude": 6.559474540329347
+            },
+            {
+              "latitude": 46.389110249230214,
+              "longitude": 6.55965693054236
+            },
+            {
+              "latitude": 46.389010345202365,
+              "longitude": 6.559689117050539
+            },
+            {
+              "latitude": 46.38903994641486,
+              "longitude": 6.559633286362062
+            },
+            {
+              "latitude": 46.38900994641486,
+              "longitude": 6.559573286362062
+            },
+            {
+              "latitude": 46.38900994641486,
+              "longitude": 6.559633286362062
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 46.388772557075264,
+              "longitude": 6.557406404061908
+            },
+            {
+              "latitude": 46.38878735774801,
+              "longitude": 6.5576370740371885
+            },
+            {
+              "latitude": 46.38867635260468,
+              "longitude": 6.557529785676593
+            },
+            {
+              "latitude": 46.38873925554692,
+              "longitude": 6.557559785676593
+            },
+            {
+              "latitude": 46.38870925554692,
+              "longitude": 6.557499785676593
+            },
+            {
+              "latitude": 46.38870925554692,
+              "longitude": 6.557559785676593
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 9,
+          "Par": 5,
+          "Yards": 515,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/Evian-2019/1.png"
+          },
+          "description": "",
+          "image": "Hole8.png",
+          "page": "Hole8.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 46.38903994641486,
+            "longitude": 6.559603286362062
+          },
+          {
+            "latitude": 46.389069946414864,
+            "longitude": 6.559633286362062
+          },
+          {
+            "latitude": 46.389069946414864,
+            "longitude": 6.559573286362062
+          },
+          {
+            "latitude": 46.38903994641486,
+            "longitude": 6.559573286362062
+          },
+          {
+            "latitude": 46.38903994641486,
+            "longitude": 6.559633286362062
+          },
+          {
+            "latitude": 46.38900994641486,
+            "longitude": 6.559573286362062
+          },
+          {
+            "latitude": 46.38900994641486,
+            "longitude": 6.559633286362062
+          },
+          {
+            "latitude": 46.38900994641486,
+            "longitude": 6.559603286362062
+          },
+          {
+            "latitude": 46.389069946414864,
+            "longitude": 6.559603286362062
+          },
+          {
+            "latitude": 46.38903094641486,
+            "longitude": 6.5596122863620625
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 46.388369237198596,
+            "longitude": 6.557958939118976
+          },
+          "FlagLocation": {
+            "latitude": 46.38956653091328,
+            "longitude": 6.553755925107907
+          },
+          "FairwayLocation": {
+            "latitude": 46.38889310585424,
+            "longitude": 6.555054114271115
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 46.38839143837019,
+              "longitude": 6.557835557504291
+            },
+            {
+              "latitude": 46.3884173397257,
+              "longitude": 6.558050134225482
+            },
+            {
+              "latitude": 46.38828187581525,
+              "longitude": 6.557942293372662
+            },
+            {
+              "latitude": 46.388369237198596,
+              "longitude": 6.557988939118975
+            },
+            {
+              "latitude": 46.38833923719859,
+              "longitude": 6.557928939118976
+            },
+            {
+              "latitude": 46.38833923719859,
+              "longitude": 6.557988939118975
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 46.3888820053716,
+              "longitude": 6.554914639402341
+            },
+            {
+              "latitude": 46.388944908076844,
+              "longitude": 6.555113122869443
+            },
+            {
+              "latitude": 46.388833903253925,
+              "longitude": 6.555139944959592
+            },
+            {
+              "latitude": 46.38889310585424,
+              "longitude": 6.555084114271115
+            },
+            {
+              "latitude": 46.388863105854234,
+              "longitude": 6.555024114271116
+            },
+            {
+              "latitude": 46.388863105854234,
+              "longitude": 6.555084114271115
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 46.3895628307983,
+              "longitude": 6.5536271790751925
+            },
+            {
+              "latitude": 46.38962203260798,
+              "longitude": 6.553836391378354
+            },
+            {
+              "latitude": 46.38952582963463,
+              "longitude": 6.5538042048701755
+            },
+            {
+              "latitude": 46.38956653091328,
+              "longitude": 6.553785925107907
+            },
+            {
+              "latitude": 46.389536530913276,
+              "longitude": 6.553725925107908
+            },
+            {
+              "latitude": 46.389536530913276,
+              "longitude": 6.553785925107907
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 10,
+          "Par": 4,
+          "Yards": 417,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/Evian-2019/1.png"
+          },
+          "description": "",
+          "image": "Hole9.png",
+          "page": "Hole9.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 46.38889310585424,
+            "longitude": 6.555054114271115
+          },
+          {
+            "latitude": 46.38892310585424,
+            "longitude": 6.555084114271115
+          },
+          {
+            "latitude": 46.38892310585424,
+            "longitude": 6.555024114271116
+          },
+          {
+            "latitude": 46.38889310585424,
+            "longitude": 6.555024114271116
+          },
+          {
+            "latitude": 46.38889310585424,
+            "longitude": 6.555084114271115
+          },
+          {
+            "latitude": 46.388863105854234,
+            "longitude": 6.555024114271116
+          },
+          {
+            "latitude": 46.388863105854234,
+            "longitude": 6.555084114271115
+          },
+          {
+            "latitude": 46.388863105854234,
+            "longitude": 6.555054114271115
+          },
+          {
+            "latitude": 46.38892310585424,
+            "longitude": 6.555054114271115
+          },
+          {
+            "latitude": 46.38888410585424,
+            "longitude": 6.555063114271116
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 46.38912471904786,
+            "longitude": 6.553429824467457
+          },
+          "FlagLocation": {
+            "latitude": 46.38817377354761,
+            "longitude": 6.556895238514699
+          },
+          "FairwayLocation": {
+            "latitude": 46.38823667706906,
+            "longitude": 6.555189353581227
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 46.38913581948114,
+              "longitude": 6.553311807270802
+            },
+            {
+              "latitude": 46.38918762147337,
+              "longitude": 6.553494197483815
+            },
+            {
+              "latitude": 46.38905441625109,
+              "longitude": 6.5534512821395765
+            },
+            {
+              "latitude": 46.38912471904786,
+              "longitude": 6.553459824467457
+            },
+            {
+              "latitude": 46.389094719047854,
+              "longitude": 6.553399824467458
+            },
+            {
+              "latitude": 46.389094719047854,
+              "longitude": 6.553459824467457
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 46.38826257849797,
+              "longitude": 6.555076700802601
+            },
+            {
+              "latitude": 46.38827737930901,
+              "longitude": 6.555285913105763
+            },
+            {
+              "latitude": 46.38816637312854,
+              "longitude": 6.555205446835316
+            },
+            {
+              "latitude": 46.38823667706906,
+              "longitude": 6.555219353581227
+            },
+            {
+              "latitude": 46.38820667706906,
+              "longitude": 6.555159353581227
+            },
+            {
+              "latitude": 46.38820667706906,
+              "longitude": 6.555219353581227
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 46.388177473756755,
+              "longitude": 6.556777221318043
+            },
+            {
+              "latitude": 46.38825517809097,
+              "longitude": 6.556927425022877
+            },
+            {
+              "latitude": 46.38816637312857,
+              "longitude": 6.556986433621205
+            },
+            {
+              "latitude": 46.38817377354761,
+              "longitude": 6.556925238514698
+            },
+            {
+              "latitude": 46.388143773547604,
+              "longitude": 6.556865238514699
+            },
+            {
+              "latitude": 46.388143773547604,
+              "longitude": 6.556925238514698
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 11,
+          "Par": 4,
+          "Yards": 353,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/Evian-2019/1.png"
+          },
+          "description": "",
+          "image": "Hole10.png",
+          "page": "Hole10.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 46.38823667706906,
+            "longitude": 6.555189353581227
+          },
+          {
+            "latitude": 46.38826667706906,
+            "longitude": 6.555219353581227
+          },
+          {
+            "latitude": 46.38826667706906,
+            "longitude": 6.555159353581227
+          },
+          {
+            "latitude": 46.38823667706906,
+            "longitude": 6.555159353581227
+          },
+          {
+            "latitude": 46.38823667706906,
+            "longitude": 6.555219353581227
+          },
+          {
+            "latitude": 46.38820667706906,
+            "longitude": 6.555159353581227
+          },
+          {
+            "latitude": 46.38820667706906,
+            "longitude": 6.555219353581227
+          },
+          {
+            "latitude": 46.38820667706906,
+            "longitude": 6.555189353581227
+          },
+          {
+            "latitude": 46.38826667706906,
+            "longitude": 6.555189353581227
+          },
+          {
+            "latitude": 46.38822767706906,
+            "longitude": 6.555198353581227
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 46.38800294898724,
+            "longitude": 6.557952028866566
+          },
+          "FlagLocation": {
+            "latitude": 46.3889353966784,
+            "longitude": 6.562501055355824
+          },
+          "FairwayLocation": {
+            "latitude": 46.38842477253486,
+            "longitude": 6.560178262348927
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 46.38799924876626,
+              "longitude": 6.557812553997792
+            },
+            {
+              "latitude": 46.388065852705566,
+              "longitude": 6.558032495137013
+            },
+            {
+              "latitude": 46.38792524429398,
+              "longitude": 6.557978850956715
+            },
+            {
+              "latitude": 46.38800294898724,
+              "longitude": 6.557982028866566
+            },
+            {
+              "latitude": 46.38797294898724,
+              "longitude": 6.5579220288665665
+            },
+            {
+              "latitude": 46.38797294898724,
+              "longitude": 6.557982028866566
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 46.38842847272699,
+              "longitude": 6.560087067242421
+            },
+            {
+              "latitude": 46.38848397557891,
+              "longitude": 6.560296279545582
+            },
+            {
+              "latitude": 46.38833966804655,
+              "longitude": 6.560253364201344
+            },
+            {
+              "latitude": 46.38842477253486,
+              "longitude": 6.560208262348927
+            },
+            {
+              "latitude": 46.38839477253486,
+              "longitude": 6.560148262348927
+            },
+            {
+              "latitude": 46.38839477253486,
+              "longitude": 6.560208262348927
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 46.388950197307,
+              "longitude": 6.562404495831288
+            },
+            {
+              "latitude": 46.38899459916862,
+              "longitude": 6.562570792790211
+            },
+            {
+              "latitude": 46.388883594446796,
+              "longitude": 6.562522513027943
+            },
+            {
+              "latitude": 46.3889353966784,
+              "longitude": 6.562531055355824
+            },
+            {
+              "latitude": 46.388905396678396,
+              "longitude": 6.562471055355824
+            },
+            {
+              "latitude": 46.388905396678396,
+              "longitude": 6.562531055355824
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 12,
+          "Par": 4,
+          "Yards": 406,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/Evian-2019/1.png"
+          },
+          "description": "",
+          "image": "Hole11.png",
+          "page": "Hole11.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 46.38842477253486,
+            "longitude": 6.560178262348927
+          },
+          {
+            "latitude": 46.388454772534864,
+            "longitude": 6.560208262348927
+          },
+          {
+            "latitude": 46.388454772534864,
+            "longitude": 6.560148262348927
+          },
+          {
+            "latitude": 46.38842477253486,
+            "longitude": 6.560148262348927
+          },
+          {
+            "latitude": 46.38842477253486,
+            "longitude": 6.560208262348927
+          },
+          {
+            "latitude": 46.38839477253486,
+            "longitude": 6.560148262348927
+          },
+          {
+            "latitude": 46.38839477253486,
+            "longitude": 6.560208262348927
+          },
+          {
+            "latitude": 46.38839477253486,
+            "longitude": 6.560178262348927
+          },
+          {
+            "latitude": 46.388454772534864,
+            "longitude": 6.560178262348927
+          },
+          {
+            "latitude": 46.38841577253486,
+            "longitude": 6.5601872623489275
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 46.38948301726289,
+            "longitude": 6.562045079823292
+          },
+          "FlagLocation": {
+            "latitude": 46.391045987554975,
+            "longitude": 6.566608614257461
+          },
+          "FairwayLocation": {
+            "latitude": 46.39027637909893,
+            "longitude": 6.565374798110611
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 46.38951261821904,
+              "longitude": 6.561927062626637
+            },
+            {
+              "latitude": 46.3895385190425,
+              "longitude": 6.562136274929799
+            },
+            {
+              "latitude": 46.389416415052835,
+              "longitude": 6.562082630749501
+            },
+            {
+              "latitude": 46.38948301726289,
+              "longitude": 6.562075079823292
+            },
+            {
+              "latitude": 46.38945301726289,
+              "longitude": 6.562015079823293
+            },
+            {
+              "latitude": 46.38945301726289,
+              "longitude": 6.562075079823292
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 46.39030597962481,
+              "longitude": 6.565246052077896
+            },
+            {
+              "latitude": 46.39034668032172,
+              "longitude": 6.565476722053177
+            },
+            {
+              "latitude": 46.39020607778557,
+              "longitude": 6.56539625578273
+            },
+            {
+              "latitude": 46.39027637909893,
+              "longitude": 6.5654047981106105
+            },
+            {
+              "latitude": 46.390246379098926,
+              "longitude": 6.565344798110611
+            },
+            {
+              "latitude": 46.390246379098926,
+              "longitude": 6.5654047981106105
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 46.3910533875836,
+              "longitude": 6.566512054732925
+            },
+            {
+              "latitude": 46.39107558766347,
+              "longitude": 6.566689080527908
+            },
+            {
+              "latitude": 46.39099418732643,
+              "longitude": 6.566619343093521
+            },
+            {
+              "latitude": 46.391045987554975,
+              "longitude": 6.566638614257461
+            },
+            {
+              "latitude": 46.39101598755497,
+              "longitude": 6.566578614257462
+            },
+            {
+              "latitude": 46.39101598755497,
+              "longitude": 6.566638614257461
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 13,
+          "Par": 4,
+          "Yards": 437,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/Evian-2019/1.png"
+          },
+          "description": "",
+          "image": "Hole12.png",
+          "page": "Hole12.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 46.39027637909893,
+            "longitude": 6.565374798110611
+          },
+          {
+            "latitude": 46.39030637909893,
+            "longitude": 6.5654047981106105
+          },
+          {
+            "latitude": 46.39030637909893,
+            "longitude": 6.565344798110611
+          },
+          {
+            "latitude": 46.39027637909893,
+            "longitude": 6.565344798110611
+          },
+          {
+            "latitude": 46.39027637909893,
+            "longitude": 6.5654047981106105
+          },
+          {
+            "latitude": 46.390246379098926,
+            "longitude": 6.565344798110611
+          },
+          {
+            "latitude": 46.390246379098926,
+            "longitude": 6.5654047981106105
+          },
+          {
+            "latitude": 46.390246379098926,
+            "longitude": 6.565374798110611
+          },
+          {
+            "latitude": 46.39030637909893,
+            "longitude": 6.565374798110611
+          },
+          {
+            "latitude": 46.39026737909893,
+            "longitude": 6.565383798110611
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 46.39131864292909,
+            "longitude": 6.566401743459096
+          },
+          "FlagLocation": {
+            "latitude": 46.39165904150729,
+            "longitude": 6.563751720952382
+          },
+          "FairwayLocation": {
+            "latitude": 46.391536942261475,
+            "longitude": 6.5647173161977435
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 46.39134454289553,
+              "longitude": 6.566267633008351
+            },
+            {
+              "latitude": 46.391366742856995,
+              "longitude": 6.566530489491811
+            },
+            {
+              "latitude": 46.39123724295453,
+              "longitude": 6.566396379041066
+            },
+            {
+              "latitude": 46.39131864292909,
+              "longitude": 6.566431743459096
+            },
+            {
+              "latitude": 46.39128864292909,
+              "longitude": 6.566371743459096
+            },
+            {
+              "latitude": 46.39128864292909,
+              "longitude": 6.566431743459096
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 46.391573942061775,
+              "longitude": 6.564593934583058
+            },
+            {
+              "latitude": 46.391592441952525,
+              "longitude": 6.56480314688622
+            },
+            {
+              "latitude": 46.39146294258559,
+              "longitude": 6.564722680615773
+            },
+            {
+              "latitude": 46.391536942261475,
+              "longitude": 6.564747316197743
+            },
+            {
+              "latitude": 46.39150694226147,
+              "longitude": 6.564687316197744
+            },
+            {
+              "latitude": 46.39150694226147,
+              "longitude": 6.564747316197743
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 46.391684941312185,
+              "longitude": 6.563628339337697
+            },
+            {
+              "latitude": 46.39168864128331,
+              "longitude": 6.563832187222829
+            },
+            {
+              "latitude": 46.39160354188394,
+              "longitude": 6.5637678142064715
+            },
+            {
+              "latitude": 46.39165904150729,
+              "longitude": 6.563781720952382
+            },
+            {
+              "latitude": 46.39162904150729,
+              "longitude": 6.563721720952382
+            },
+            {
+              "latitude": 46.39162904150729,
+              "longitude": 6.563781720952382
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 14,
+          "Par": 3,
+          "Yards": 226,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/Evian-2019/1.png"
+          },
+          "description": "",
+          "image": "Hole13.png",
+          "page": "Hole13.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 46.391536942261475,
+            "longitude": 6.5647173161977435
+          },
+          {
+            "latitude": 46.39156694226148,
+            "longitude": 6.564747316197743
+          },
+          {
+            "latitude": 46.39156694226148,
+            "longitude": 6.564687316197744
+          },
+          {
+            "latitude": 46.391536942261475,
+            "longitude": 6.564687316197744
+          },
+          {
+            "latitude": 46.391536942261475,
+            "longitude": 6.564747316197743
+          },
+          {
+            "latitude": 46.39150694226147,
+            "longitude": 6.564687316197744
+          },
+          {
+            "latitude": 46.39150694226147,
+            "longitude": 6.564747316197743
+          },
+          {
+            "latitude": 46.39150694226147,
+            "longitude": 6.5647173161977435
+          },
+          {
+            "latitude": 46.39156694226148,
+            "longitude": 6.5647173161977435
+          },
+          {
+            "latitude": 46.391527942261476,
+            "longitude": 6.564726316197744
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 46.39199943796243,
+            "longitude": 6.563580059575429
+          },
+          "FlagLocation": {
+            "latitude": 46.39252974209299,
+            "longitude": 6.569302489059737
+          },
+          "FairwayLocation": {
+            "latitude": 46.392299133083995,
+            "longitude": 6.567420982884755
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 46.392025337605816,
+              "longitude": 6.563472771214833
+            },
+            {
+              "latitude": 46.39204753729035,
+              "longitude": 6.563687347936025
+            },
+            {
+              "latitude": 46.39194763863884,
+              "longitude": 6.563601517247548
+            },
+            {
+              "latitude": 46.39199943796243,
+              "longitude": 6.563610059575429
+            },
+            {
+              "latitude": 46.39196943796243,
+              "longitude": 6.563550059575429
+            },
+            {
+              "latitude": 46.39196943796243,
+              "longitude": 6.563610059575429
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 46.3923287325129,
+              "longitude": 6.5673136945241595
+            },
+            {
+              "latitude": 46.39235093207401,
+              "longitude": 6.567533635663381
+            },
+            {
+              "latitude": 46.39223253431032,
+              "longitude": 6.5674370761388445
+            },
+            {
+              "latitude": 46.392299133083995,
+              "longitude": 6.567450982884755
+            },
+            {
+              "latitude": 46.39226913308399,
+              "longitude": 6.567390982884755
+            },
+            {
+              "latitude": 46.39226913308399,
+              "longitude": 6.567450982884755
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 46.392548241659775,
+              "longitude": 6.569184471863082
+            },
+            {
+              "latitude": 46.392581540864136,
+              "longitude": 6.569372226494124
+            },
+            {
+              "latitude": 46.39246314360073,
+              "longitude": 6.569307853477767
+            },
+            {
+              "latitude": 46.39252974209299,
+              "longitude": 6.569332489059737
+            },
+            {
+              "latitude": 46.39249974209299,
+              "longitude": 6.569272489059737
+            },
+            {
+              "latitude": 46.39249974209299,
+              "longitude": 6.569332489059737
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 15,
+          "Par": 5,
+          "Yards": 550,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/Evian-2019/1.png"
+          },
+          "description": "",
+          "image": "Hole14.png",
+          "page": "Hole14.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 46.392299133083995,
+            "longitude": 6.567420982884755
+          },
+          {
+            "latitude": 46.392329133084,
+            "longitude": 6.567450982884755
+          },
+          {
+            "latitude": 46.392329133084,
+            "longitude": 6.567390982884755
+          },
+          {
+            "latitude": 46.392299133083995,
+            "longitude": 6.567390982884755
+          },
+          {
+            "latitude": 46.392299133083995,
+            "longitude": 6.567450982884755
+          },
+          {
+            "latitude": 46.39226913308399,
+            "longitude": 6.567390982884755
+          },
+          {
+            "latitude": 46.39226913308399,
+            "longitude": 6.567450982884755
+          },
+          {
+            "latitude": 46.39226913308399,
+            "longitude": 6.567420982884755
+          },
+          {
+            "latitude": 46.392329133084,
+            "longitude": 6.567420982884755
+          },
+          {
+            "latitude": 46.392290133083996,
+            "longitude": 6.5674299828847555
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 46.39200435177897,
+            "longitude": 6.5685943858798055
+          },
+          "FlagLocation": {
+            "latitude": 46.392311446731625,
+            "longitude": 6.570310999649337
+          },
+          "FairwayLocation": {
+            "latitude": 46.3921708492569,
+            "longitude": 6.569576074379256
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 46.392026551472036,
+              "longitude": 6.568465639847091
+            },
+            {
+              "latitude": 46.39208205066522,
+              "longitude": 6.568685580986312
+            },
+            {
+              "latitude": 46.39194515255329,
+              "longitude": 6.568615843551925
+            },
+            {
+              "latitude": 46.39200435177897,
+              "longitude": 6.568624385879805
+            },
+            {
+              "latitude": 46.39197435177897,
+              "longitude": 6.568564385879806
+            },
+            {
+              "latitude": 46.39197435177897,
+              "longitude": 6.568624385879805
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 46.39220414869155,
+              "longitude": 6.5694687860186605
+            },
+            {
+              "latitude": 46.39221154856315,
+              "longitude": 6.569661905067733
+            },
+            {
+              "latitude": 46.392093150497075,
+              "longitude": 6.569576074379256
+            },
+            {
+              "latitude": 46.3921708492569,
+              "longitude": 6.569606074379256
+            },
+            {
+              "latitude": 46.3921408492569,
+              "longitude": 6.569546074379256
+            },
+            {
+              "latitude": 46.3921408492569,
+              "longitude": 6.569606074379256
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 46.3923410461538,
+              "longitude": 6.57022516896086
+            },
+            {
+              "latitude": 46.39235584585889,
+              "longitude": 6.570412923591903
+            },
+            {
+              "latitude": 46.392232353665506,
+              "longitude": 6.570309678933199
+            },
+            {
+              "latitude": 46.392311446731625,
+              "longitude": 6.5703409996493365
+            },
+            {
+              "latitude": 46.39228144673162,
+              "longitude": 6.570280999649337
+            },
+            {
+              "latitude": 46.39228144673162,
+              "longitude": 6.5703409996493365
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 16,
+          "Par": 3,
+          "Yards": 155,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/Evian-2019/1.png"
+          },
+          "description": "",
+          "image": "Hole15.png",
+          "page": "Hole15.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 46.3921708492569,
+            "longitude": 6.569576074379256
+          },
+          {
+            "latitude": 46.3922008492569,
+            "longitude": 6.569606074379256
+          },
+          {
+            "latitude": 46.3922008492569,
+            "longitude": 6.569546074379256
+          },
+          {
+            "latitude": 46.3921708492569,
+            "longitude": 6.569546074379256
+          },
+          {
+            "latitude": 46.3921708492569,
+            "longitude": 6.569606074379256
+          },
+          {
+            "latitude": 46.3921408492569,
+            "longitude": 6.569546074379256
+          },
+          {
+            "latitude": 46.3921408492569,
+            "longitude": 6.569606074379256
+          },
+          {
+            "latitude": 46.3921408492569,
+            "longitude": 6.569576074379256
+          },
+          {
+            "latitude": 46.3922008492569,
+            "longitude": 6.569576074379256
+          },
+          {
+            "latitude": 46.3921618492569,
+            "longitude": 6.5695850743792565
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 46.392232353665506,
+            "longitude": 6.570969502350863
+          },
+          "FlagLocation": {
+            "latitude": 46.39239308571774,
+            "longitude": 6.574830402174371
+          },
+          "FairwayLocation": {
+            "latitude": 46.39258844393818,
+            "longitude": 6.573254332354509
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 46.39227675285713,
+              "longitude": 6.570840756318148
+            },
+            {
+              "latitude": 46.39228785264941,
+              "longitude": 6.571066061875399
+            },
+            {
+              "latitude": 46.392150955053715,
+              "longitude": 6.5709566018610985
+            },
+            {
+              "latitude": 46.392232353665506,
+              "longitude": 6.570999502350863
+            },
+            {
+              "latitude": 46.3922023536655,
+              "longitude": 6.570939502350863
+            },
+            {
+              "latitude": 46.3922023536655,
+              "longitude": 6.570999502350863
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 46.39262544302563,
+              "longitude": 6.573141679575883
+            },
+            {
+              "latitude": 46.39264394255996,
+              "longitude": 6.573340163042985
+            },
+            {
+              "latitude": 46.392518145602885,
+              "longitude": 6.573254332354509
+            },
+            {
+              "latitude": 46.39258844393818,
+              "longitude": 6.5732843323545085
+            },
+            {
+              "latitude": 46.39255844393818,
+              "longitude": 6.573224332354509
+            },
+            {
+              "latitude": 46.39255844393818,
+              "longitude": 6.5732843323545085
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 46.3924152852527,
+              "longitude": 6.574728478231805
+            },
+            {
+              "latitude": 46.392437484778625,
+              "longitude": 6.574937690534966
+            },
+            {
+              "latitude": 46.392326487058696,
+              "longitude": 6.57485722426452
+            },
+            {
+              "latitude": 46.39239308571774,
+              "longitude": 6.57486040217437
+            },
+            {
+              "latitude": 46.39236308571774,
+              "longitude": 6.574800402174371
+            },
+            {
+              "latitude": 46.39236308571774,
+              "longitude": 6.57486040217437
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 17,
+          "Par": 4,
+          "Yards": 331,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/Evian-2019/1.png"
+          },
+          "description": "",
+          "image": "Hole16.png",
+          "page": "Hole16.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 46.39258844393818,
+            "longitude": 6.573254332354509
+          },
+          {
+            "latitude": 46.39261844393818,
+            "longitude": 6.5732843323545085
+          },
+          {
+            "latitude": 46.39261844393818,
+            "longitude": 6.573224332354509
+          },
+          {
+            "latitude": 46.39258844393818,
+            "longitude": 6.573224332354509
+          },
+          {
+            "latitude": 46.39258844393818,
+            "longitude": 6.5732843323545085
+          },
+          {
+            "latitude": 46.39255844393818,
+            "longitude": 6.573224332354509
+          },
+          {
+            "latitude": 46.39255844393818,
+            "longitude": 6.5732843323545085
+          },
+          {
+            "latitude": 46.39255844393818,
+            "longitude": 6.573254332354509
+          },
+          {
+            "latitude": 46.39261844393818,
+            "longitude": 6.573254332354509
+          },
+          {
+            "latitude": 46.39257944393818,
+            "longitude": 6.573263332354509
+          }
+        ]
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "TeeLocation": {
+            "latitude": 46.39344015395157,
+            "longitude": 6.575591167834432
+          },
+          "FlagLocation": {
+            "latitude": 46.392890454078014,
+            "longitude": 6.5701456704761085
+          },
+          "FairwayLocation": {
+            "latitude": 46.392881473400784,
+            "longitude": 6.571959456828267
+          },
+          "teeTemplateCenter": [
+            {
+              "latitude": 46.39347715246164,
+              "longitude": 6.575446328547628
+            },
+            {
+              "latitude": 46.39350675125161,
+              "longitude": 6.575693091776998
+            },
+            {
+              "latitude": 46.39336985671337,
+              "longitude": 6.575617989924581
+            },
+            {
+              "latitude": 46.39344015395157,
+              "longitude": 6.575621167834432
+            },
+            {
+              "latitude": 46.39341015395157,
+              "longitude": 6.575561167834432
+            },
+            {
+              "latitude": 46.39341015395157,
+              "longitude": 6.575621167834432
+            }
+          ],
+          "fairwayTemplateCenter": [
+            {
+              "latitude": 46.3929073726256,
+              "longitude": 6.571814617541463
+            },
+            {
+              "latitude": 46.392948071382555,
+              "longitude": 6.572066745188863
+            },
+            {
+              "latitude": 46.392825975020536,
+              "longitude": 6.571975550082357
+            },
+            {
+              "latitude": 46.392881473400784,
+              "longitude": 6.571989456828267
+            },
+            {
+              "latitude": 46.39285147340078,
+              "longitude": 6.571929456828268
+            },
+            {
+              "latitude": 46.39285147340078,
+              "longitude": 6.571989456828267
+            }
+          ],
+          "greenTemplateCenter": [
+            {
+              "latitude": 46.392916353298546,
+              "longitude": 6.570043746533543
+            },
+            {
+              "latitude": 46.392905253634126,
+              "longitude": 6.570258323254734
+            },
+            {
+              "latitude": 46.39281645623732,
+              "longitude": 6.570134941640049
+            },
+            {
+              "latitude": 46.392890454078014,
+              "longitude": 6.570175670476108
+            },
+            {
+              "latitude": 46.39286045407801,
+              "longitude": 6.570115670476109
+            },
+            {
+              "latitude": 46.39286045407801,
+              "longitude": 6.570175670476108
+            }
+          ],
+          "teeDrawingPattern": "3grp",
+          "greenDrawingPattern": "3grp",
+          "fairwayDrawingPattern": "3grp",
+          "number": 18,
+          "Par": 5,
+          "Yards": 484,
+          "holeArt": {
+            "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/Evian-2019/1.png"
+          },
+          "description": "",
+          "image": "Hole17.png",
+          "page": "Hole17.html"
+        },
+        "noLocationProperties": [
+          {
+            "latitude": 46.392881473400784,
+            "longitude": 6.571959456828267
+          },
+          {
+            "latitude": 46.39291147340079,
+            "longitude": 6.571989456828267
+          },
+          {
+            "latitude": 46.39291147340079,
+            "longitude": 6.571929456828268
+          },
+          {
+            "latitude": 46.392881473400784,
+            "longitude": 6.571929456828268
+          },
+          {
+            "latitude": 46.392881473400784,
+            "longitude": 6.571989456828267
+          },
+          {
+            "latitude": 46.39285147340078,
+            "longitude": 6.571929456828268
+          },
+          {
+            "latitude": 46.39285147340078,
+            "longitude": 6.571989456828267
+          },
+          {
+            "latitude": 46.39285147340078,
+            "longitude": 6.571959456828267
+          },
+          {
+            "latitude": 46.39291147340079,
+            "longitude": 6.571959456828267
+          },
+          {
+            "latitude": 46.392872473400786,
+            "longitude": 6.571968456828268
+          }
+        ]
+      }
+    ],
+    "type": "FeatureCollection",
+    "initialRegion": {
+      "latitude": 46.393641,
+      "longitude": 6.570456,
+      "latitudeDelta": 0.0005,
+      "longitudeDelta": 0.0020
+    },
+    "maxDelta": 0.02,
+    "courseGeoFence": [
+      {
+        "latitude": 46.394313,
+        "longitude": 6.557222
+      },
+      {
+        "latitude": 46.398943,
+        "longitude": 6.575899
+      },
+      {
+        "latitude": 46.389459,
+        "longitude": 6.578560
+      },
+      {
+        "latitude": 46.382295,
+        "longitude": 6.555909
+      },
+      {
+        "latitude": 46.384528,
+        "longitude": 6.544197
+      },
+      {
+        "latitude": 46.390304,
+        "longitude": 6.542700
+      }
+    ],
+    "courseFileVersion": "v0.0.2",
+    "tournamentActive": "no",
+    "tournamentLogo": {
+      "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/Evian-2019/logo.png"
+    },
+    "tournamentBackgroundImage": {
+      "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/Evian-2019/bg.png"
+    },
+    "courseName": "Evian Resort Golf Club",
+    "courseLocation": "Evian-les-Bains, France",
+    "courseLogo": {
+      "uri": "http://www.cmegrouptourchampionship.com/-/media/images/lpga/cme-group/sponsors/2018Tiburon_140x120"
+    }
+
+  }
+  
+  
+}

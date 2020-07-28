@@ -1,0 +1,16 @@
+{"name":"Fan Analytics","hostname":"ip-172-31-31-177","pid":1320,"level":30,"msg":" 2020-01-14T23:33:39.916Z, e75ea0ee-9aa9-d546-68ae-3bd98e949294, false ","time":"2020-01-14T23:33:40.055Z","v":0}
+{"name":"Fan Analytics","hostname":"ip-172-31-31-177","pid":1320,"level":30,"msg":" 2020-01-14T23:36:54.911Z, e75ea0ee-9aa9-d546-68ae-3bd98e949294, false ","time":"2020-01-14T23:36:54.948Z","v":0}
+{"name":"Fan Analytics","hostname":"ip-172-31-31-177","pid":1320,"level":30,"msg":" 2020-01-14T23:40:40.019Z, e75ea0ee-9aa9-d546-68ae-3bd98e949294, false ","time":"2020-01-14T23:40:40.038Z","v":0}
+{"name":"Fan Analytics","hostname":"ip-172-31-31-177","pid":1320,"level":30,"msg":" 2020-01-14T23:48:29.778Z, e75ea0ee-9aa9-d546-68ae-3bd98e949294, false ","time":"2020-01-14T23:48:29.958Z","v":0}
+{"name":"Fan Analytics","hostname":"ip-172-31-31-177","pid":1320,"level":30,"msg":" 2020-01-14T23:50:04.983Z, e75ea0ee-9aa9-d546-68ae-3bd98e949294, false ","time":"2020-01-14T23:50:05.024Z","v":0}
+{"name":"Fan Analytics","hostname":"ip-172-31-31-177","pid":1320,"level":30,"msg":" 2020-01-15T00:22:32.050Z, fb266f52-ef6c-1608-e613-3ca67a1b55ff, false ","time":"2020-01-15T00:22:32.340Z","v":0}
+{"name":"Fan Analytics","hostname":"ip-172-31-31-177","pid":1320,"level":30,"msg":" 2020-01-15T00:24:13.704Z, ce79ecb0-b38e-f79d-8a5e-795c3857564d, false ","time":"2020-01-15T00:24:13.938Z","v":0}
+{"name":"Fan Analytics","hostname":"ip-172-31-31-177","pid":1320,"level":30,"msg":" 2020-01-15T00:33:00.856Z, e75ea0ee-9aa9-d546-68ae-3bd98e949294, false ","time":"2020-01-15T00:33:00.875Z","v":0}
+{"name":"Fan Analytics","hostname":"ip-172-31-31-177","pid":1320,"level":30,"msg":" 2020-01-15T00:47:47.954Z, 54a294e3-c1cf-2fdc-e5ad-371c9e5fbc42, false ","time":"2020-01-15T00:47:48.240Z","v":0}
+{"name":"Fan Analytics","hostname":"ip-172-31-31-177","pid":1320,"level":30,"msg":" 2020-01-15T03:00:01.483Z, 96b8d3ed-301d-8fda-7302-2b0c28a74cb6, false ","time":"2020-01-15T03:00:01.530Z","v":0}
+{"name":"Fan Analytics","hostname":"ip-172-31-31-177","pid":1320,"level":30,"msg":" 2020-01-15T03:31:43.761Z, e75ea0ee-9aa9-d546-68ae-3bd98e949294, false ","time":"2020-01-15T03:31:43.789Z","v":0}
+{"name":"Fan Analytics","hostname":"ip-172-31-31-177","pid":1320,"level":30,"msg":" 2020-01-15T11:20:48.417Z, 07d76215-6db5-9b5d-d051-cb0d95f0292b, false ","time":"2020-01-15T11:20:48.523Z","v":0}
+{"name":"Fan Analytics","hostname":"ip-172-31-31-177","pid":1320,"level":30,"msg":" 2020-01-15T11:43:05.612Z, 402f557e-346d-a6d4-acbd-802800c1a663, false ","time":"2020-01-15T11:43:05.772Z","v":0}
+{"name":"Fan Analytics","hostname":"ip-172-31-31-177","pid":1320,"level":30,"msg":" 2020-01-15T12:36:15.183Z, cf7a5aa1-6721-8be9-87af-bf86efd21586, false ","time":"2020-01-15T12:36:15.466Z","v":0}
+{"name":"Fan Analytics","hostname":"ip-172-31-31-177","pid":1320,"level":30,"msg":" 2020-01-15T13:26:24.393Z, d59962cf-db43-3386-ad02-6b362e875df9, false ","time":"2020-01-15T13:26:24.686Z","v":0}
+{"name":"Fan Analytics","hostname":"ip-172-31-31-177","pid":1320,"level":30,"msg":" 2020-01-15T15:02:37.170Z, 0bec3794-8abd-fb51-4431-bfb7cd6eecd5, true ","time":"2020-01-15T15:02:37.331Z","v":0}
