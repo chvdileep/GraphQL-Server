@@ -1,0 +1,1005 @@
+{
+  "Sponsors": [
+    {
+      "sponsorNumber": "1",
+      "image": {
+        "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/images/BAsponsor.png"
+      }
+    },
+    {
+      "sponsorNumber": "2",
+      "image": {
+        "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/500px-NEC_logo.svg.png"
+      }
+    }
+  ],
+  "trendingEntries": {
+    "ENTRIES1": [
+      {
+        "title": "Tournament Pairings",
+        "subtitle": "View the tournament pairings",
+        "illustration": "http://www.lpgafounderscup.com/-/media/images/lpga/tournaments/lpga-founders-cup/2019/preview/foundersfeaturedgroups.jpg?h=1125&la=en&w=2000&hash=9FB9FE847A69B6D18CB9429BB8A905B2D3F5EAB0",
+        "weblink": "https://www.lpga.com/tournaments/kpmgwomenspgachampionship/pairings"
+      },
+      {
+        "title": "LPGA Junior Ladies",
+        "subtitle": "Find your local chapter",
+        "illustration": "https://www.girlsgolf.org/image/0---new-site-images/news/Find-a-Site.jpg",
+        "weblink": "https://www.nwachampionship.com/onsite-activities/"
+      },
+      {
+        "title": "LPGA Amateur Golf",
+        "subtitle": "Connect to enjoy the game of golf and much, much more!",
+        "illustration": "https://www.girlsgolf.org/image/0---new-site-images/events/Events---Tour-Junior-Clinics.jpg",
+        "weblink": "http://www.lpgaamateurs.com/"
+      }
+    ],
+
+
+    "tvTimes": [
+      {
+        "image": {
+          "uri": "http://www.lpga.com/-/media/images/lpga/tv-network-logos/golf-channel.png?h=50&la=en&w=50&hash=E978E602DAD7DF9D1EFE17403D32B4165BD21C58"
+        },
+        "tvTimeEntries": [
+          {
+          "time": "Oct 08 (ET) 1:00 p.m. - 5:00 p.m."
+          },
+          {
+          "time": "Oct 09 (ET) 1:00 p.m. - 5:00 p.m."
+          },
+          {
+          "time": "Oct 10 (ET) 11:00 a.m. - 12:00 p.m."
+          },
+          {
+          "time": "Oct 11 (ET) 10:00 a.m. - 12:00 p.m."
+          }
+        ]
+      },
+      {
+        "image": {
+          "uri": "https://www.lpga.com/tournaments/kpmgwomenspgachampionship/-/media/images/lpga/tv-network-logos/nbclogo.png?w=55"
+        },
+        "tvTimeEntries": [
+          {
+            "time": "Oct 10 (ET) 12:00 p.m. - 3:00 p.m."
+          },
+          {
+            "time": "Oct 11 (ET) 12:00 p.m. - 2:00 p.m."
+          }
+        ]
+      }
+    ]
+  },
+  
+  "Amenities": {
+    "Features": [
+      {
+        "properties":
+        {
+          "photo": "Restroom",
+          "profilePhoto": "Restroom",
+            "position": { "latitude": 40.011526,  "longitude": -75.407956 },
+            "Menu": {
+              "name": "Restroom 3",
+              "description": "A course restroom is located here",
+              "type": "Restroom",
+              "filter": "restroom",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Restroom",
+          "profilePhoto": "Restroom",
+            "position": { "latitude": 40.003019,  "longitude": -75.411170},
+            "Menu": {
+              "name": "Restroom 3",
+              "description": "A course restroom is located here",
+              "type": "Restroom",
+              "filter": "restroom",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      },
+      {
+        "properties":
+        {
+          "photo": "Medical",
+          "profilePhoto": "Medical",
+            "position": { "latitude": 40.010733,  "longitude": -75.412891},
+            "Menu": {
+              "name": "Medical",
+              "description": "Tournament Medical station",
+              "type": "Viewing Area",
+              "filter": "medical",
+              "items": [
+                
+            ]
+          }
+  
+        }
+      }
+      
+    
+    ]
+  },
+  "courseConfig": {
+    "Features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "TeeLocation": {
+              "latitude": 40.010449,
+              "longitude": -75.408902
+            },
+            "FlagLocation": {
+              "latitude": 40.007444,
+              "longitude": -75.406713
+            },
+            "FairwayLocation": {
+              "latitude": 40.008307,
+              "longitude": -75.407521
+            },
+            "teeTemplateCenter": [
+              {
+                "latitude": 40.010449,
+                "longitude": -75.408802
+              },{
+                "latitude": 40.010449,
+                "longitude": -75.409002
+              },{
+                "latitude": 40.010349,
+                "longitude": -75.408802
+              },{
+                "latitude": 40.010349,
+                "longitude": -75.409902
+              },{
+                "latitude": 40.010549,
+                "longitude": -75.408802
+              },{
+                "latitude": 40.010549,
+                "longitude": -75.409902
+              }
+            ],
+            "fairwayTemplateCenter": [
+              {
+                "latitude": 40.008407,
+                "longitude": -75.407621
+              },{
+                "latitude": 40.008307,
+                "longitude": -75.407621
+              },{
+                "latitude": 40.008307,
+                "longitude": -75.407421
+              },{
+                "latitude": 40.008407,
+                "longitude": -75.407421
+              },{
+                "latitude": 40.008207,
+                "longitude": -75.407421
+              },{
+                "latitude": 40.008207,
+                "longitude": -75.407621
+              }
+            ],
+            "greenTemplateCenter": [
+              {
+                "latitude": 40.007544,
+                "longitude": -75.406813
+              },{
+                "latitude": 40.007544,
+                "longitude": -75.406613
+              },{
+                "latitude": 40.007444,
+                "longitude": -75.406813
+              },{
+                "latitude": 40.007444,
+                "longitude": -75.406613
+              },{
+                "latitude": 40.007644,
+                "longitude": -75.406813
+              },{
+                "latitude": 40.007644,
+                "longitude": -75.406613
+              }
+            ],
+            "teeDrawingPattern": "3grp",
+            "greenDrawingPattern": "3grp",
+            "fairwayDrawingPattern": "3grp",
+            "number": 1,
+            "Par": 4,
+            "Yards": 434,
+            "holeArt": {
+                "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/kpmg/Hole01.jpg"
+              },
+              "description": "The opening hole plays long and uphill, but the fairway is very generous. It is a slight dogleg left that requires a long tee shot along the right side of the fairway. A player middle to long-iron second shot into a two- tier, right-to-left angled green coming up short is the rule of the day, so players should always add one club to the yardage. The fairway bunkers are located 8- yards from the green. All of the holes on this course were named by architect Donald Ross",
+            "image": "Hole0.png",
+            "page": "Hole0.html"
+          },
+          "noLocationProperties": [
+            {
+              "latitude": 40.008107,
+              "longitude": -75.407121
+            },{
+              "latitude": 40.008107,
+              "longitude": -75.407221
+            },{
+              "latitude": 40.008507,
+              "longitude": -75.407821
+            },{
+              "latitude": 40.008507,
+              "longitude": -75.407321
+            },{
+              "latitude": 40.008607,
+              "longitude": -75.407821
+            },{
+              "latitude": 40.008607,
+              "longitude": -75.407321
+            },{
+              "latitude": 40.008707,
+              "longitude": -75.407821
+            },{
+              "latitude": 40.008707,
+              "longitude": -75.407821
+            },{
+              "latitude": 40.008807,
+              "longitude": -75.407921
+            },{
+              "latitude": 40.008807,
+              "longitude": -75.407021
+            }
+          ]
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "TeeLocation": {
+              "latitude": 40.007054,
+              "longitude": -75.406313
+            },
+            "FlagLocation": {
+              "latitude": 40.007242,
+              "longitude": -75.410155
+            },
+            "FairwayLocation": {
+              "latitude": 40.007520,
+              "longitude": -75.408884
+            },
+            "teeTemplateCenter": [
+              
+            ],
+            "fairwayTemplateCenter": [
+              
+            ],
+            "greenTemplateCenter": [
+              
+            ],
+            "teeDrawingPattern": "3grp",
+            "greenDrawingPattern": "3grp",
+            "fairwayDrawingPattern": "3grp",
+            "number": 2,
+            "Par": 4,
+            "Yards": 413,
+            "holeArt": {
+                "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/kpmg/Hole02.jpg"
+              },
+              "description": "This dogleg left with the fairway sloping away from the dogleg makes for a difficult tee shot. A driver must be hit with a draw into the slope or the ball will roll through the fairway into the deep rough. Six fairway bunkers at the corner of the dogleg are possible to carry by the longest hitters but the tee shot must be precise. With a well-placed tee shot, this is a birdie hole. ",
+            "image": "Hole1.png",
+            "page": "Hole1.html"
+          },
+          "noLocationProperties": [
+            
+          ]
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "TeeLocation": {
+              "latitude": 40.006964,
+              "longitude": -75.410028
+            },
+            "FlagLocation": {
+              "latitude": 40.006018,
+              "longitude": -75.405941
+            },
+            "FairwayLocation": {
+              "latitude": 40.006296,
+              "longitude": -75.407530
+            },
+            "teeTemplateCenter": [
+              
+            ],
+            "fairwayTemplateCenter": [
+              
+            ],
+            "greenTemplateCenter": [
+              
+            ],
+            "teeDrawingPattern": "3grp",
+            "greenDrawingPattern": "3grp",
+            "fairwayDrawingPattern": "3grp",
+            "number": 3,
+            "Par": 4,
+            "Yards": 455,
+            "holeArt": {
+                "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/kpmg/Hole03.jpg"
+              },
+              "description": "The hole is best played with a fade off the tee working the ball away from the fairway bunkers on the left. A good tee shot will leave a middle to short iron into the green. However, a shot from the high rough or fairway bunkers will be challenged by several cross bunkers 50 yards from the green. If the hole location is in the back right, getting close is almost impossible unless the player is astute enough to pay into the mound running diagonally across the green. The ball will roll off the mound and snuggle up to the seemingly hidden pin location. As Donald Ross intended. ",
+            "image": "Hole2.png",
+            "page": "Hole2.html"
+          },
+          "noLocationProperties": [
+            
+          ]
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "TeeLocation": {
+              "latitude": 40.005472,
+              "longitude": -75.405399
+            },
+            "FlagLocation": {
+              "latitude": 40.003441, 
+              "longitude": -75.408891
+            },
+            "FairwayLocation": {
+              "latitude": 40.004403, 
+              "longitude": -75.407421
+            },
+            "teeTemplateCenter": [
+              
+            ],
+            "fairwayTemplateCenter": [
+              
+            ],
+            "greenTemplateCenter": [
+              
+            ],
+            "teeDrawingPattern": "3grp",
+            "greenDrawingPattern": "3grp",
+            "fairwayDrawingPattern": "3grp",
+            "number": 4,
+            "Par": 4,
+            "Yards": 457,
+            "holeArt": {
+                "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/kpmg/Hole04.jpg"
+              },
+              "description": "A long par 4 with a landing area hidden over the crest of a hill, the green is relatively small for a hole that can play so long. Look for the hole location to be placed on the small terrace on the left side of the green or a perch on the back right. Any players shot directed at the flag better not miss if a reasonable up-and-down opportunity is expected. A deep bunker is located to the right of the green on the right to catch errant shots and shots over the green will challenge even the best players with a tough up and down. ",
+            "image": "Hole3.png",
+            "page": "Hole3.html"
+          },
+          "noLocationProperties": [
+            
+          ]
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "TeeLocation": {
+              "latitude": 40.003121, 
+              "longitude": -75.408784
+            },
+            "FlagLocation": {
+              "latitude": 40.002624, 
+              "longitude": -75.410043
+            },
+            "FairwayLocation": {
+              "latitude": 40.002940, 
+              "longitude": -75.409471
+            },
+            "teeTemplateCenter": [
+              
+            ],
+            "fairwayTemplateCenter": [
+              
+            ],
+            "greenTemplateCenter": [
+              
+            ],
+            "teeDrawingPattern": "3grp",
+            "greenDrawingPattern": "3grp",
+            "fairwayDrawingPattern": "3grp",
+            "number": 5,
+            "Par": 3,
+            "Yards": 159,
+            "holeArt": {
+                "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/kpmg/Hole05.jpg"
+              },
+              "description": "The shortest pf Aronimink’s par 3s, this hole is typical of Donald Ross’ style of course routing. He liked his courses to pay downhill to the par 3s and uphill to the par 4s and 5s. The front sides of the green are nearly surrounded by deep bunkers. Narrow terraces on the right and left side of the green offer several visually challenging hold locations. The safest shot is to the middle of the green.",
+            "image": "Hole4.png",
+            "page": "Hole4.html"
+          },
+          "noLocationProperties": [
+            
+          ]
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "TeeLocation": {
+              "latitude": 40.003099, 
+              "longitude": -75.409917
+            },
+            "FlagLocation": {
+              "latitude": 40.005194, 
+              "longitude": -75.407278
+            },
+            "FairwayLocation": {
+              "latitude": 40.004808, 
+              "longitude": -75.408619
+            },
+            "teeTemplateCenter": [
+              
+            ],
+            "fairwayTemplateCenter": [
+              
+            ],
+            "greenTemplateCenter": [
+              
+            ],
+            "teeDrawingPattern": "3grp",
+            "greenDrawingPattern": "3grp",
+            "fairwayDrawingPattern": "3grp",
+            "number": 6,
+            "Par": 4,
+            "Yards": 402,
+            "holeArt": {
+                "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/kpmg/Hole06.jpg"
+              },
+              "description": "A dogleg right with four fairway bunkers at the inside corner which can be carried with a solid tee shot. The longest of hitters may have to deal with the bunkers that are through the dogleg on the left side. The green has a large mound at the front left and another running diagonally from the back left to the middle. If the hole location is near either, chipping close is difficult. This is another short par 4 for player which requires precision from tee to green.",
+            "image": "Hole5.png",
+            "page": "Hole5.html"
+          },
+          "noLocationProperties": [
+            
+          ]
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "TeeLocation": {
+              "latitude": 40.005457, 
+              "longitude": -75.406924
+            },
+            "FlagLocation": {
+              "latitude": 40.006661, 
+              "longitude": -75.410319
+            },
+            "FairwayLocation": {
+              "latitude": 40.005897, 
+              "longitude": -75.409343
+            },
+            "teeTemplateCenter": [
+              
+            ],
+            "fairwayTemplateCenter": [
+              
+            ],
+            "greenTemplateCenter": [
+              
+            ],
+            "teeDrawingPattern": "3grp",
+            "greenDrawingPattern": "3grp",
+            "fairwayDrawingPattern": "3grp",
+            "number": 7,
+            "Par": 4,
+            "Yards": 396,
+            "holeArt": {
+                "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/kpmg/Hole07.jpg"
+              },
+              "description": "The seventh is a dogleg right with a series of mounds and tees guarding the inside corner. A back-left hole location is dangerous for players with a steep slope left and long of the green. The green also has a large mound that runs diagonally from the back toward the middle. By now, the payer should recognize how ross protects par on and around the green complex with plateaus and mounds running at diagonals. With a. good tee shot, players will be thinking of making birdie on this hole.",
+            "image": "Hole6.png",
+            "page": "Hole6.html"
+          },
+          "noLocationProperties": [
+            
+          ]
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "TeeLocation": {
+              "latitude": 40.007150, 
+              "longitude": -75.410781
+            },
+            "FlagLocation": {
+              "latitude": 40.007863, 
+              "longitude": -75.412827
+            },
+            "FairwayLocation": {
+              "latitude": 40.007659, 
+              "longitude": -75.412419
+            },
+            "teeTemplateCenter": [
+              
+            ],
+            "fairwayTemplateCenter": [
+              
+            ],
+            "greenTemplateCenter": [
+              
+            ],
+            "teeDrawingPattern": "3grp",
+            "greenDrawingPattern": "3grp",
+            "fairwayDrawingPattern": "3grp",
+            "number": 8,
+            "Par": 3,
+            "Yards": 242,
+            "holeArt": {
+                "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/kpmg/Hole08.jpg"
+              },
+              "description": "This long par 3 plays to a narrow green from the highly elevated back tee. This green is without much depth and runs on a diagonal from left to right. The green has an obligatory mound bisecting it. This is a picturesque hole where par will be a good score and on which players will be hitting long irons from the tee. Typically, this hole plays toughest in relation to par.",
+            "image": "Hole7.png",
+            "page": "Hole7.html"
+          },
+          "noLocationProperties": [
+            
+          ]
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "TeeLocation": {
+              "latitude": 40.008019, 
+              "longitude": -75.414104
+            },
+            "FlagLocation": {
+              "latitude": 40.010824, 
+              "longitude": -75.410023
+            },
+            "FairwayLocation": {
+              "latitude": 40.010109, 
+              "longitude": -75.411557
+            },
+            "teeTemplateCenter": [
+              
+            ],
+            "fairwayTemplateCenter": [
+              
+            ],
+            "greenTemplateCenter": [
+              
+            ],
+            "teeDrawingPattern": "3grp",
+            "greenDrawingPattern": "3grp",
+            "fairwayDrawingPattern": "3grp",
+            "number": 9,
+            "Par": 5,
+            "Yards": 605,
+            "holeArt": {
+                "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/kpmg/Hole09.jpg"
+              },
+              "description": "The first of only two par 5s on the course, the best tee shot is a draw to keep the ball from finding the four bunkers on the right. This green is relatively benign and provides players with one of the best opportunities for holing a putt. ",
+            "image": "Hole8.png",
+            "page": "Hole8.html"
+          },
+          "noLocationProperties": [
+            
+          ]
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "TeeLocation": {
+              "latitude": 40.010397, 
+              "longitude": -75.409562
+            },
+            "FlagLocation": {
+              "latitude": 40.008219, 
+              "longitude": -75.413017
+            },
+            "FairwayLocation": {
+              "latitude": 40.009131, 
+              "longitude": -75.411708
+            },
+            "teeTemplateCenter": [
+              
+            ],
+            "fairwayTemplateCenter": [
+              
+            ],
+            "greenTemplateCenter": [
+              
+            ],
+            "teeDrawingPattern": "3grp",
+            "greenDrawingPattern": "3grp",
+            "fairwayDrawingPattern": "3grp",
+            "number": 10,
+            "Par": 4,
+            "Yards": 444,
+            "holeArt": {
+                "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/kpmg/Hole10.jpg"
+              },
+              "description": "This hole is the one most demanding on the course. A narrow fairway is guarded on the right by two bunkers and two very large sycamore trees. The left rough is no bargain either, considering a lake guards the front left of the green. A layup to the top of the hill might seem the prudent play but that means a longer iron into a very difficult green. Once a player reaches the green, their work is just beginning as this is one of the most difficult putting surfaces on the course. ",
+            "image": "Hole9.png",
+            "page": "Hole9.html"
+          },
+          "noLocationProperties": [
+            
+          ]
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "TeeLocation": {
+              "latitude": 40.007874, 
+              "longitude": -75.413489
+            },
+            "FlagLocation": {
+              "latitude": 40.005720, 
+              "longitude": -75.410373
+            },
+            "FairwayLocation": {
+              "latitude": 40.006493, 
+              "longitude": -75.411575
+            },
+            "teeTemplateCenter": [
+              
+            ],
+            "fairwayTemplateCenter": [
+              
+            ],
+            "greenTemplateCenter": [
+              
+            ],
+            "teeDrawingPattern": "3grp",
+            "greenDrawingPattern": "3grp",
+            "fairwayDrawingPattern": "3grp",
+            "number": 11,
+            "Par": 4,
+            "Yards": 425,
+            "holeArt": {
+                "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/kpmg/Hole11.jpg"
+              },
+              "description": "Maybe the most spectacular looking hole from the tee this hole has become more challenging since being restored. The driving area is guarded on both sides by the fairway bunkers. In total, the hole has 20 bunkers for players to avoid. The green presents extreme difficulty. A bowl in the middle of the green guard’s hole locations to the upper level which surrounds it on three sides. An approach shot not played precisely will roll back into the lower level or even worse over the green. A chip form behind the green can be impossible due to the slope and speed. Three putts will not be uncommon. ",
+            "image": "Hole10.png",
+            "page": "Hole10.html"
+          },
+          "noLocationProperties": [
+            
+          ]
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "TeeLocation": {
+              "latitude": 40.005613, 
+              "longitude": -75.409837
+            },
+            "FlagLocation": {
+              "latitude": 40.002107, 
+              "longitude": -75.410867
+            },
+            "FairwayLocation": {
+              "latitude": 40.003537, 
+              "longitude": -75.410395
+            },
+            "teeTemplateCenter": [
+              
+            ],
+            "fairwayTemplateCenter": [
+              
+            ],
+            "greenTemplateCenter": [
+              
+            ],
+            "teeDrawingPattern": "3grp",
+            "greenDrawingPattern": "3grp",
+            "fairwayDrawingPattern": "3grp",
+            "number": 12,
+            "Par": 4,
+            "Yards": 466,
+            "holeArt": {
+                "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/kpmg/Hole12.jpg"
+              },
+              "description": "The tee on 12 sits 12-15 feet above the green on 11. The drive falls 35 feet onto level ground, leaving a very long uphill shot to the green. As on 11, the entire hole is in full view from the start. Twelve bunkers are staggered right and left all the way from the tee shot landing area to the green. The undulating putting surface affords marvelous variety in hole locations. ",
+            "image": "Hole11.png",
+            "page": "Hole11.html"
+          },
+          "noLocationProperties": [
+            
+          ]
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "TeeLocation": {
+              "latitude": 40.002230, 
+              "longitude": -75.411339
+            },
+            "FlagLocation": {
+              "latitude": 40.004613, 
+              "longitude": -75.413002
+            },
+            "FairwayLocation": {
+              "latitude": 40.003980, 
+              "longitude": -75.412573
+            },
+            "teeTemplateCenter": [
+              
+            ],
+            "fairwayTemplateCenter": [
+              
+            ],
+            "greenTemplateCenter": [
+              
+            ],
+            "teeDrawingPattern": "3grp",
+            "greenDrawingPattern": "3grp",
+            "fairwayDrawingPattern": "3grp",
+            "number": 13,
+            "Par": 4,
+            "Yards": 385,
+            "holeArt": {
+                "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/kpmg/Hole13.jpg"
+              },
+              "description": "A rare birdie is possible for the average to good player on #13. Most will play an iron or fairway wood from the tee, which leaves a short iron into a well-guarded green. A terrace in the front right as well as a small diagonal terrace in the back of the green will result in the most challenging hole locations. ",
+            "image": "Hole12.png",
+            "page": "Hole12.html"
+          },
+          "noLocationProperties": [
+            
+          ]
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "TeeLocation": {
+              "latitude": 40.004695, 
+              "longitude": -75.413582
+            },
+            "FlagLocation": {
+              "latitude": 40.006093, 
+              "longitude": -75.414323
+            },
+            "FairwayLocation": {
+              "latitude": 40.005657, 
+              "longitude": -75.414108
+            },
+            "teeTemplateCenter": [
+              
+            ],
+            "fairwayTemplateCenter": [
+              
+            ],
+            "greenTemplateCenter": [
+              
+            ],
+            "teeDrawingPattern": "3grp",
+            "greenDrawingPattern": "3grp",
+            "fairwayDrawingPattern": "3grp",
+            "number": 14,
+            "Par": 3,
+            "Yards": 221,
+            "holeArt": {
+                "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/kpmg/Hole14.jpg"
+              },
+              "description": "This is a long par 3 hole with three massive bunkers guarding the green. A long iron is required here at minimum. A small terrace in the back right will definitely be a hole location on the weekend. Depending on the wind in particular and the weather in general, the tee shot will vary from a hybrid to a mid-iron. ",
+            "image": "Hole13.png",
+            "page": "Hole13.html"
+          },
+          "noLocationProperties": [
+            
+          ]
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "TeeLocation": {
+              "latitude": 40.006430, 
+              "longitude": -75.413851
+            },
+            "FlagLocation": {
+              "latitude": 40.003439, 
+              "longitude": -75.411098
+            },
+            "FairwayLocation": {
+              "latitude": 40.004421, 
+              "longitude": -75.412026
+            },
+            "teeTemplateCenter": [
+              
+            ],
+            "fairwayTemplateCenter": [
+              
+            ],
+            "greenTemplateCenter": [
+              
+            ],
+            "teeDrawingPattern": "3grp",
+            "greenDrawingPattern": "3grp",
+            "fairwayDrawingPattern": "3grp",
+            "number": 15,
+            "Par": 4,
+            "Yards": 515,
+            "holeArt": {
+                "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/kpmg/Hole15.jpg"
+              },
+              "description": "This is the longest par 4 with menacing fairway bunkers on the right that must be avoided. A good tee shot will leave a long iron to mid-iron into a large green that is one of the easiest on the course. This punchbowl type green is one of the only greens without terraces or mounds. ",
+            "image": "Hole14.png",
+            "page": "Hole14.html"
+          },
+          "noLocationProperties": [
+            
+          ]
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "TeeLocation": {
+              "latitude": 40.003957, 
+              "longitude": -75.410787
+            },
+            "FlagLocation": {
+              "latitude": 40.007487, 
+              "longitude": -75.414018
+            },
+            "FairwayLocation": {
+              "latitude": 40.006246, 
+              "longitude": -75.412559
+            },
+            "teeTemplateCenter": [
+              
+            ],
+            "fairwayTemplateCenter": [
+              
+            ],
+            "greenTemplateCenter": [
+              
+            ],
+            "teeDrawingPattern": "3grp",
+            "greenDrawingPattern": "3grp",
+            "fairwayDrawingPattern": "3grp",
+            "number": 16,
+            "Par": 5,
+            "Yards": 556,
+            "holeArt": {
+                "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/kpmg/Hole16.jpg"
+              },
+              "description": "One of the few birdie opportunities at Aronimink, this is the more reachable of the two par 5s. The deep bunkers at the corner of the dogleg left can be carried but the right side must be avoided. A long approach must be hit very high to hold a wide, yet shallow, green. As is the case with many of the greens here, the putting surface rolls off on the edges. ",
+            "image": "Hole15.png",
+            "page": "Hole15.html"
+          },
+          "noLocationProperties": [
+            
+          ]
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "TeeLocation": {
+              "latitude": 40.007865, 
+              "longitude": -75.414544
+            },
+            "FlagLocation": {
+              "latitude": 40.009287, 
+              "longitude": -75.413997
+            },
+            "FairwayLocation": {
+              "latitude": 40.008580, 
+              "longitude": -75.414222
+            },
+            "teeTemplateCenter": [
+              
+            ],
+            "fairwayTemplateCenter": [
+              
+            ],
+            "greenTemplateCenter": [
+              
+            ],
+            "teeDrawingPattern": "3grp",
+            "greenDrawingPattern": "3grp",
+            "fairwayDrawingPattern": "3grp",
+            "number": 17,
+            "Par": 3,
+            "Yards": 229,
+            "holeArt": {
+                "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/kpmg/Hole17.jpg"
+              },
+              "description": "A downhill par 3, the 17th is an outstanding one-shotter that can call for a variety of different clubs on the tee shot depending upon which tee is being used, the hole locations and the wind direction. Any errant shot will trickle down the steep bank into the lake guarding the large green. There are several bunkers guarding the right lobe of the green. ",
+            "image": "Hole16.png",
+            "page": "Hole16.html"
+          },
+          "noLocationProperties": [
+            
+          ]
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "TeeLocation": {
+              "latitude": 40.009764, 
+              "longitude": -75.413643
+            },
+            "FlagLocation": {
+              "latitude": 40.011315, 
+              "longitude": -75.410012
+            },
+            "FairwayLocation": {
+              "latitude": 40.011093, 
+              "longitude": -75.410881
+            },
+            "teeTemplateCenter": [
+              
+            ],
+            "fairwayTemplateCenter": [
+              
+            ],
+            "greenTemplateCenter": [
+              
+            ],
+            "teeDrawingPattern": "3grp",
+            "greenDrawingPattern": "3grp",
+            "fairwayDrawingPattern": "3grp",
+            "number": 18,
+            "Par": 4,
+            "Yards": 463,
+            "holeArt": {
+                "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/kpmg/Hole18.jpg"
+              },
+              "description": "Players must hit the fairway and avoid the three bunkers on the right. Trees loom on the far left and a single tree stands proudly on the right side of the fairway requiring a precise tee shot. A new tree complex will challenge even the longest hitters to carry the fairway bunkers from the tee. A fade avoiding the bunker on the right fits best the second shot requires a middle iron uphill to a large green that sits directly in front of the stately Aronimink clubhouse. This winding terraced green provides several interesting hole locations for the final hole of this championship course. ",
+            "image": "Hole17.png",
+            "page": "Hole17.html"
+          },
+          "noLocationProperties": [
+            
+          ]
+        }
+
+
+      ],
+    "type": "FeatureCollection",
+    "initialRegion": {
+      "latitude": 40.011495,
+      "longitude": -75.409013,
+      "latitudeDelta": 0.0005,
+      "longitudeDelta": 0.0020
+    },
+    "maxDelta": 0.02,
+    "courseGeoFence": [
+      {
+        "latitude": 40.014097, 
+        "longitude": -75.409040
+      }, 
+      {
+        "latitude": 40.008557, 
+        "longitude": -75.418024
+      }, 
+      {
+        "latitude": 40.001369, 
+        "longitude": -75.411605
+      },
+      {
+        "latitude": 40.005360, 
+        "longitude": -75.404985
+      }
+    ],
+    "courseFileVersion": "v0.0.2",
+    "tournamentActive": "yes",
+    "tournamentLogo": {
+      "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/kpmg/logo_color.png"
+    },
+    "tournamentBackgroundImage": {
+      "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/kpmg/background.jpg"
+    },
+    "courseName": "Aronimink Golf Club",
+    "courseLocation": "Newtown Square, PA",
+    "courseLogo": {
+      "uri": "http://www.cmegrouptourchampionship.com/-/media/images/lpga/cme-group/sponsors/2018Tiburon_140x120"
+    }
+
+  }
+  
+  
+}
