@@ -1,0 +1,2509 @@
+{
+    "Sponsors": [
+        {
+            "sponsorNumber": "1",
+            "image": {
+                "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/images/BAsponsor.png"
+            }
+        },
+        {
+            "sponsorNumber": "2",
+            "image": {
+                "uri": "https://www.bna-inc.com/wp-content/themes/bartassociate/LPGA/500px-NEC_logo.svg.png"
+            }
+        }
+    ],
+    "trendingEntries": {
+        "ENTRIES1": [
+            {
+                "title": "Tournament Pairings",
+                "subtitle": "View the tournament pairings",
+                "illustration": "http://www.lpga.com/-/media/images/lpga/tournaments/cme-group-tour-championship/2018/pre-tournament/cmefeaturedgroups.jpg",
+                "weblink": "https://www.lpga.com/tournaments/pelican-womens-championship/pairings"
+            },
+            {
+                "title": "LPGA Amateur Golf",
+                "subtitle": "Connect to enjoy the game of golf and much, much more!",
+                "illustration": "https://www.girlsgolf.org/image/0---new-site-images/events/Events---Tour-Junior-Clinics.jpg",
+                "weblink": "http://www.lpgaamateurs.com/"
+            },
+            {
+                "title": "LPGA Junior Ladies",
+                "subtitle": "Find a Girls Golf Site Near You",
+                "illustration": "https://www.girlsgolf.org/image/0---new-site-images/news/Find-a-Site.jpg",
+                "weblink": "https://www.girlsgolf.org/find"
+            }
+        ],
+        "tvTimes": [
+            {
+                "image": {
+                    "uri": "http://www.lpga.com/-/media/images/lpga/tv-network-logos/golf-channel.png?h=50&la=en&w=50&hash=E978E602DAD7DF9D1EFE17403D32B4165BD21C58"
+                },
+                "tvTimeEntries": [
+                    {
+                        "time": "Nov 19 (ET) 4:00 p.m. - 7:00 p.m."
+                    },
+                    {
+                        "time": "Nov 20 (ET) 4:00 p.m. - 7:00 p.m."
+                    },
+                    {
+                        "time": "Nov 21 (ET) 4:00 p.m. - 7:00 p.m."
+                    },
+                    {
+                        "time": "Nov 22 (ET) 4:00 p.m. - 7:00 p.m."
+                    }
+                ]
+            }
+        ]
+    },
+    "Amenities": {
+        "Features": []
+    },
+    "courseConfig": {
+        "Features": 
+        [
+            {
+              "type": "Feature",
+              "properties": {
+                "TeeLocation": {
+                  "latitude": 27.931458,
+                  "longitude": -82.807093
+                },
+                "FlagLocation": {
+                  "latitude": 27.933462,
+                  "longitude": -82.805585
+                },
+                "FairwayLocation": {
+                  "latitude": 27.932721,
+                  "longitude": -82.8062
+                },
+                "teeTemplateCenter": [
+                  {
+                    "latitude": 27.931458,
+                    "longitude": -82.80699299999999
+                  },
+                  {
+                    "latitude": 27.931458,
+                    "longitude": -82.807193
+                  },
+                  {
+                    "latitude": 27.931558,
+                    "longitude": -82.80699299999999
+                  },
+                  {
+                    "latitude": 27.931558,
+                    "longitude": -82.807193
+                  },
+                  {
+                    "latitude": 27.931358,
+                    "longitude": -82.80699299999999
+                  },
+                  {
+                    "latitude": 27.931358,
+                    "longitude": -82.807193
+                  }
+                ],
+                "fairwayTemplateCenter": [
+                  {
+                    "latitude": 27.932721,
+                    "longitude": -82.8061
+                  },
+                  {
+                    "latitude": 27.932721,
+                    "longitude": -82.80630000000001
+                  },
+                  {
+                    "latitude": 27.932821,
+                    "longitude": -82.8061
+                  },
+                  {
+                    "latitude": 27.932821,
+                    "longitude": -82.80630000000001
+                  },
+                  {
+                    "latitude": 27.932621,
+                    "longitude": -82.8061
+                  },
+                  {
+                    "latitude": 27.932621,
+                    "longitude": -82.80630000000001
+                  }
+                ],
+                "greenTemplateCenter": [
+                  {
+                    "latitude": 27.933462,
+                    "longitude": -82.80548499999999
+                  },
+                  {
+                    "latitude": 27.933462,
+                    "longitude": -82.805685
+                  },
+                  {
+                    "latitude": 27.933562,
+                    "longitude": -82.80548499999999
+                  },
+                  {
+                    "latitude": 27.933562,
+                    "longitude": -82.805685
+                  },
+                  {
+                    "latitude": 27.933362,
+                    "longitude": -82.80548499999999
+                  },
+                  {
+                    "latitude": 27.933362,
+                    "longitude": -82.805685
+                  }
+                ],
+                "teeDrawingPattern": "3grp",
+                "greenDrawingPattern": "3grp",
+                "fairwayDrawingPattern": "3grp",
+                "number": 1,
+                "Par": 4,
+                "Yards": 312,
+                "image": "Hole0.png",
+                "page": "Hole0.html",
+                "description": "A straightforward opening hole that allows a good start to your day with a precision short iron second shot.",
+                "holeArt": {
+                  "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/pelican/holepics/1.jpg"
+                }
+              },
+              "noLocationProperties": [
+                {
+                  "latitude": 27.933462,
+                  "longitude": -82.80538499999999
+                },
+                {
+                  "latitude": 27.933462,
+                  "longitude": -82.805785
+                },
+                {
+                  "latitude": 27.933661999999998,
+                  "longitude": -82.80538499999999
+                },
+                {
+                  "latitude": 27.933661999999998,
+                  "longitude": -82.805785
+                },
+                {
+                  "latitude": 27.933262,
+                  "longitude": -82.80538499999999
+                },
+                {
+                  "latitude": 27.933262,
+                  "longitude": -82.805785
+                }
+              ]
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "TeeLocation": {
+                  "latitude": 27.933597,
+                  "longitude": -82.805106
+                },
+                "FlagLocation": {
+                  "latitude": 27.933584,
+                  "longitude": -82.801462
+                },
+                "FairwayLocation": {
+                  "latitude": 27.933419,
+                  "longitude": -82.803028
+                },
+                "teeTemplateCenter": [
+                  {
+                    "latitude": 27.933597,
+                    "longitude": -82.80500599999999
+                  },
+                  {
+                    "latitude": 27.933597,
+                    "longitude": -82.805206
+                  },
+                  {
+                    "latitude": 27.933697,
+                    "longitude": -82.80500599999999
+                  },
+                  {
+                    "latitude": 27.933697,
+                    "longitude": -82.805206
+                  },
+                  {
+                    "latitude": 27.933497,
+                    "longitude": -82.80500599999999
+                  },
+                  {
+                    "latitude": 27.933497,
+                    "longitude": -82.805206
+                  }
+                ],
+                "fairwayTemplateCenter": [
+                  {
+                    "latitude": 27.933419,
+                    "longitude": -82.802928
+                  },
+                  {
+                    "latitude": 27.933419,
+                    "longitude": -82.803128
+                  },
+                  {
+                    "latitude": 27.933519,
+                    "longitude": -82.802928
+                  },
+                  {
+                    "latitude": 27.933519,
+                    "longitude": -82.803128
+                  },
+                  {
+                    "latitude": 27.933319,
+                    "longitude": -82.802928
+                  },
+                  {
+                    "latitude": 27.933319,
+                    "longitude": -82.803128
+                  }
+                ],
+                "greenTemplateCenter": [
+                  {
+                    "latitude": 27.933584,
+                    "longitude": -82.801362
+                  },
+                  {
+                    "latitude": 27.933584,
+                    "longitude": -82.801562
+                  },
+                  {
+                    "latitude": 27.933684,
+                    "longitude": -82.801362
+                  },
+                  {
+                    "latitude": 27.933684,
+                    "longitude": -82.801562
+                  },
+                  {
+                    "latitude": 27.933484,
+                    "longitude": -82.801362
+                  },
+                  {
+                    "latitude": 27.933484,
+                    "longitude": -82.801562
+                  }
+                ],
+                "teeDrawingPattern": "3grp",
+                "greenDrawingPattern": "3grp",
+                "fairwayDrawingPattern": "3grp",
+                "number": 2,
+                "Par": 4,
+                "Yards": 389,
+                "image": "Hole1.png",
+                "page": "Hole1.html",
+                "description": "A well struck tee shot is a must on this extremely difficult second hole.  The left bunkersoff the tee test a player hoping to hit the green in regulation.  The second green at Pelican Golf Club is the most challenging on the property with dramatic fall offs on all sides.",
+                "holeArt": {
+                  "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/pelican/holepics/2.jpg"
+                }
+              },
+              "noLocationProperties": [
+                {
+                  "latitude": 27.933584,
+                  "longitude": -82.801262
+                },
+                {
+                  "latitude": 27.933584,
+                  "longitude": -82.80166200000001
+                },
+                {
+                  "latitude": 27.933784,
+                  "longitude": -82.801262
+                },
+                {
+                  "latitude": 27.933784,
+                  "longitude": -82.80166200000001
+                },
+                {
+                  "latitude": 27.933384,
+                  "longitude": -82.801262
+                },
+                {
+                  "latitude": 27.933384,
+                  "longitude": -82.80166200000001
+                }
+              ]
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "TeeLocation": {
+                  "latitude": 27.933257,
+                  "longitude": -82.801365
+                },
+                "FlagLocation": {
+                  "latitude": 27.931683,
+                  "longitude": -82.801534
+                },
+                "FairwayLocation": {
+                  "latitude": 27.932482,
+                  "longitude": -82.801397
+                },
+                "teeTemplateCenter": [
+                  {
+                    "latitude": 27.933257,
+                    "longitude": -82.801265
+                  },
+                  {
+                    "latitude": 27.933257,
+                    "longitude": -82.80146500000001
+                  },
+                  {
+                    "latitude": 27.933357,
+                    "longitude": -82.801265
+                  },
+                  {
+                    "latitude": 27.933357,
+                    "longitude": -82.80146500000001
+                  },
+                  {
+                    "latitude": 27.933157,
+                    "longitude": -82.801265
+                  },
+                  {
+                    "latitude": 27.933157,
+                    "longitude": -82.80146500000001
+                  }
+                ],
+                "fairwayTemplateCenter": [
+                  {
+                    "latitude": 27.932482,
+                    "longitude": -82.80129699999999
+                  },
+                  {
+                    "latitude": 27.932482,
+                    "longitude": -82.801497
+                  },
+                  {
+                    "latitude": 27.932582,
+                    "longitude": -82.80129699999999
+                  },
+                  {
+                    "latitude": 27.932582,
+                    "longitude": -82.801497
+                  },
+                  {
+                    "latitude": 27.932382,
+                    "longitude": -82.80129699999999
+                  },
+                  {
+                    "latitude": 27.932382,
+                    "longitude": -82.801497
+                  }
+                ],
+                "greenTemplateCenter": [
+                  {
+                    "latitude": 27.931683,
+                    "longitude": -82.801434
+                  },
+                  {
+                    "latitude": 27.931683,
+                    "longitude": -82.801634
+                  },
+                  {
+                    "latitude": 27.931783,
+                    "longitude": -82.801434
+                  },
+                  {
+                    "latitude": 27.931783,
+                    "longitude": -82.801634
+                  },
+                  {
+                    "latitude": 27.931583,
+                    "longitude": -82.801434
+                  },
+                  {
+                    "latitude": 27.931583,
+                    "longitude": -82.801634
+                  }
+                ],
+                "teeDrawingPattern": "3grp",
+                "greenDrawingPattern": "3grp",
+                "fairwayDrawingPattern": "3grp",
+                "number": 3,
+                "Par": 4,
+                "Yards": 389,
+                "image": "Hole2.png",
+                "page": "Hole2.html",
+                "description": "A well struck tee shot is a must on this extremely difficult second hole.  The left bunkersoff the tee test a player hoping to hit the green in regulation.  The second green at Pelican Golf Club is the most challenging on the property with dramatic fall offs on all sides.",
+                "holeArt": {
+                  "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/pelican/holepics/2.jpg"
+                }
+              },
+              "noLocationProperties": [
+                {
+                  "latitude": 27.931683,
+                  "longitude": -82.801334
+                },
+                {
+                  "latitude": 27.931683,
+                  "longitude": -82.80173400000001
+                },
+                {
+                  "latitude": 27.931883,
+                  "longitude": -82.801334
+                },
+                {
+                  "latitude": 27.931883,
+                  "longitude": -82.80173400000001
+                },
+                {
+                  "latitude": 27.931483,
+                  "longitude": -82.801334
+                },
+                {
+                  "latitude": 27.931483,
+                  "longitude": -82.80173400000001
+                }
+              ]
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "TeeLocation": {
+                  "latitude": 27.932223,
+                  "longitude": -82.801903
+                },
+                "FlagLocation": {
+                  "latitude": 27.928537,
+                  "longitude": -82.802013
+                },
+                "FairwayLocation": {
+                  "latitude": 27.93049,
+                  "longitude": -82.802028
+                },
+                "teeTemplateCenter": [
+                  {
+                    "latitude": 27.932223,
+                    "longitude": -82.80180299999999
+                  },
+                  {
+                    "latitude": 27.932223,
+                    "longitude": -82.802003
+                  },
+                  {
+                    "latitude": 27.932323,
+                    "longitude": -82.80180299999999
+                  },
+                  {
+                    "latitude": 27.932323,
+                    "longitude": -82.802003
+                  },
+                  {
+                    "latitude": 27.932123,
+                    "longitude": -82.80180299999999
+                  },
+                  {
+                    "latitude": 27.932123,
+                    "longitude": -82.802003
+                  }
+                ],
+                "fairwayTemplateCenter": [
+                  {
+                    "latitude": 27.93049,
+                    "longitude": -82.801928
+                  },
+                  {
+                    "latitude": 27.93049,
+                    "longitude": -82.80212800000001
+                  },
+                  {
+                    "latitude": 27.93059,
+                    "longitude": -82.801928
+                  },
+                  {
+                    "latitude": 27.93059,
+                    "longitude": -82.80212800000001
+                  },
+                  {
+                    "latitude": 27.93039,
+                    "longitude": -82.801928
+                  },
+                  {
+                    "latitude": 27.93039,
+                    "longitude": -82.80212800000001
+                  }
+                ],
+                "greenTemplateCenter": [
+                  {
+                    "latitude": 27.928537,
+                    "longitude": -82.801913
+                  },
+                  {
+                    "latitude": 27.928537,
+                    "longitude": -82.802113
+                  },
+                  {
+                    "latitude": 27.928637,
+                    "longitude": -82.801913
+                  },
+                  {
+                    "latitude": 27.928637,
+                    "longitude": -82.802113
+                  },
+                  {
+                    "latitude": 27.928437,
+                    "longitude": -82.801913
+                  },
+                  {
+                    "latitude": 27.928437,
+                    "longitude": -82.802113
+                  }
+                ],
+                "teeDrawingPattern": "3grp",
+                "greenDrawingPattern": "3grp",
+                "fairwayDrawingPattern": "3grp",
+                "number": 4,
+                "Par": 4,
+                "Yards": 408,
+                "image": "Hole3.png",
+                "page": "Hole3.html",
+                "description": "A unique hole with no bunkers and out of bounds looming down the left.  After a solid drive,players will be left with a long second shot to a very large green.  This green complexhas a “thumbprint”, made known by golf architects C.B. Macdonald and Seth Raynor.",
+                "holeArt": {
+                  "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/pelican/holepics/4.jpg"
+                }
+              },
+              "noLocationProperties": [
+                {
+                  "latitude": 27.928537,
+                  "longitude": -82.801813
+                },
+                {
+                  "latitude": 27.928537,
+                  "longitude": -82.80221300000001
+                },
+                {
+                  "latitude": 27.928736999999998,
+                  "longitude": -82.801813
+                },
+                {
+                  "latitude": 27.928736999999998,
+                  "longitude": -82.80221300000001
+                },
+                {
+                  "latitude": 27.928337,
+                  "longitude": -82.801813
+                },
+                {
+                  "latitude": 27.928337,
+                  "longitude": -82.80221300000001
+                }
+              ]
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "TeeLocation": {
+                  "latitude": 27.928652,
+                  "longitude": -82.80309
+                },
+                "FlagLocation": {
+                  "latitude": 27.930843,
+                  "longitude": -82.804733
+                },
+                "FairwayLocation": {
+                  "latitude": 27.929634,
+                  "longitude": -82.804014
+                },
+                "teeTemplateCenter": [
+                  {
+                    "latitude": 27.928652,
+                    "longitude": -82.80299
+                  },
+                  {
+                    "latitude": 27.928652,
+                    "longitude": -82.80319
+                  },
+                  {
+                    "latitude": 27.928752,
+                    "longitude": -82.80299
+                  },
+                  {
+                    "latitude": 27.928752,
+                    "longitude": -82.80319
+                  },
+                  {
+                    "latitude": 27.928552,
+                    "longitude": -82.80299
+                  },
+                  {
+                    "latitude": 27.928552,
+                    "longitude": -82.80319
+                  }
+                ],
+                "fairwayTemplateCenter": [
+                  {
+                    "latitude": 27.929634,
+                    "longitude": -82.80391399999999
+                  },
+                  {
+                    "latitude": 27.929634,
+                    "longitude": -82.804114
+                  },
+                  {
+                    "latitude": 27.929734,
+                    "longitude": -82.80391399999999
+                  },
+                  {
+                    "latitude": 27.929734,
+                    "longitude": -82.804114
+                  },
+                  {
+                    "latitude": 27.929534,
+                    "longitude": -82.80391399999999
+                  },
+                  {
+                    "latitude": 27.929534,
+                    "longitude": -82.804114
+                  }
+                ],
+                "greenTemplateCenter": [
+                  {
+                    "latitude": 27.930843,
+                    "longitude": -82.804633
+                  },
+                  {
+                    "latitude": 27.930843,
+                    "longitude": -82.804833
+                  },
+                  {
+                    "latitude": 27.930943,
+                    "longitude": -82.804633
+                  },
+                  {
+                    "latitude": 27.930943,
+                    "longitude": -82.804833
+                  },
+                  {
+                    "latitude": 27.930743,
+                    "longitude": -82.804633
+                  },
+                  {
+                    "latitude": 27.930743,
+                    "longitude": -82.804833
+                  }
+                ],
+                "teeDrawingPattern": "3grp",
+                "greenDrawingPattern": "3grp",
+                "fairwayDrawingPattern": "3grp",
+                "number": 5,
+                "Par": 4,
+                "Yards": 360,
+                "image": "Hole4.png",
+                "page": "Hole4.html",
+                "description": "A soft bend left to right encourages players to aim the ball at the left bunkers.  Once the tee shot has been successfully navigated, a short iron to wedge is next.  Players must hit an exact yardage as the green is horseshoe shaped and incredibly narrow back to front.",
+                "holeArt": {
+                  "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/pelican/holepics/5.jpg"
+                }
+              },
+              "noLocationProperties": [
+                {
+                  "latitude": 27.930843,
+                  "longitude": -82.80453299999999
+                },
+                {
+                  "latitude": 27.930843,
+                  "longitude": -82.804933
+                },
+                {
+                  "latitude": 27.931043,
+                  "longitude": -82.80453299999999
+                },
+                {
+                  "latitude": 27.931043,
+                  "longitude": -82.804933
+                },
+                {
+                  "latitude": 27.930643,
+                  "longitude": -82.80453299999999
+                },
+                {
+                  "latitude": 27.930643,
+                  "longitude": -82.804933
+                }
+              ]
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "TeeLocation": {
+                  "latitude": 27.931357,
+                  "longitude": -82.804416
+                },
+                "FlagLocation": {
+                  "latitude": 27.928809,
+                  "longitude": -82.802737
+                },
+                "FairwayLocation": {
+                  "latitude": 27.92999,
+                  "longitude": -82.8033
+                },
+                "teeTemplateCenter": [
+                  {
+                    "latitude": 27.931357,
+                    "longitude": -82.804316
+                  },
+                  {
+                    "latitude": 27.931357,
+                    "longitude": -82.804516
+                  },
+                  {
+                    "latitude": 27.931456999999998,
+                    "longitude": -82.804316
+                  },
+                  {
+                    "latitude": 27.931456999999998,
+                    "longitude": -82.804516
+                  },
+                  {
+                    "latitude": 27.931257,
+                    "longitude": -82.804316
+                  },
+                  {
+                    "latitude": 27.931257,
+                    "longitude": -82.804516
+                  }
+                ],
+                "fairwayTemplateCenter": [
+                  {
+                    "latitude": 27.92999,
+                    "longitude": -82.80319999999999
+                  },
+                  {
+                    "latitude": 27.92999,
+                    "longitude": -82.8034
+                  },
+                  {
+                    "latitude": 27.93009,
+                    "longitude": -82.80319999999999
+                  },
+                  {
+                    "latitude": 27.93009,
+                    "longitude": -82.8034
+                  },
+                  {
+                    "latitude": 27.92989,
+                    "longitude": -82.80319999999999
+                  },
+                  {
+                    "latitude": 27.92989,
+                    "longitude": -82.8034
+                  }
+                ],
+                "greenTemplateCenter": [
+                  {
+                    "latitude": 27.928809,
+                    "longitude": -82.80263699999999
+                  },
+                  {
+                    "latitude": 27.928809,
+                    "longitude": -82.802837
+                  },
+                  {
+                    "latitude": 27.928909,
+                    "longitude": -82.80263699999999
+                  },
+                  {
+                    "latitude": 27.928909,
+                    "longitude": -82.802837
+                  },
+                  {
+                    "latitude": 27.928709,
+                    "longitude": -82.80263699999999
+                  },
+                  {
+                    "latitude": 27.928709,
+                    "longitude": -82.802837
+                  }
+                ],
+                "teeDrawingPattern": "3grp",
+                "greenDrawingPattern": "3grp",
+                "fairwayDrawingPattern": "3grp",
+                "number": 6,
+                "Par": 4,
+                "Yards": 369,
+                "image": "Hole5.png",
+                "page": "Hole5.html",
+                "description": "A stunning, short par 4 with majestic oak trees down the left and numerous deep bunkers down the right.  Beau Welling refers to this green as “the river” for the strong swale in the middle.  Players must hit the correct section of the green for a reasonable birdie chance.",
+                "holeArt": {
+                  "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/pelican/holepics/6.jpg"
+                }
+              },
+              "noLocationProperties": [
+                {
+                  "latitude": 27.928809,
+                  "longitude": -82.80253699999999
+                },
+                {
+                  "latitude": 27.928809,
+                  "longitude": -82.802937
+                },
+                {
+                  "latitude": 27.929009,
+                  "longitude": -82.80253699999999
+                },
+                {
+                  "latitude": 27.929009,
+                  "longitude": -82.802937
+                },
+                {
+                  "latitude": 27.928609,
+                  "longitude": -82.80253699999999
+                },
+                {
+                  "latitude": 27.928609,
+                  "longitude": -82.802937
+                }
+              ]
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "TeeLocation": {
+                  "latitude": 27.928357,
+                  "longitude": -82.80242
+                },
+                "FlagLocation": {
+                  "latitude": 27.932735,
+                  "longitude": -82.802037
+                },
+                "FairwayLocation": {
+                  "latitude": 27.931133,
+                  "longitude": -82.802536
+                },
+                "teeTemplateCenter": [
+                  {
+                    "latitude": 27.928357,
+                    "longitude": -82.80232
+                  },
+                  {
+                    "latitude": 27.928357,
+                    "longitude": -82.80252
+                  },
+                  {
+                    "latitude": 27.928456999999998,
+                    "longitude": -82.80232
+                  },
+                  {
+                    "latitude": 27.928456999999998,
+                    "longitude": -82.80252
+                  },
+                  {
+                    "latitude": 27.928257,
+                    "longitude": -82.80232
+                  },
+                  {
+                    "latitude": 27.928257,
+                    "longitude": -82.80252
+                  }
+                ],
+                "fairwayTemplateCenter": [
+                  {
+                    "latitude": 27.931133,
+                    "longitude": -82.802436
+                  },
+                  {
+                    "latitude": 27.931133,
+                    "longitude": -82.802636
+                  },
+                  {
+                    "latitude": 27.931233,
+                    "longitude": -82.802436
+                  },
+                  {
+                    "latitude": 27.931233,
+                    "longitude": -82.802636
+                  },
+                  {
+                    "latitude": 27.931033,
+                    "longitude": -82.802436
+                  },
+                  {
+                    "latitude": 27.931033,
+                    "longitude": -82.802636
+                  }
+                ],
+                "greenTemplateCenter": [
+                  {
+                    "latitude": 27.932735,
+                    "longitude": -82.801937
+                  },
+                  {
+                    "latitude": 27.932735,
+                    "longitude": -82.802137
+                  },
+                  {
+                    "latitude": 27.932835,
+                    "longitude": -82.801937
+                  },
+                  {
+                    "latitude": 27.932835,
+                    "longitude": -82.802137
+                  },
+                  {
+                    "latitude": 27.932635,
+                    "longitude": -82.801937
+                  },
+                  {
+                    "latitude": 27.932635,
+                    "longitude": -82.802137
+                  }
+                ],
+                "teeDrawingPattern": "3grp",
+                "greenDrawingPattern": "3grp",
+                "fairwayDrawingPattern": "3grp",
+                "number": 7,
+                "Par": 5,
+                "Yards": 495,
+                "image": "Hole6.png",
+                "page": "Hole6.html",
+                "description": "Pelican Golf Club’s par 5 on the front 9 requires an accurate tee shot navigating trees down the right and water and bunkers left.  One of the largest greens on property that has a significant slope from left to right.  If thehole location is front right, a player will certainly have a good look at birdie, if the hole location is tucked back left, a challenge awaits!",
+                "holeArt": {
+                  "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/pelican/holepics/7.jpg"
+                }
+              },
+              "noLocationProperties": [
+                {
+                  "latitude": 27.932735,
+                  "longitude": -82.80183699999999
+                },
+                {
+                  "latitude": 27.932735,
+                  "longitude": -82.802237
+                },
+                {
+                  "latitude": 27.932935,
+                  "longitude": -82.80183699999999
+                },
+                {
+                  "latitude": 27.932935,
+                  "longitude": -82.802237
+                },
+                {
+                  "latitude": 27.932535,
+                  "longitude": -82.80183699999999
+                },
+                {
+                  "latitude": 27.932535,
+                  "longitude": -82.802237
+                }
+              ]
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "TeeLocation": {
+                  "latitude": 27.933271,
+                  "longitude": -82.802911
+                },
+                "FlagLocation": {
+                  "latitude": 27.932306,
+                  "longitude": -82.805599
+                },
+                "FairwayLocation": {
+                  "latitude": 27.932991,
+                  "longitude": -82.803877
+                },
+                "teeTemplateCenter": [
+                  {
+                    "latitude": 27.933271,
+                    "longitude": -82.80281099999999
+                  },
+                  {
+                    "latitude": 27.933271,
+                    "longitude": -82.803011
+                  },
+                  {
+                    "latitude": 27.933371,
+                    "longitude": -82.80281099999999
+                  },
+                  {
+                    "latitude": 27.933371,
+                    "longitude": -82.803011
+                  },
+                  {
+                    "latitude": 27.933171,
+                    "longitude": -82.80281099999999
+                  },
+                  {
+                    "latitude": 27.933171,
+                    "longitude": -82.803011
+                  }
+                ],
+                "fairwayTemplateCenter": [
+                  {
+                    "latitude": 27.932991,
+                    "longitude": -82.803777
+                  },
+                  {
+                    "latitude": 27.932991,
+                    "longitude": -82.803977
+                  },
+                  {
+                    "latitude": 27.933091,
+                    "longitude": -82.803777
+                  },
+                  {
+                    "latitude": 27.933091,
+                    "longitude": -82.803977
+                  },
+                  {
+                    "latitude": 27.932891,
+                    "longitude": -82.803777
+                  },
+                  {
+                    "latitude": 27.932891,
+                    "longitude": -82.803977
+                  }
+                ],
+                "greenTemplateCenter": [
+                  {
+                    "latitude": 27.932306,
+                    "longitude": -82.805499
+                  },
+                  {
+                    "latitude": 27.932306,
+                    "longitude": -82.805699
+                  },
+                  {
+                    "latitude": 27.932406,
+                    "longitude": -82.805499
+                  },
+                  {
+                    "latitude": 27.932406,
+                    "longitude": -82.805699
+                  },
+                  {
+                    "latitude": 27.932206,
+                    "longitude": -82.805499
+                  },
+                  {
+                    "latitude": 27.932206,
+                    "longitude": -82.805699
+                  }
+                ],
+                "teeDrawingPattern": "3grp",
+                "greenDrawingPattern": "3grp",
+                "fairwayDrawingPattern": "3grp",
+                "number": 8,
+                "Par": 4,
+                "Yards": 425,
+                "image": "Hole7.png",
+                "page": "Hole7.html",
+                "description": "A brand new hole during Beau Welling’s re-design.  This picturesque par 4 has a treacherously narrow green that is both hidden and runs away from the player.  A 4 on the 8thhole at Pelican Golf Club is a great success.",
+                "holeArt": {
+                  "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/pelican/holepics/8.jpg"
+                }
+              },
+              "noLocationProperties": [
+                {
+                  "latitude": 27.932306,
+                  "longitude": -82.805399
+                },
+                {
+                  "latitude": 27.932306,
+                  "longitude": -82.80579900000001
+                },
+                {
+                  "latitude": 27.932506,
+                  "longitude": -82.805399
+                },
+                {
+                  "latitude": 27.932506,
+                  "longitude": -82.80579900000001
+                },
+                {
+                  "latitude": 27.932106,
+                  "longitude": -82.805399
+                },
+                {
+                  "latitude": 27.932106,
+                  "longitude": -82.80579900000001
+                }
+              ]
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "TeeLocation": {
+                  "latitude": 27.931745,
+                  "longitude": -82.80584
+                },
+                "FlagLocation": {
+                  "latitude": 27.931059,
+                  "longitude": -82.8065
+                },
+                "FairwayLocation": {
+                  "latitude": 27.931329,
+                  "longitude": -82.806138
+                },
+                "teeTemplateCenter": [
+                  {
+                    "latitude": 27.931745,
+                    "longitude": -82.80574
+                  },
+                  {
+                    "latitude": 27.931745,
+                    "longitude": -82.80594
+                  },
+                  {
+                    "latitude": 27.931845,
+                    "longitude": -82.80574
+                  },
+                  {
+                    "latitude": 27.931845,
+                    "longitude": -82.80594
+                  },
+                  {
+                    "latitude": 27.931645,
+                    "longitude": -82.80574
+                  },
+                  {
+                    "latitude": 27.931645,
+                    "longitude": -82.80594
+                  }
+                ],
+                "fairwayTemplateCenter": [
+                  {
+                    "latitude": 27.931329,
+                    "longitude": -82.806038
+                  },
+                  {
+                    "latitude": 27.931329,
+                    "longitude": -82.80623800000001
+                  },
+                  {
+                    "latitude": 27.931429,
+                    "longitude": -82.806038
+                  },
+                  {
+                    "latitude": 27.931429,
+                    "longitude": -82.80623800000001
+                  },
+                  {
+                    "latitude": 27.931229000000002,
+                    "longitude": -82.806038
+                  },
+                  {
+                    "latitude": 27.931229000000002,
+                    "longitude": -82.80623800000001
+                  }
+                ],
+                "greenTemplateCenter": [
+                  {
+                    "latitude": 27.931059,
+                    "longitude": -82.8064
+                  },
+                  {
+                    "latitude": 27.931059,
+                    "longitude": -82.8066
+                  },
+                  {
+                    "latitude": 27.931159,
+                    "longitude": -82.8064
+                  },
+                  {
+                    "latitude": 27.931159,
+                    "longitude": -82.8066
+                  },
+                  {
+                    "latitude": 27.930959,
+                    "longitude": -82.8064
+                  },
+                  {
+                    "latitude": 27.930959,
+                    "longitude": -82.8066
+                  }
+                ],
+                "teeDrawingPattern": "3grp",
+                "greenDrawingPattern": "3grp",
+                "fairwayDrawingPattern": "3grp",
+                "number": 9,
+                "Par": 3,
+                "Yards": 158,
+                "image": "Hole8.png",
+                "page": "Hole8.html",
+                "description": "A well calculated medium to short iron with provide plenty of birdie opportunities.  Players must navigate this undulating green and tucked hole locations with fear of water looming right.",
+                "holeArt": {
+                  "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/pelican/holepics/9.jpg"
+                }
+              },
+              "noLocationProperties": [
+                {
+                  "latitude": 27.931059,
+                  "longitude": -82.8063
+                },
+                {
+                  "latitude": 27.931059,
+                  "longitude": -82.8067
+                },
+                {
+                  "latitude": 27.931259,
+                  "longitude": -82.8063
+                },
+                {
+                  "latitude": 27.931259,
+                  "longitude": -82.8067
+                },
+                {
+                  "latitude": 27.930859,
+                  "longitude": -82.8063
+                },
+                {
+                  "latitude": 27.930859,
+                  "longitude": -82.8067
+                }
+              ]
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "TeeLocation": {
+                  "latitude": 27.929667,
+                  "longitude": -82.807846
+                },
+                "FlagLocation": {
+                  "latitude": 27.926913,
+                  "longitude": -82.805016
+                },
+                "FairwayLocation": {
+                  "latitude": 27.927695,
+                  "longitude": -82.805789
+                },
+                "teeTemplateCenter": [
+                  {
+                    "latitude": 27.929667,
+                    "longitude": -82.807746
+                  },
+                  {
+                    "latitude": 27.929667,
+                    "longitude": -82.807946
+                  },
+                  {
+                    "latitude": 27.929767,
+                    "longitude": -82.807746
+                  },
+                  {
+                    "latitude": 27.929767,
+                    "longitude": -82.807946
+                  },
+                  {
+                    "latitude": 27.929567,
+                    "longitude": -82.807746
+                  },
+                  {
+                    "latitude": 27.929567,
+                    "longitude": -82.807946
+                  }
+                ],
+                "fairwayTemplateCenter": [
+                  {
+                    "latitude": 27.927695,
+                    "longitude": -82.805689
+                  },
+                  {
+                    "latitude": 27.927695,
+                    "longitude": -82.80588900000001
+                  },
+                  {
+                    "latitude": 27.927795,
+                    "longitude": -82.805689
+                  },
+                  {
+                    "latitude": 27.927795,
+                    "longitude": -82.80588900000001
+                  },
+                  {
+                    "latitude": 27.927595,
+                    "longitude": -82.805689
+                  },
+                  {
+                    "latitude": 27.927595,
+                    "longitude": -82.80588900000001
+                  }
+                ],
+                "greenTemplateCenter": [
+                  {
+                    "latitude": 27.926913,
+                    "longitude": -82.80491599999999
+                  },
+                  {
+                    "latitude": 27.926913,
+                    "longitude": -82.805116
+                  },
+                  {
+                    "latitude": 27.927013,
+                    "longitude": -82.80491599999999
+                  },
+                  {
+                    "latitude": 27.927013,
+                    "longitude": -82.805116
+                  },
+                  {
+                    "latitude": 27.926813,
+                    "longitude": -82.80491599999999
+                  },
+                  {
+                    "latitude": 27.926813,
+                    "longitude": -82.805116
+                  }
+                ],
+                "teeDrawingPattern": "3grp",
+                "greenDrawingPattern": "3grp",
+                "fairwayDrawingPattern": "3grp",
+                "number": 10,
+                "Par": 4,
+                "Yards": 420,
+                "image": "Hole9.png",
+                "page": "Hole9.html",
+                "description": "A long, straight par 4 requires a substantial tee shot for a mid-length second shot.  This green is the largest on the property and features an elevated front tier.  Distance control is a must.",
+                "holeArt": {
+                  "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/pelican/holepics/10.jpg"
+                }
+              },
+              "noLocationProperties": [
+                {
+                  "latitude": 27.926913,
+                  "longitude": -82.80481599999999
+                },
+                {
+                  "latitude": 27.926913,
+                  "longitude": -82.805216
+                },
+                {
+                  "latitude": 27.927113,
+                  "longitude": -82.80481599999999
+                },
+                {
+                  "latitude": 27.927113,
+                  "longitude": -82.805216
+                },
+                {
+                  "latitude": 27.926713,
+                  "longitude": -82.80481599999999
+                },
+                {
+                  "latitude": 27.926713,
+                  "longitude": -82.805216
+                }
+              ]
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "TeeLocation": {
+                  "latitude": 27.926359,
+                  "longitude": -82.804757
+                },
+                "FlagLocation": {
+                  "latitude": 27.927089,
+                  "longitude": -82.808009
+                },
+                "FairwayLocation": {
+                  "latitude": 27.927127,
+                  "longitude": -82.806612
+                },
+                "teeTemplateCenter": [
+                  {
+                    "latitude": 27.926359,
+                    "longitude": -82.80465699999999
+                  },
+                  {
+                    "latitude": 27.926359,
+                    "longitude": -82.804857
+                  },
+                  {
+                    "latitude": 27.926459,
+                    "longitude": -82.80465699999999
+                  },
+                  {
+                    "latitude": 27.926459,
+                    "longitude": -82.804857
+                  },
+                  {
+                    "latitude": 27.926259,
+                    "longitude": -82.80465699999999
+                  },
+                  {
+                    "latitude": 27.926259,
+                    "longitude": -82.804857
+                  }
+                ],
+                "fairwayTemplateCenter": [
+                  {
+                    "latitude": 27.927127,
+                    "longitude": -82.806512
+                  },
+                  {
+                    "latitude": 27.927127,
+                    "longitude": -82.806712
+                  },
+                  {
+                    "latitude": 27.927227,
+                    "longitude": -82.806512
+                  },
+                  {
+                    "latitude": 27.927227,
+                    "longitude": -82.806712
+                  },
+                  {
+                    "latitude": 27.927027,
+                    "longitude": -82.806512
+                  },
+                  {
+                    "latitude": 27.927027,
+                    "longitude": -82.806712
+                  }
+                ],
+                "greenTemplateCenter": [
+                  {
+                    "latitude": 27.927089,
+                    "longitude": -82.807909
+                  },
+                  {
+                    "latitude": 27.927089,
+                    "longitude": -82.808109
+                  },
+                  {
+                    "latitude": 27.927189,
+                    "longitude": -82.807909
+                  },
+                  {
+                    "latitude": 27.927189,
+                    "longitude": -82.808109
+                  },
+                  {
+                    "latitude": 27.926989,
+                    "longitude": -82.807909
+                  },
+                  {
+                    "latitude": 27.926989,
+                    "longitude": -82.808109
+                  }
+                ],
+                "teeDrawingPattern": "3grp",
+                "greenDrawingPattern": "3grp",
+                "fairwayDrawingPattern": "3grp",
+                "number": 11,
+                "Par": 4,
+                "Yards": 381,
+                "image": "Hole10.png",
+                "page": "Hole10.html",
+                "description": "A beautiful par 4 that winds softly to the left.  A good drive stays right of the first bunker and short of the second.  Players will have a short iron to this relatively flat green.  A great hole for a close birdie chance.",
+                "holeArt": {
+                  "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/pelican/holepics/11.jpg"
+                }
+              },
+              "noLocationProperties": [
+                {
+                  "latitude": 27.927089,
+                  "longitude": -82.80780899999999
+                },
+                {
+                  "latitude": 27.927089,
+                  "longitude": -82.808209
+                },
+                {
+                  "latitude": 27.927289,
+                  "longitude": -82.80780899999999
+                },
+                {
+                  "latitude": 27.927289,
+                  "longitude": -82.808209
+                },
+                {
+                  "latitude": 27.926889,
+                  "longitude": -82.80780899999999
+                },
+                {
+                  "latitude": 27.926889,
+                  "longitude": -82.808209
+                }
+              ]
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "TeeLocation": {
+                  "latitude": 27.928262,
+                  "longitude": -82.808376
+                },
+                "FlagLocation": {
+                  "latitude": 27.927075,
+                  "longitude": -82.808895
+                },
+                "FairwayLocation": {
+                  "latitude": 27.928087,
+                  "longitude": -82.808507
+                },
+                "teeTemplateCenter": [
+                  {
+                    "latitude": 27.928262,
+                    "longitude": -82.80827599999999
+                  },
+                  {
+                    "latitude": 27.928262,
+                    "longitude": -82.808476
+                  },
+                  {
+                    "latitude": 27.928362,
+                    "longitude": -82.80827599999999
+                  },
+                  {
+                    "latitude": 27.928362,
+                    "longitude": -82.808476
+                  },
+                  {
+                    "latitude": 27.928162,
+                    "longitude": -82.80827599999999
+                  },
+                  {
+                    "latitude": 27.928162,
+                    "longitude": -82.808476
+                  }
+                ],
+                "fairwayTemplateCenter": [
+                  {
+                    "latitude": 27.928087,
+                    "longitude": -82.808407
+                  },
+                  {
+                    "latitude": 27.928087,
+                    "longitude": -82.80860700000001
+                  },
+                  {
+                    "latitude": 27.928187,
+                    "longitude": -82.808407
+                  },
+                  {
+                    "latitude": 27.928187,
+                    "longitude": -82.80860700000001
+                  },
+                  {
+                    "latitude": 27.927987,
+                    "longitude": -82.808407
+                  },
+                  {
+                    "latitude": 27.927987,
+                    "longitude": -82.80860700000001
+                  }
+                ],
+                "greenTemplateCenter": [
+                  {
+                    "latitude": 27.927075,
+                    "longitude": -82.808795
+                  },
+                  {
+                    "latitude": 27.927075,
+                    "longitude": -82.80899500000001
+                  },
+                  {
+                    "latitude": 27.927175,
+                    "longitude": -82.808795
+                  },
+                  {
+                    "latitude": 27.927175,
+                    "longitude": -82.80899500000001
+                  },
+                  {
+                    "latitude": 27.926975,
+                    "longitude": -82.808795
+                  },
+                  {
+                    "latitude": 27.926975,
+                    "longitude": -82.80899500000001
+                  }
+                ],
+                "teeDrawingPattern": "3grp",
+                "greenDrawingPattern": "3grp",
+                "fairwayDrawingPattern": "3grp",
+                "number": 12,
+                "Par": 3,
+                "Yards": 143,
+                "image": "Hole11.png",
+                "page": "Hole11.html",
+                "description": "A diabolical short par 3 12th awaits players.  Water guards the front of the putting surface and getting up-and-down from long is no guarantee.  The green has a large swale in the middle and is known as a sideways Biarritz.  Being on the proper section is crucial.",
+                "holeArt": {
+                  "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/pelican/holepics/12.jpg"
+                }
+              },
+              "noLocationProperties": [
+                {
+                  "latitude": 27.927075,
+                  "longitude": -82.808695
+                },
+                {
+                  "latitude": 27.927075,
+                  "longitude": -82.80909500000001
+                },
+                {
+                  "latitude": 27.927274999999998,
+                  "longitude": -82.808695
+                },
+                {
+                  "latitude": 27.927274999999998,
+                  "longitude": -82.80909500000001
+                },
+                {
+                  "latitude": 27.926875,
+                  "longitude": -82.808695
+                },
+                {
+                  "latitude": 27.926875,
+                  "longitude": -82.80909500000001
+                }
+              ]
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "TeeLocation": {
+                  "latitude": 27.926742,
+                  "longitude": -82.808796
+                },
+                "FlagLocation": {
+                  "latitude": 27.925917,
+                  "longitude": -82.804837
+                },
+                "FairwayLocation": {
+                  "latitude": 27.926278,
+                  "longitude": -82.806285
+                },
+                "teeTemplateCenter": [
+                  {
+                    "latitude": 27.926742,
+                    "longitude": -82.808696
+                  },
+                  {
+                    "latitude": 27.926742,
+                    "longitude": -82.808896
+                  },
+                  {
+                    "latitude": 27.926842,
+                    "longitude": -82.808696
+                  },
+                  {
+                    "latitude": 27.926842,
+                    "longitude": -82.808896
+                  },
+                  {
+                    "latitude": 27.926642,
+                    "longitude": -82.808696
+                  },
+                  {
+                    "latitude": 27.926642,
+                    "longitude": -82.808896
+                  }
+                ],
+                "fairwayTemplateCenter": [
+                  {
+                    "latitude": 27.926278,
+                    "longitude": -82.806185
+                  },
+                  {
+                    "latitude": 27.926278,
+                    "longitude": -82.806385
+                  },
+                  {
+                    "latitude": 27.926378,
+                    "longitude": -82.806185
+                  },
+                  {
+                    "latitude": 27.926378,
+                    "longitude": -82.806385
+                  },
+                  {
+                    "latitude": 27.926178,
+                    "longitude": -82.806185
+                  },
+                  {
+                    "latitude": 27.926178,
+                    "longitude": -82.806385
+                  }
+                ],
+                "greenTemplateCenter": [
+                  {
+                    "latitude": 27.925917,
+                    "longitude": -82.804737
+                  },
+                  {
+                    "latitude": 27.925917,
+                    "longitude": -82.80493700000001
+                  },
+                  {
+                    "latitude": 27.926016999999998,
+                    "longitude": -82.804737
+                  },
+                  {
+                    "latitude": 27.926016999999998,
+                    "longitude": -82.80493700000001
+                  },
+                  {
+                    "latitude": 27.925817,
+                    "longitude": -82.804737
+                  },
+                  {
+                    "latitude": 27.925817,
+                    "longitude": -82.80493700000001
+                  }
+                ],
+                "teeDrawingPattern": "3grp",
+                "greenDrawingPattern": "3grp",
+                "fairwayDrawingPattern": "3grp",
+                "number": 13,
+                "Par": 4,
+                "Yards": 435,
+                "image": "Hole12.png",
+                "page": "Hole12.html",
+                "description": "The longest par 4 the players will face.  Grip it and rip it as the fairway is generous.  Players will want to avoid the left greenside bunker with certain hole locations as this green is sloped back left to front right.",
+                "holeArt": {
+                  "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/pelican/holepics/13.jpg"
+                }
+              },
+              "noLocationProperties": [
+                {
+                  "latitude": 27.925917,
+                  "longitude": -82.804637
+                },
+                {
+                  "latitude": 27.925917,
+                  "longitude": -82.80503700000001
+                },
+                {
+                  "latitude": 27.926116999999998,
+                  "longitude": -82.804637
+                },
+                {
+                  "latitude": 27.926116999999998,
+                  "longitude": -82.80503700000001
+                },
+                {
+                  "latitude": 27.925717,
+                  "longitude": -82.804637
+                },
+                {
+                  "latitude": 27.925717,
+                  "longitude": -82.80503700000001
+                }
+              ]
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "TeeLocation": {
+                  "latitude": 27.925508,
+                  "longitude": -82.805506
+                },
+                "FlagLocation": {
+                  "latitude": 27.926352,
+                  "longitude": -82.809186
+                },
+                "FairwayLocation": {
+                  "latitude": 27.925911,
+                  "longitude": -82.807416
+                },
+                "teeTemplateCenter": [
+                  {
+                    "latitude": 27.925508,
+                    "longitude": -82.80540599999999
+                  },
+                  {
+                    "latitude": 27.925508,
+                    "longitude": -82.805606
+                  },
+                  {
+                    "latitude": 27.925608,
+                    "longitude": -82.80540599999999
+                  },
+                  {
+                    "latitude": 27.925608,
+                    "longitude": -82.805606
+                  },
+                  {
+                    "latitude": 27.925408,
+                    "longitude": -82.80540599999999
+                  },
+                  {
+                    "latitude": 27.925408,
+                    "longitude": -82.805606
+                  }
+                ],
+                "fairwayTemplateCenter": [
+                  {
+                    "latitude": 27.925911,
+                    "longitude": -82.807316
+                  },
+                  {
+                    "latitude": 27.925911,
+                    "longitude": -82.807516
+                  },
+                  {
+                    "latitude": 27.926011,
+                    "longitude": -82.807316
+                  },
+                  {
+                    "latitude": 27.926011,
+                    "longitude": -82.807516
+                  },
+                  {
+                    "latitude": 27.925811,
+                    "longitude": -82.807316
+                  },
+                  {
+                    "latitude": 27.925811,
+                    "longitude": -82.807516
+                  }
+                ],
+                "greenTemplateCenter": [
+                  {
+                    "latitude": 27.926352,
+                    "longitude": -82.809086
+                  },
+                  {
+                    "latitude": 27.926352,
+                    "longitude": -82.809286
+                  },
+                  {
+                    "latitude": 27.926452,
+                    "longitude": -82.809086
+                  },
+                  {
+                    "latitude": 27.926452,
+                    "longitude": -82.809286
+                  },
+                  {
+                    "latitude": 27.926252,
+                    "longitude": -82.809086
+                  },
+                  {
+                    "latitude": 27.926252,
+                    "longitude": -82.809286
+                  }
+                ],
+                "teeDrawingPattern": "3grp",
+                "greenDrawingPattern": "3grp",
+                "fairwayDrawingPattern": "3grp",
+                "number": 14,
+                "Par": 5,
+                "Yards": 191,
+                "image": "Hole13.png",
+                "page": "Hole13.html",
+                "description": "The only par 5 on the back 9 allows players a chance to reach the green in two when downwind.  A well navigated tee shot avoids the left and right bunkers.  Any score above 4 will be a disappointment.",
+                "holeArt": {
+                  "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/pelican/holepics/14.jpg"
+                }
+              },
+              "noLocationProperties": [
+                {
+                  "latitude": 27.926352,
+                  "longitude": -82.80898599999999
+                },
+                {
+                  "latitude": 27.926352,
+                  "longitude": -82.809386
+                },
+                {
+                  "latitude": 27.926552,
+                  "longitude": -82.80898599999999
+                },
+                {
+                  "latitude": 27.926552,
+                  "longitude": -82.809386
+                },
+                {
+                  "latitude": 27.926152000000002,
+                  "longitude": -82.80898599999999
+                },
+                {
+                  "latitude": 27.926152000000002,
+                  "longitude": -82.809386
+                }
+              ]
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "TeeLocation": {
+                  "latitude": 27.926056,
+                  "longitude": -82.809395
+                },
+                "FlagLocation": {
+                  "latitude": 27.925364,
+                  "longitude": -82.807861
+                },
+                "FairwayLocation": {
+                  "latitude": 27.925686,
+                  "longitude": -82.808633
+                },
+                "teeTemplateCenter": [
+                  {
+                    "latitude": 27.926056,
+                    "longitude": -82.80929499999999
+                  },
+                  {
+                    "latitude": 27.926056,
+                    "longitude": -82.809495
+                  },
+                  {
+                    "latitude": 27.926156,
+                    "longitude": -82.80929499999999
+                  },
+                  {
+                    "latitude": 27.926156,
+                    "longitude": -82.809495
+                  },
+                  {
+                    "latitude": 27.925956,
+                    "longitude": -82.80929499999999
+                  },
+                  {
+                    "latitude": 27.925956,
+                    "longitude": -82.809495
+                  }
+                ],
+                "fairwayTemplateCenter": [
+                  {
+                    "latitude": 27.925686,
+                    "longitude": -82.808533
+                  },
+                  {
+                    "latitude": 27.925686,
+                    "longitude": -82.808733
+                  },
+                  {
+                    "latitude": 27.925786,
+                    "longitude": -82.808533
+                  },
+                  {
+                    "latitude": 27.925786,
+                    "longitude": -82.808733
+                  },
+                  {
+                    "latitude": 27.925586,
+                    "longitude": -82.808533
+                  },
+                  {
+                    "latitude": 27.925586,
+                    "longitude": -82.808733
+                  }
+                ],
+                "greenTemplateCenter": [
+                  {
+                    "latitude": 27.925364,
+                    "longitude": -82.807761
+                  },
+                  {
+                    "latitude": 27.925364,
+                    "longitude": -82.807961
+                  },
+                  {
+                    "latitude": 27.925463999999998,
+                    "longitude": -82.807761
+                  },
+                  {
+                    "latitude": 27.925463999999998,
+                    "longitude": -82.807961
+                  },
+                  {
+                    "latitude": 27.925264,
+                    "longitude": -82.807761
+                  },
+                  {
+                    "latitude": 27.925264,
+                    "longitude": -82.807961
+                  }
+                ],
+                "teeDrawingPattern": "3grp",
+                "greenDrawingPattern": "3grp",
+                "fairwayDrawingPattern": "3grp",
+                "number": 15,
+                "Par": 3,
+                "Yards": 191,
+                "image": "Hole14.png",
+                "page": "Hole14.html",
+                "description": "A stunning long par 3 with a captivating bunker short right.  Players can use the ground contour to feed the ball on the green or get aggressive and fly it there.  When the hole location is back left, par is a great score!",
+                "holeArt": {
+                  "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/pelican/holepics/15.jpg"
+                }
+              },
+              "noLocationProperties": [
+                {
+                  "latitude": 27.925364,
+                  "longitude": -82.807661
+                },
+                {
+                  "latitude": 27.925364,
+                  "longitude": -82.80806100000001
+                },
+                {
+                  "latitude": 27.925563999999998,
+                  "longitude": -82.807661
+                },
+                {
+                  "latitude": 27.925563999999998,
+                  "longitude": -82.80806100000001
+                },
+                {
+                  "latitude": 27.925164,
+                  "longitude": -82.807661
+                },
+                {
+                  "latitude": 27.925164,
+                  "longitude": -82.80806100000001
+                }
+              ]
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "TeeLocation": {
+                  "latitude": 27.925025,
+                  "longitude": -82.807186
+                },
+                "FlagLocation": {
+                  "latitude": 27.925021,
+                  "longitude": -82.804052
+                },
+                "FairwayLocation": {
+                  "latitude": 27.925049,
+                  "longitude": -82.805464
+                },
+                "teeTemplateCenter": [
+                  {
+                    "latitude": 27.925025,
+                    "longitude": -82.807086
+                  },
+                  {
+                    "latitude": 27.925025,
+                    "longitude": -82.807286
+                  },
+                  {
+                    "latitude": 27.925125,
+                    "longitude": -82.807086
+                  },
+                  {
+                    "latitude": 27.925125,
+                    "longitude": -82.807286
+                  },
+                  {
+                    "latitude": 27.924925,
+                    "longitude": -82.807086
+                  },
+                  {
+                    "latitude": 27.924925,
+                    "longitude": -82.807286
+                  }
+                ],
+                "fairwayTemplateCenter": [
+                  {
+                    "latitude": 27.925049,
+                    "longitude": -82.805364
+                  },
+                  {
+                    "latitude": 27.925049,
+                    "longitude": -82.805564
+                  },
+                  {
+                    "latitude": 27.925149,
+                    "longitude": -82.805364
+                  },
+                  {
+                    "latitude": 27.925149,
+                    "longitude": -82.805564
+                  },
+                  {
+                    "latitude": 27.924949,
+                    "longitude": -82.805364
+                  },
+                  {
+                    "latitude": 27.924949,
+                    "longitude": -82.805564
+                  }
+                ],
+                "greenTemplateCenter": [
+                  {
+                    "latitude": 27.925021,
+                    "longitude": -82.803952
+                  },
+                  {
+                    "latitude": 27.925021,
+                    "longitude": -82.804152
+                  },
+                  {
+                    "latitude": 27.925121,
+                    "longitude": -82.803952
+                  },
+                  {
+                    "latitude": 27.925121,
+                    "longitude": -82.804152
+                  },
+                  {
+                    "latitude": 27.924921,
+                    "longitude": -82.803952
+                  },
+                  {
+                    "latitude": 27.924921,
+                    "longitude": -82.804152
+                  }
+                ],
+                "teeDrawingPattern": "3grp",
+                "greenDrawingPattern": "3grp",
+                "fairwayDrawingPattern": "3grp",
+                "number": 16,
+                "Par": 4,
+                "Yards": 388,
+                "image": "Hole15.png",
+                "page": "Hole15.html",
+                "description": "A favorite amongst many of the members.  This beautiful par 4 has water nestled next to the green leaving for a scary second shot.  Players who bail right will be faced with a diabolical short game challenge.",
+                "holeArt": {
+                  "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/pelican/holepics/16.jpg"
+                }
+              },
+              "noLocationProperties": [
+                {
+                  "latitude": 27.925021,
+                  "longitude": -82.80385199999999
+                },
+                {
+                  "latitude": 27.925021,
+                  "longitude": -82.804252
+                },
+                {
+                  "latitude": 27.925221,
+                  "longitude": -82.80385199999999
+                },
+                {
+                  "latitude": 27.925221,
+                  "longitude": -82.804252
+                },
+                {
+                  "latitude": 27.924821,
+                  "longitude": -82.80385199999999
+                },
+                {
+                  "latitude": 27.924821,
+                  "longitude": -82.804252
+                }
+              ]
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "TeeLocation": {
+                  "latitude": 27.925924,
+                  "longitude": -82.803667
+                },
+                "FlagLocation": {
+                  "latitude": 27.927571,
+                  "longitude": -82.804861
+                },
+                "FairwayLocation": {
+                  "latitude": 27.926812,
+                  "longitude": -82.804043
+                },
+                "teeTemplateCenter": [
+                  {
+                    "latitude": 27.925924,
+                    "longitude": -82.803567
+                  },
+                  {
+                    "latitude": 27.925924,
+                    "longitude": -82.80376700000001
+                  },
+                  {
+                    "latitude": 27.926023999999998,
+                    "longitude": -82.803567
+                  },
+                  {
+                    "latitude": 27.926023999999998,
+                    "longitude": -82.80376700000001
+                  },
+                  {
+                    "latitude": 27.925824,
+                    "longitude": -82.803567
+                  },
+                  {
+                    "latitude": 27.925824,
+                    "longitude": -82.80376700000001
+                  }
+                ],
+                "fairwayTemplateCenter": [
+                  {
+                    "latitude": 27.926812,
+                    "longitude": -82.80394299999999
+                  },
+                  {
+                    "latitude": 27.926812,
+                    "longitude": -82.804143
+                  },
+                  {
+                    "latitude": 27.926912,
+                    "longitude": -82.80394299999999
+                  },
+                  {
+                    "latitude": 27.926912,
+                    "longitude": -82.804143
+                  },
+                  {
+                    "latitude": 27.926712000000002,
+                    "longitude": -82.80394299999999
+                  },
+                  {
+                    "latitude": 27.926712000000002,
+                    "longitude": -82.804143
+                  }
+                ],
+                "greenTemplateCenter": [
+                  {
+                    "latitude": 27.927571,
+                    "longitude": -82.804761
+                  },
+                  {
+                    "latitude": 27.927571,
+                    "longitude": -82.804961
+                  },
+                  {
+                    "latitude": 27.927671,
+                    "longitude": -82.804761
+                  },
+                  {
+                    "latitude": 27.927671,
+                    "longitude": -82.804961
+                  },
+                  {
+                    "latitude": 27.927471,
+                    "longitude": -82.804761
+                  },
+                  {
+                    "latitude": 27.927471,
+                    "longitude": -82.804961
+                  }
+                ],
+                "teeDrawingPattern": "3grp",
+                "greenDrawingPattern": "3grp",
+                "fairwayDrawingPattern": "3grp",
+                "number": 17,
+                "Par": 4,
+                "Yards": 340,
+                "image": "Hole16.png",
+                "page": "Hole16.html",
+                "description": "Although a short hole on the scorecard, it frequently plays into the wind.  Players will be greeted with a large driving area but a shallow green front-to-back, requiring a precision second shot.  Avoiding the left bunkers off the tee is a must.",
+                "holeArt": {
+                  "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/pelican/holepics/17.jpg"
+                }
+              },
+              "noLocationProperties": [
+                {
+                  "latitude": 27.927571,
+                  "longitude": -82.804661
+                },
+                {
+                  "latitude": 27.927571,
+                  "longitude": -82.80506100000001
+                },
+                {
+                  "latitude": 27.927771,
+                  "longitude": -82.804661
+                },
+                {
+                  "latitude": 27.927771,
+                  "longitude": -82.80506100000001
+                },
+                {
+                  "latitude": 27.927371,
+                  "longitude": -82.804661
+                },
+                {
+                  "latitude": 27.927371,
+                  "longitude": -82.80506100000001
+                }
+              ]
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "TeeLocation": {
+                  "latitude": 27.92794,
+                  "longitude": -82.804686
+                },
+                "FlagLocation": {
+                  "latitude": 27.930491,
+                  "longitude": -82.807582
+                },
+                "FairwayLocation": {
+                  "latitude": 27.929197,
+                  "longitude": -82.806424
+                },
+                "teeTemplateCenter": [
+                  {
+                    "latitude": 27.92794,
+                    "longitude": -82.804586
+                  },
+                  {
+                    "latitude": 27.92794,
+                    "longitude": -82.80478600000001
+                  },
+                  {
+                    "latitude": 27.92804,
+                    "longitude": -82.804586
+                  },
+                  {
+                    "latitude": 27.92804,
+                    "longitude": -82.80478600000001
+                  },
+                  {
+                    "latitude": 27.92784,
+                    "longitude": -82.804586
+                  },
+                  {
+                    "latitude": 27.92784,
+                    "longitude": -82.80478600000001
+                  }
+                ],
+                "fairwayTemplateCenter": [
+                  {
+                    "latitude": 27.929197,
+                    "longitude": -82.806324
+                  },
+                  {
+                    "latitude": 27.929197,
+                    "longitude": -82.80652400000001
+                  },
+                  {
+                    "latitude": 27.929297,
+                    "longitude": -82.806324
+                  },
+                  {
+                    "latitude": 27.929297,
+                    "longitude": -82.80652400000001
+                  },
+                  {
+                    "latitude": 27.929097,
+                    "longitude": -82.806324
+                  },
+                  {
+                    "latitude": 27.929097,
+                    "longitude": -82.80652400000001
+                  }
+                ],
+                "greenTemplateCenter": [
+                  {
+                    "latitude": 27.930491,
+                    "longitude": -82.807482
+                  },
+                  {
+                    "latitude": 27.930491,
+                    "longitude": -82.807682
+                  },
+                  {
+                    "latitude": 27.930591,
+                    "longitude": -82.807482
+                  },
+                  {
+                    "latitude": 27.930591,
+                    "longitude": -82.807682
+                  },
+                  {
+                    "latitude": 27.930391,
+                    "longitude": -82.807482
+                  },
+                  {
+                    "latitude": 27.930391,
+                    "longitude": -82.807682
+                  }
+                ],
+                "teeDrawingPattern": "3grp",
+                "greenDrawingPattern": "3grp",
+                "fairwayDrawingPattern": "3grp",
+                "number": 18,
+                "Par": 4,
+                "Yards": 428,
+                "image": "Hole17.png",
+                "page": "Hole17.html",
+                "description": "A strong finishing hole for Pelican Golf Club with the magnificent clubhouse framing the green.  A second shot with a long club to a green with water short will keep players focused until the final putt drops!",
+                "holeArt": {
+                  "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/pelican/holepics/18.jpg"
+                }
+              },
+              "noLocationProperties": [
+                {
+                  "latitude": 27.930491,
+                  "longitude": -82.80738199999999
+                },
+                {
+                  "latitude": 27.930491,
+                  "longitude": -82.807782
+                },
+                {
+                  "latitude": 27.930691,
+                  "longitude": -82.80738199999999
+                },
+                {
+                  "latitude": 27.930691,
+                  "longitude": -82.807782
+                },
+                {
+                  "latitude": 27.930291,
+                  "longitude": -82.80738199999999
+                },
+                {
+                  "latitude": 27.930291,
+                  "longitude": -82.807782
+                }
+              ]
+            }
+          ],
+        "type": "FeatureCollection",
+        "initialRegion": {
+            "latitude": 27.929026, 
+            "longitude": -82.804837,
+            "latitudeDelta": 0.0200,
+            "longitudeDelta": 0.0020
+        },
+        "maxDelta": 0.05,
+        "courseGeoFence": [
+            {
+                "latitude": 27.933823, 
+                "longitude": -82.805888
+            },
+            {
+                "latitude": 27.930695, 
+                "longitude": -82.808871
+            },
+            {
+                "latitude": 27.926296, 
+                "longitude": -82.810309
+            },
+            {
+                "latitude": 27.925140, 
+                "longitude": -82.802992
+            },
+            {
+                "latitude": 27.927718, 
+                "longitude": -82.800588
+            },
+            {
+                "latitude": 27.933823, 
+                "longitude": -82.801125
+            }
+        ],
+        "courseFileVersion": "v0.0.2",
+        "tournamentActive": "no",
+        "tournamentNotActiveText": "There is not an active LPGA Fan Experience Tournament. Please try refreshing the application with the button below at a later time.",
+        "tournamentLogo": {
+            "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/pelican/logo.png"
+        },
+        "tournamentBackgroundImage": {
+            "uri": "https://lpga-fan-experience-app.s3.amazonaws.com/pelican/bg.jpg"
+        },
+        "courseName": "Pelican Golf Club",
+        "courseLocation": "Belleair, FL",
+        "courseLogo": {
+            "uri": "http://www.cmegrouptourchampionship.com/-/media/images/lpga/cme-group/sponsors/2018Tiburon_140x120"
+        }
+    }
+}

@@ -87,7 +87,7 @@ mockFeed288 = () => {
 // read course data from a file
 courseFunc = () => {
     console.log("loading course config")
-    let fileName = 'LPGA-Drive-On-2020.json'
+    let fileName = 'Pelican-2020.json'
     let raw = fs.readFileSync(fileName, 'utf8')
     let someText = raw.replace(/(\r\n\t|\n|\r\t)/gm, "");
     let t = JSON.parse(someText)
